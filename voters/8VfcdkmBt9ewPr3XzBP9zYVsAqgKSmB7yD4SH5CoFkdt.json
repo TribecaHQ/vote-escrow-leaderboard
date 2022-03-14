@@ -1,0 +1,38 @@
+{
+  "name": "Acumen DAO",
+  "updatedAt": "2022-03-14T00:07:44.059Z",
+  "count": 3,
+  "totalVotes": "25912.989115358",
+  "voters": [
+    {
+      "escrow": "B6hYwqGKTdn2rjPkB2Svjp4J7DdiUxEaKS6YCTXJGdp1",
+      "amount": "22000",
+      "owner": "D1pKrsXgvyXawk4BmivPnV1ZECLmCwXhMW34okTpBrj1",
+      "escrowStartedAt": "2022-03-11T09:44:03.000Z",
+      "escrowEndsAt": "2022-10-11T09:21:33.000Z",
+      "tokenAccount": "2YvhR8KnhMrqqeYjAVGCQTuLxTXrwtvxqULEsRUzDb59",
+      "latestPower": "25481.981354642",
+      "share": "98.34"
+    },
+    {
+      "escrow": "Fmer7GzEogrBcMqkQrJJviX8wTVm3jwb5wVZ74H7i8Tx",
+      "amount": "16805.809982047",
+      "owner": "8DUt4hCibfHYGx51R3AJiKevfay7iZCsSemU4NQo86en",
+      "escrowStartedAt": "2022-03-11T12:18:25.000Z",
+      "escrowEndsAt": "2022-03-18T12:18:25.000Z",
+      "tokenAccount": "DF7RNbQ6KmfViJX7VLYbxi1gRmpJwhxyreAihjUXJfAM",
+      "latestPower": "415.075155811",
+      "share": "1.60"
+    },
+    {
+      "escrow": "1eLZxWezn399o7ZBQQjH3EWAeKNdFXWTLXzZLF3LWR6",
+      "amount": "597.134693914",
+      "owner": "AbgicEN3npoAGUvZCJWpkLkniVxnEdcsFnTHCcmhfUKF",
+      "escrowStartedAt": "2022-03-11T20:59:40.000Z",
+      "escrowEndsAt": "2022-03-18T20:59:40.000Z",
+      "tokenAccount": "FzjHjv8VrFTGNUrf66RUQguR2gwPdiKzYYadjiVsAQyr",
+      "latestPower": "15.932604905",
+      "share": "0.06"
+    }
+  ]
+}
