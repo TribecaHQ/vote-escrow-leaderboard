@@ -1,8 +1,8 @@
 {
   "name": "Soluna",
-  "updatedAt": "2022-03-22T00:07:07.426Z",
-  "count": 1,
-  "totalVotes": "1997.726661",
+  "updatedAt": "2022-03-23T00:06:38.433Z",
+  "count": 2,
+  "totalVotes": "1996.349544",
   "voters": [
     {
       "escrow": "E8zTiNTiQbJ1ghex5cpCV4PomtBCvaFAAR35HLHupMLE",
@@ -11,8 +11,18 @@
       "escrowStartedAt": "2022-03-21T14:09:39.000Z",
       "escrowEndsAt": "2023-03-21T14:09:39.000Z",
       "tokenAccount": "4sw7CvvSt76U7RBNvJisSbnRkKjzvATkGGsLuwWTj7St",
-      "latestPower": "1997.726661",
-      "share": "100.00"
+      "latestPower": "1992.249048",
+      "share": "99.79"
+    },
+    {
+      "escrow": "zwTLmGe3T4Ai8tcT4ewGMgc3J8idwGdvyCdGAtgrENg",
+      "amount": "0.410136",
+      "owner": "FWBm1f5jjGwR8Jou6pXLfd6uPmzCWqEAeeEDyQbCEeDn",
+      "escrowStartedAt": "2022-03-22T14:53:28.000Z",
+      "escrowEndsAt": "2027-03-21T14:53:28.000Z",
+      "tokenAccount": "4i4pGee19XChRCWSDATCK3njPGbBpPLGM9YqqvhVsnbQ",
+      "latestPower": "4.100496",
+      "share": "0.21"
     }
   ]
 }
