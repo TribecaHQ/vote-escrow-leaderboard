@@ -1,8 +1,8 @@
 {
   "name": "GGA Test DAO",
-  "updatedAt": "2022-10-08T00:12:49.202Z",
+  "updatedAt": "2022-10-09T00:12:05.683Z",
   "count": 5,
-  "totalVotes": "2690269.78691019",
+  "totalVotes": "2646456.49416539",
   "voters": [
     {
       "escrow": "HfATcGbEoLagpvSm1DqBGDmtjM6AH2A8oVRJ3CnLGEdY",
@@ -11,8 +11,8 @@
       "escrowStartedAt": "2022-07-09T21:52:17.000Z",
       "escrowEndsAt": "2023-01-10T11:27:14.000Z",
       "tokenAccount": "4qoNz3t25rsVLq8KDTWGAGg5ogG5zXxo2LAjGRtSf4vX",
-      "latestPower": "1035271.43581938",
-      "share": "38.48"
+      "latestPower": "1024318.11263318",
+      "share": "38.71"
     },
     {
       "escrow": "4EnMFZ4Yg4srwJk2CMiDK7HbAiKuCwNPpqrQwcawxpNo",
@@ -21,8 +21,8 @@
       "escrowStartedAt": "2022-05-27T18:38:30.000Z",
       "escrowEndsAt": "2022-11-30T13:31:27.000Z",
       "tokenAccount": "8CAo58zEavEjkUdN6jALqtDWh7bfZMTc6sbpXWBE9BnH",
-      "latestPower": "586901.69964485",
-      "share": "21.82"
+      "latestPower": "575948.37645865",
+      "share": "21.76"
     },
     {
       "escrow": "CtBWnoCD84FQGJ7cMBxmYC3zq2zxJB3zo4Jv15cNxXdi",
@@ -31,8 +31,8 @@
       "escrowStartedAt": "2022-05-28T20:04:03.000Z",
       "escrowEndsAt": "2022-11-26T11:01:38.000Z",
       "tokenAccount": "ELHZnokoHaRuS5cocnQ5JVABtJiPvW345cXFEfdfNPFq",
-      "latestPower": "541925.92592592",
-      "share": "20.14"
+      "latestPower": "530972.60273972",
+      "share": "20.06"
     },
     {
       "escrow": "HhKsppK5KNnaGxbQGH2gdjuuYfkYj4yGisCNSuttSgZz",
@@ -41,8 +41,8 @@
       "escrowStartedAt": "2022-05-28T21:32:27.000Z",
       "escrowEndsAt": "2022-11-25T00:31:24.000Z",
       "tokenAccount": "5SuTQ2QCFu7QNCgmB2AuXzdJyBEkLZeQmr7H96gMFojA",
-      "latestPower": "526170.72552004",
-      "share": "19.56"
+      "latestPower": "515217.40233384",
+      "share": "19.47"
     },
     {
       "escrow": "CmNt9hgG3TjinLPddA1J4LLN63NkviqVAuFseJHt5bg1",
