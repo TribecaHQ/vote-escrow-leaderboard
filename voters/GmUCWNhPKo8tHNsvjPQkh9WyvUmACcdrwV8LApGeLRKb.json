@@ -1,8 +1,8 @@
 {
   "name": "Port",
-  "updatedAt": "2022-10-16T00:12:45.949Z",
+  "updatedAt": "2022-10-17T00:13:20.680Z",
   "count": 3291,
-  "totalVotes": "707275.818680",
+  "totalVotes": "705258.621828",
   "voters": [
     {
       "escrow": "DHXvFkVgZvoqHNu1cJYLEGkR8Tgn9Ph2Hoj4M3EFKgJR",
@@ -11,8 +11,8 @@
       "escrowStartedAt": "2022-01-06T13:16:34.000Z",
       "escrowEndsAt": "2027-01-05T13:16:34.000Z",
       "tokenAccount": "srpDCLCJYqx31uT4Q3kMYSZfKaK2AfKbNpA1VGtmpmt",
-      "latestPower": "549399.424150",
-      "share": "77.68"
+      "latestPower": "549043.115487",
+      "share": "77.85"
     },
     {
       "escrow": "6q5L8kXVdUm5YmdESijBy2TJm3kDXZNBoL5vuxPSnSHy",
@@ -21,8 +21,8 @@
       "escrowStartedAt": "2022-01-06T13:14:29.000Z",
       "escrowEndsAt": "2023-01-06T13:14:29.000Z",
       "tokenAccount": "6wacimY9b6SKgEriXfp3Toa2KtUub9DGryYn47gmry1Y",
-      "latestPower": "135689.759289",
-      "share": "19.18"
+      "latestPower": "134045.227618",
+      "share": "19.01"
     },
     {
       "escrow": "EthkzwHPN5TuQLUpWapu6KzJ1W35MosxfYE2D5bgcrDj",
@@ -31,7 +31,7 @@
       "escrowStartedAt": "2022-03-22T04:29:39.000Z",
       "escrowEndsAt": "2027-03-21T04:29:39.000Z",
       "tokenAccount": "4errJityPsVyvfuzPam1xEQAwwCvwFqS2y3F7AFqhCC2",
-      "latestPower": "6645.939545",
+      "latestPower": "6641.828291",
       "share": "0.94"
     },
     {
@@ -41,7 +41,7 @@
       "escrowStartedAt": "2022-02-21T20:05:39.000Z",
       "escrowEndsAt": "2027-02-20T20:05:39.000Z",
       "tokenAccount": "C21kbV6E6mfdLcSyRnwBtcihF4MWgXvdhPNY95M8BsB2",
-      "latestPower": "3974.591830",
+      "latestPower": "3972.089231",
       "share": "0.56"
     },
     {
@@ -51,7 +51,7 @@
       "escrowStartedAt": "2022-02-15T13:44:56.000Z",
       "escrowEndsAt": "2027-02-14T13:44:56.000Z",
       "tokenAccount": "2kfJHZVBta3gnxZ5MXLUSxGwjpnTCaDZaPPxiPztu9aY",
-      "latestPower": "3106.472233",
+      "latestPower": "3104.508502",
       "share": "0.44"
     },
     {
@@ -61,7 +61,7 @@
       "escrowStartedAt": "2022-01-07T03:28:56.000Z",
       "escrowEndsAt": "2027-01-06T03:28:56.000Z",
       "tokenAccount": "J5U99CNAKNnetmbDbEwgZDYsHepqXNdHiFFHpRrqkFmP",
-      "latestPower": "2409.829537",
+      "latestPower": "2408.267261",
       "share": "0.34"
     },
     {
@@ -71,7 +71,7 @@
       "escrowStartedAt": "2022-06-06T11:03:49.000Z",
       "escrowEndsAt": "2027-06-05T11:03:49.000Z",
       "tokenAccount": "2K8MwQoN8VtiE1ynL6PdBuh7kx1V3pDivZQDE3bteNiE",
-      "latestPower": "1479.772875",
+      "latestPower": "1478.898701",
       "share": "0.21"
     },
     {
@@ -81,7 +81,7 @@
       "escrowStartedAt": "2022-02-09T07:46:21.000Z",
       "escrowEndsAt": "2027-02-08T07:46:21.000Z",
       "tokenAccount": "DMj4GXzAPNZsLg9ppisdRo229iWDc8UwSaELZvuM5JRK",
-      "latestPower": "431.867183",
+      "latestPower": "431.593099",
       "share": "0.06"
     },
     {
@@ -91,7 +91,7 @@
       "escrowStartedAt": "2022-09-09T09:20:04.000Z",
       "escrowEndsAt": "2027-09-08T09:20:04.000Z",
       "tokenAccount": "njUZaRrFQQGc28Re2MNymX3uWcqixAzSsLyDQXJNHUw",
-      "latestPower": "223.928536",
+      "latestPower": "223.803272",
       "share": "0.03"
     },
     {
@@ -101,7 +101,7 @@
       "escrowStartedAt": "2022-02-23T19:32:56.000Z",
       "escrowEndsAt": "2027-02-22T19:32:56.000Z",
       "tokenAccount": "5edDkf9mgFZb5prTggVGHEktjkNFet8CHHecKE5ekxWn",
-      "latestPower": "217.918616",
+      "latestPower": "217.781575",
       "share": "0.03"
     },
     {
@@ -111,7 +111,7 @@
       "escrowStartedAt": "2022-01-11T16:58:38.000Z",
       "escrowEndsAt": "2027-01-10T16:58:38.000Z",
       "tokenAccount": "CeoAQ6h5mjCFWESe6WZH7iZ3DUrSZ87EtpuJSYL4rvix",
-      "latestPower": "212.013527",
+      "latestPower": "211.876485",
       "share": "0.03"
     },
     {
@@ -121,7 +121,7 @@
       "escrowStartedAt": "2022-02-21T08:59:24.000Z",
       "escrowEndsAt": "2027-02-20T08:59:24.000Z",
       "tokenAccount": "3sPVWattAjHfwKJ6SwLKZ9TQ99baNHtciabBKQ88ycQM",
-      "latestPower": "95.737125",
+      "latestPower": "95.676827",
       "share": "0.01"
     },
     {
@@ -131,7 +131,7 @@
       "escrowStartedAt": "2022-02-19T08:40:17.000Z",
       "escrowEndsAt": "2023-02-19T08:40:17.000Z",
       "tokenAccount": "BVJ7xbde1cCC33gYXpLej7cvkQNYRefV28LeVqXEETfe",
-      "latestPower": "86.542927",
+      "latestPower": "85.857718",
       "share": "0.01"
     },
     {
@@ -141,7 +141,7 @@
       "escrowStartedAt": "2022-01-08T19:03:56.000Z",
       "escrowEndsAt": "2027-01-07T19:03:56.000Z",
       "tokenAccount": "7bGKL8Ngo3J65kqrYkBtAWxhm9iYht3cnGbMaMyn3uZw",
-      "latestPower": "84.645795",
+      "latestPower": "84.590978",
       "share": "0.01"
     },
     {
@@ -151,7 +151,7 @@
       "escrowStartedAt": "2022-02-12T00:38:11.000Z",
       "escrowEndsAt": "2027-02-11T00:38:11.000Z",
       "tokenAccount": "4Cp7JF3d4nctMzyoWMy8GMzaHNmktU3y9U36hKPTDJ1g",
-      "latestPower": "68.344639",
+      "latestPower": "68.301339",
       "share": "0.01"
     },
     {
@@ -161,7 +161,7 @@
       "escrowStartedAt": "2022-02-22T03:35:34.000Z",
       "escrowEndsAt": "2027-02-21T03:35:34.000Z",
       "tokenAccount": "C7xLNkFdG4F6C9RLgvACydZbU8E2s7g3QcT4EtGH2XUC",
-      "latestPower": "59.973630",
+      "latestPower": "59.935875",
       "share": "0.01"
     },
     {
@@ -171,7 +171,7 @@
       "escrowStartedAt": "2022-01-06T12:58:27.000Z",
       "escrowEndsAt": "2023-01-06T12:58:27.000Z",
       "tokenAccount": "RnGNf5YtKwirM6FH2MkmaVzRAX8dxa28AMjU5puaHyJ",
-      "latestPower": "56.528736",
+      "latestPower": "55.843528",
       "share": "0.01"
     },
     {
@@ -181,7 +181,7 @@
       "escrowStartedAt": "2022-02-26T14:07:37.000Z",
       "escrowEndsAt": "2027-02-25T14:07:37.000Z",
       "tokenAccount": "4AKnXxfJ63cR4NrQEvrgJYcwhoCiW2iVXsddJ5J3zigT",
-      "latestPower": "55.385400",
+      "latestPower": "55.350631",
       "share": "0.01"
     },
     {
@@ -191,7 +191,7 @@
       "escrowStartedAt": "2022-02-17T05:26:37.000Z",
       "escrowEndsAt": "2027-02-16T05:26:37.000Z",
       "tokenAccount": "xdwAmaosNdM31EBXr5dkwxXZinr2iof5CVtT6rJBjjm",
-      "latestPower": "50.634842",
+      "latestPower": "50.602867",
       "share": "0.01"
     },
     {
@@ -201,7 +201,7 @@
       "escrowStartedAt": "2022-02-15T16:56:05.000Z",
       "escrowEndsAt": "2027-02-14T16:56:05.000Z",
       "tokenAccount": "3dFsk9j6unSPsuPaPEEHxaWj4nPpWBJ8BpKL4j3hS39j",
-      "latestPower": "49.767208",
+      "latestPower": "49.735751",
       "share": "0.01"
     },
     {
@@ -211,7 +211,7 @@
       "escrowStartedAt": "2022-04-07T02:27:09.000Z",
       "escrowEndsAt": "2027-04-06T02:27:09.000Z",
       "tokenAccount": "CckZqSXAWpnN1rpkrRySSU2rMMZ3q9xHtgPW7xRAcXjw",
-      "latestPower": "48.647141",
+      "latestPower": "48.617340",
       "share": "0.01"
     },
     {
@@ -221,7 +221,7 @@
       "escrowStartedAt": "2022-02-21T11:58:37.000Z",
       "escrowEndsAt": "2027-02-20T11:58:37.000Z",
       "tokenAccount": "5iATE6pMPxY4MJudPsX6a8o6hte5CLA7ZMyi5jRMu85K",
-      "latestPower": "43.520285",
+      "latestPower": "43.492876",
       "share": "0.01"
     },
     {
@@ -231,7 +231,7 @@
       "escrowStartedAt": "2022-02-20T20:46:00.000Z",
       "escrowEndsAt": "2027-02-19T20:46:00.000Z",
       "tokenAccount": "9gUW7StTbZE2ZVVEGytMr8hHgFpH3Dtm7gZe8HqFvt88",
-      "latestPower": "43.502921",
+      "latestPower": "43.475513",
       "share": "0.01"
     },
     {
@@ -241,7 +241,7 @@
       "escrowStartedAt": "2022-02-14T09:14:26.000Z",
       "escrowEndsAt": "2027-02-13T09:14:26.000Z",
       "tokenAccount": "2H488HHYzUnNgmCTkv3YfNScrYJ4aeKjqxuRs2esSpbv",
-      "latestPower": "36.114278",
+      "latestPower": "36.091431",
       "share": "0.01"
     },
     {
@@ -251,7 +251,7 @@
       "escrowStartedAt": "2022-02-23T10:23:35.000Z",
       "escrowEndsAt": "2027-02-22T10:23:35.000Z",
       "tokenAccount": "2ZVzbP1hr5d8eiezYsfyKkYKdeGgJZKCqn28V266KcXC",
-      "latestPower": "34.719461",
+      "latestPower": "34.697622",
       "share": "0.00"
     },
     {
@@ -261,7 +261,7 @@
       "escrowStartedAt": "2022-02-20T09:32:10.000Z",
       "escrowEndsAt": "2027-02-19T09:32:10.000Z",
       "tokenAccount": "6XC2JLKuCeewU7Sp9q458YzkDCrbE9bKh5SijJwCoKpE",
-      "latestPower": "34.444899",
+      "latestPower": "34.423191",
       "share": "0.00"
     },
     {
@@ -271,7 +271,7 @@
       "escrowStartedAt": "2022-02-22T06:43:46.000Z",
       "escrowEndsAt": "2027-02-21T06:43:46.000Z",
       "tokenAccount": "Ko6NC12wMyk7CBqa8MAryCBjPCco67BAfDzMx6pijBo",
-      "latestPower": "30.479184",
+      "latestPower": "30.459998",
       "share": "0.00"
     },
     {
@@ -281,7 +281,7 @@
       "escrowStartedAt": "2022-02-25T18:58:17.000Z",
       "escrowEndsAt": "2027-02-24T18:58:17.000Z",
       "tokenAccount": "2kXPq4wzwcfeGZDAfAFmPr56QntoLcsCJNEBJJUg7YWj",
-      "latestPower": "29.750437",
+      "latestPower": "29.731751",
       "share": "0.00"
     },
     {
@@ -291,7 +291,7 @@
       "escrowStartedAt": "2022-02-15T21:51:27.000Z",
       "escrowEndsAt": "2023-02-15T21:51:27.000Z",
       "tokenAccount": "DgjJifMovR5upSW4V51o2TnMJZD2gwjgAbuER1SdedHu",
-      "latestPower": "26.911729",
+      "latestPower": "26.692672",
       "share": "0.00"
     },
     {
@@ -301,7 +301,7 @@
       "escrowStartedAt": "2022-02-20T13:55:04.000Z",
       "escrowEndsAt": "2027-02-19T13:55:04.000Z",
       "tokenAccount": "ERSxFJc687RbSAfXUYbmCVfsDWDS5wmoshqVwtezBc9p",
-      "latestPower": "25.695597",
+      "latestPower": "25.679405",
       "share": "0.00"
     },
     {
@@ -311,7 +311,7 @@
       "escrowStartedAt": "2022-02-19T06:54:01.000Z",
       "escrowEndsAt": "2027-02-18T06:54:01.000Z",
       "tokenAccount": "5HcnmHhgDdRes7SGcTqS13bkiWYrm1SNjttkSMMWcGUV",
-      "latestPower": "25.684679",
+      "latestPower": "25.668481",
       "share": "0.00"
     },
     {
@@ -321,7 +321,7 @@
       "escrowStartedAt": "2022-02-18T09:41:50.000Z",
       "escrowEndsAt": "2027-02-17T09:41:50.000Z",
       "tokenAccount": "2iSWqkcwALPUyc4gz5pDt6VJ2Y66QwbpWN6VcZsusr8Z",
-      "latestPower": "25.391480",
+      "latestPower": "25.375457",
       "share": "0.00"
     },
     {
@@ -331,7 +331,7 @@
       "escrowStartedAt": "2022-02-15T15:10:30.000Z",
       "escrowEndsAt": "2027-02-14T15:10:30.000Z",
       "tokenAccount": "2LezkCLiXwktznQZ5E5LiPn3WUnMdSQnff3tH83UoW2b",
-      "latestPower": "25.061816",
+      "latestPower": "25.045974",
       "share": "0.00"
     },
     {
@@ -341,7 +341,7 @@
       "escrowStartedAt": "2022-01-13T05:51:05.000Z",
       "escrowEndsAt": "2027-01-12T05:51:05.000Z",
       "tokenAccount": "7M3PyRw3k3ifYTPHmUfdwsUkm5LQrgbErKxzmA4AhSUt",
-      "latestPower": "24.856425",
+      "latestPower": "24.840374",
       "share": "0.00"
     },
     {
@@ -351,7 +351,7 @@
       "escrowStartedAt": "2022-02-12T18:56:01.000Z",
       "escrowEndsAt": "2027-02-11T18:56:01.000Z",
       "tokenAccount": "7vwYbfAsUbVUqAVqByn2HhtcthBAxq789537yxCji7Zi",
-      "latestPower": "24.524158",
+      "latestPower": "24.508628",
       "share": "0.00"
     },
     {
@@ -361,7 +361,7 @@
       "escrowStartedAt": "2022-02-18T04:24:30.000Z",
       "escrowEndsAt": "2027-02-17T04:24:30.000Z",
       "tokenAccount": "9hbp3XG5Ts4F7EQ3tQHcSusHgLF8nxFvbavJ8vQYGWff",
-      "latestPower": "24.108345",
+      "latestPower": "24.093130",
       "share": "0.00"
     },
     {
@@ -371,7 +371,7 @@
       "escrowStartedAt": "2022-02-19T01:20:48.000Z",
       "escrowEndsAt": "2027-02-18T01:20:48.000Z",
       "tokenAccount": "EW9MWA9F3apNkCjJ11mgYpNjJ79ZVsPrxKnN1yU3NXig",
-      "latestPower": "22.489305",
+      "latestPower": "22.475120",
       "share": "0.00"
     },
     {
@@ -381,7 +381,7 @@
       "escrowStartedAt": "2022-02-23T16:02:33.000Z",
       "escrowEndsAt": "2027-02-22T16:02:33.000Z",
       "tokenAccount": "Cta59Yj9ufWBRMcbysbGRSFNdK9yL8gKtMULaf8aApGa",
-      "latestPower": "21.789860",
+      "latestPower": "21.776156",
       "share": "0.00"
     },
     {
@@ -391,7 +391,7 @@
       "escrowStartedAt": "2022-02-22T12:26:09.000Z",
       "escrowEndsAt": "2027-02-21T12:26:09.000Z",
       "tokenAccount": "EX4Rd1asTUDz456qL941EjMmuhZD4XoiLJpzL1AhbcvC",
-      "latestPower": "21.774103",
+      "latestPower": "21.760398",
       "share": "0.00"
     },
     {
@@ -401,7 +401,7 @@
       "escrowStartedAt": "2022-02-17T12:09:48.000Z",
       "escrowEndsAt": "2027-02-16T12:09:48.000Z",
       "tokenAccount": "GoeGV9KZtwwMSUt282icyEEhVza9GMsbVhYPJW4VCSk4",
-      "latestPower": "21.705454",
+      "latestPower": "21.691750",
       "share": "0.00"
     },
     {
@@ -411,7 +411,7 @@
       "escrowStartedAt": "2022-02-13T06:29:29.000Z",
       "escrowEndsAt": "2027-02-12T06:29:29.000Z",
       "tokenAccount": "9Dsm79789oF3qiNPZhKwFpq8jnqrPe4RUQxTuN5outWZ",
-      "latestPower": "21.647422",
+      "latestPower": "21.633718",
       "share": "0.00"
     },
     {
@@ -421,7 +421,7 @@
       "escrowStartedAt": "2022-02-12T23:40:37.000Z",
       "escrowEndsAt": "2027-02-11T23:40:37.000Z",
       "tokenAccount": "HgFLzXoJMCt6Mmm5XmMxrpE4Ws9vvWPSpLp2cSyERRJk",
-      "latestPower": "21.643537",
+      "latestPower": "21.629833",
       "share": "0.00"
     },
     {
@@ -431,7 +431,7 @@
       "escrowStartedAt": "2022-02-12T19:53:49.000Z",
       "escrowEndsAt": "2027-02-11T19:53:49.000Z",
       "tokenAccount": "HvfgcM59nZsipxLQUzi9z57DM3yK36dnmTAQk2JX31CA",
-      "latestPower": "21.641375",
+      "latestPower": "21.627671",
       "share": "0.00"
     },
     {
@@ -441,7 +441,7 @@
       "escrowStartedAt": "2022-02-11T20:19:56.000Z",
       "escrowEndsAt": "2027-02-10T20:19:56.000Z",
       "tokenAccount": "A5SWjuCubUL6gz4DiUNseUMyg7rWtPNjbYuazGHyM4AY",
-      "latestPower": "21.627925",
+      "latestPower": "21.614221",
       "share": "0.00"
     },
     {
@@ -451,7 +451,7 @@
       "escrowStartedAt": "2022-02-22T18:16:58.000Z",
       "escrowEndsAt": "2027-02-21T18:16:58.000Z",
       "tokenAccount": "6tyQ96xnPDJbSWXec2Wf23fXsP7gznQ8P1PgdDBLFswu",
-      "latestPower": "19.599696",
+      "latestPower": "19.587362",
       "share": "0.00"
     },
     {
@@ -461,7 +461,7 @@
       "escrowStartedAt": "2022-02-23T13:27:43.000Z",
       "escrowEndsAt": "2027-02-22T13:27:43.000Z",
       "tokenAccount": "GtpyjWdtVgHW3QV2482AtARz9j34YLVrwnEBEs4jRvuN",
-      "latestPower": "19.383054",
+      "latestPower": "19.370862",
       "share": "0.00"
     },
     {
@@ -471,7 +471,7 @@
       "escrowStartedAt": "2022-02-19T22:01:23.000Z",
       "escrowEndsAt": "2027-02-18T22:01:23.000Z",
       "tokenAccount": "TMFWDwJ81RbH7GGQ4vhpgf8xkB3RhhHmWJLSz1N5B7J",
-      "latestPower": "18.270409",
+      "latestPower": "18.258891",
       "share": "0.00"
     },
     {
@@ -481,7 +481,7 @@
       "escrowStartedAt": "2022-02-21T04:21:05.000Z",
       "escrowEndsAt": "2027-02-20T04:21:05.000Z",
       "tokenAccount": "9iXNMNj4X5g6bDWcgYb7s5zA9ck6ZDjXyTf8Wz9aWLhc",
-      "latestPower": "17.404632",
+      "latestPower": "17.393668",
       "share": "0.00"
     },
     {
@@ -491,7 +491,7 @@
       "escrowStartedAt": "2022-02-19T22:26:10.000Z",
       "escrowEndsAt": "2027-02-18T22:26:10.000Z",
       "tokenAccount": "DF9dCqRFiKCXX3ciCtbMc8dLT6zQ36sBmNbf7t1TNz7M",
-      "latestPower": "17.390976",
+      "latestPower": "17.380013",
       "share": "0.00"
     },
     {
@@ -501,7 +501,7 @@
       "escrowStartedAt": "2022-02-18T13:46:52.000Z",
       "escrowEndsAt": "2027-02-17T13:46:52.000Z",
       "tokenAccount": "885Usx7bQhPvDC5R2M2sarcPaGo9eUtcoFUiM71bMQ3x",
-      "latestPower": "17.376061",
+      "latestPower": "17.365097",
       "share": "0.00"
     },
     {
@@ -511,7 +511,7 @@
       "escrowStartedAt": "2022-02-17T12:10:32.000Z",
       "escrowEndsAt": "2027-02-16T12:10:32.000Z",
       "tokenAccount": "GUGUbwq3JRLmxekAAvFR2B2iHZPQ1ZLekCShZ9TWGnJJ",
-      "latestPower": "16.531604",
+      "latestPower": "16.521166",
       "share": "0.00"
     },
     {
@@ -521,7 +521,7 @@
       "escrowStartedAt": "2022-02-20T09:19:57.000Z",
       "escrowEndsAt": "2027-02-19T09:19:57.000Z",
       "tokenAccount": "LxnrmjVqGWjv8HWQpvtPcpZH3HWDbyyEhvZhZAGo1zP",
-      "latestPower": "15.324642",
+      "latestPower": "15.314984",
       "share": "0.00"
     },
     {
@@ -531,7 +531,7 @@
       "escrowStartedAt": "2022-02-16T11:07:38.000Z",
       "escrowEndsAt": "2027-02-15T11:07:38.000Z",
       "tokenAccount": "DnJaWDbCKKkQyre7jQGtgM9U73P2ehNUSthT2DDRcdme",
-      "latestPower": "14.855653",
+      "latestPower": "14.846268",
       "share": "0.00"
     },
     {
@@ -541,7 +541,7 @@
       "escrowStartedAt": "2022-02-14T19:48:41.000Z",
       "escrowEndsAt": "2027-02-13T19:48:41.000Z",
       "tokenAccount": "DnsnRJQmbA5dQaregm2H2ti3eQijRBSLDjo2GmQLqES9",
-      "latestPower": "14.344699",
+      "latestPower": "14.335627",
       "share": "0.00"
     },
     {
@@ -551,7 +551,7 @@
       "escrowStartedAt": "2022-02-16T13:55:24.000Z",
       "escrowEndsAt": "2027-02-15T13:55:24.000Z",
       "tokenAccount": "6jyArqiAuhQjnmFs8MxmmQPdsFVkF9Ah41CyDR2FNwno",
-      "latestPower": "13.943277",
+      "latestPower": "13.934469",
       "share": "0.00"
     },
     {
@@ -561,7 +561,7 @@
       "escrowStartedAt": "2022-02-20T14:54:16.000Z",
       "escrowEndsAt": "2027-02-19T14:54:16.000Z",
       "tokenAccount": "7zhrX2VMnLC8XDA9vgQwmibVHXtPAPZRCq17ZJBEkAzv",
-      "latestPower": "13.918793",
+      "latestPower": "13.910022",
       "share": "0.00"
     },
     {
@@ -571,7 +571,7 @@
       "escrowStartedAt": "2022-02-21T11:37:03.000Z",
       "escrowEndsAt": "2027-02-20T11:37:03.000Z",
       "tokenAccount": "6qh1P7oQENXBNYCsw5Qjs2g7Yj9yi4qAZjgCNtG5WYf2",
-      "latestPower": "13.915462",
+      "latestPower": "13.906698",
       "share": "0.00"
     },
     {
@@ -581,7 +581,7 @@
       "escrowStartedAt": "2022-02-19T04:14:35.000Z",
       "escrowEndsAt": "2027-02-18T04:14:35.000Z",
       "tokenAccount": "6GWfgQeEfBGAXKRt4w3K8TNQ1caP3PPo41eBtHEbAJBv",
-      "latestPower": "13.882195",
+      "latestPower": "13.873440",
       "share": "0.00"
     },
     {
@@ -591,7 +591,7 @@
       "escrowStartedAt": "2022-02-22T06:54:45.000Z",
       "escrowEndsAt": "2027-02-21T06:54:45.000Z",
       "tokenAccount": "4WyEzEZ6xVwaLdF3GjtNa24eD9sz2r2wJeZFgkMqFwDc",
-      "latestPower": "13.861133",
+      "latestPower": "13.852407",
       "share": "0.00"
     },
     {
@@ -601,7 +601,7 @@
       "escrowStartedAt": "2022-02-13T05:28:44.000Z",
       "escrowEndsAt": "2027-02-12T05:28:44.000Z",
       "tokenAccount": "2m8hRXDZMS93mESBCxF35mw9SYi63xjo1sarhRyXdfuw",
-      "latestPower": "13.794131",
+      "latestPower": "13.785398",
       "share": "0.00"
     },
     {
@@ -611,7 +611,7 @@
       "escrowStartedAt": "2022-02-16T14:04:14.000Z",
       "escrowEndsAt": "2027-02-15T14:04:14.000Z",
       "tokenAccount": "4A3VZ6TCc455CzDzrbKXeVF3FCgBep5CzuQGdAWmdmhF",
-      "latestPower": "13.697169",
+      "latestPower": "13.688516",
       "share": "0.00"
     },
     {
@@ -621,7 +621,7 @@
       "escrowStartedAt": "2022-02-23T14:28:57.000Z",
       "escrowEndsAt": "2027-02-22T14:28:57.000Z",
       "tokenAccount": "tLc9dButsikRo52fV1SGjW1ixhFJ2kZvf3KccSQwBHS",
-      "latestPower": "13.416222",
+      "latestPower": "13.407784",
       "share": "0.00"
     },
     {
@@ -631,7 +631,7 @@
       "escrowStartedAt": "2022-02-19T09:02:55.000Z",
       "escrowEndsAt": "2027-02-18T09:02:55.000Z",
       "tokenAccount": "7LC1SDvDe3nmz7td81UCk1sEqhPKMvc1VUt8CVVQ8FKf",
-      "latestPower": "13.038644",
+      "latestPower": "13.030421",
       "share": "0.00"
     },
     {
@@ -641,7 +641,7 @@
       "escrowStartedAt": "2022-02-17T09:25:33.000Z",
       "escrowEndsAt": "2027-02-16T09:25:33.000Z",
       "tokenAccount": "GjiAZztF6STURmuCjQkmK5i64pGn1yqUkDK5S8QuRK8V",
-      "latestPower": "13.022335",
+      "latestPower": "13.014112",
       "share": "0.00"
     },
     {
@@ -651,7 +651,7 @@
       "escrowStartedAt": "2022-02-14T14:15:53.000Z",
       "escrowEndsAt": "2027-02-13T14:15:53.000Z",
       "tokenAccount": "8ULRmrLADddAr2WbfDJe68PtqdMLoY3b5svBGFGGKMZW",
-      "latestPower": "12.999334",
+      "latestPower": "12.991112",
       "share": "0.00"
     },
     {
@@ -661,7 +661,7 @@
       "escrowStartedAt": "2022-02-13T12:28:36.000Z",
       "escrowEndsAt": "2027-02-12T12:28:36.000Z",
       "tokenAccount": "9oZG8Af57LYWq7mMjxskotW3hFWDXrHYfEaJWTeYnCP",
-      "latestPower": "12.179921",
+      "latestPower": "12.172212",
       "share": "0.00"
     },
     {
@@ -671,7 +671,7 @@
       "escrowStartedAt": "2022-02-17T16:57:50.000Z",
       "escrowEndsAt": "2027-02-16T16:57:50.000Z",
       "tokenAccount": "EEzDubHriGnu4cTfWsZb5ne6mCKU4aEvnCbNGWwTZHG4",
-      "latestPower": "12.156588",
+      "latestPower": "12.148914",
       "share": "0.00"
     },
     {
@@ -681,7 +681,7 @@
       "escrowStartedAt": "2022-02-18T19:55:44.000Z",
       "escrowEndsAt": "2027-02-17T19:55:44.000Z",
       "tokenAccount": "8nBj9hN7DXurtoJpuAjYvWQzgmKLoPQDX676WC9eg7PA",
-      "latestPower": "11.356408",
+      "latestPower": "11.349244",
       "share": "0.00"
     },
     {
@@ -691,7 +691,7 @@
       "escrowStartedAt": "2022-02-13T04:06:07.000Z",
       "escrowEndsAt": "2027-02-12T04:06:07.000Z",
       "tokenAccount": "43BT4ZGWBUhtvARJ8t3SPSVLWZM1MD9JcYB9tZjWKHZ6",
-      "latestPower": "10.496585",
+      "latestPower": "10.489939",
       "share": "0.00"
     },
     {
@@ -701,7 +701,7 @@
       "escrowStartedAt": "2022-02-22T18:29:22.000Z",
       "escrowEndsAt": "2027-02-21T18:29:22.000Z",
       "tokenAccount": "ByP54CZiYBrEw9cKDsT49g2PHZvhXmYZW7gcefptem4A",
-      "latestPower": "10.491722",
+      "latestPower": "10.485119",
       "share": "0.00"
     },
     {
@@ -711,7 +711,7 @@
       "escrowStartedAt": "2022-02-21T12:36:43.000Z",
       "escrowEndsAt": "2027-02-20T12:36:43.000Z",
       "tokenAccount": "J4HnMRure2sqskQkUCYQm5dSUUsz75imCLtuRkxCiv9T",
-      "latestPower": "10.380539",
+      "latestPower": "10.374002",
       "share": "0.00"
     },
     {
@@ -721,7 +721,7 @@
       "escrowStartedAt": "2022-02-21T02:23:59.000Z",
       "escrowEndsAt": "2027-02-20T02:23:59.000Z",
       "tokenAccount": "8Vw2WT5f7eFdEjHtUWYcFhMxuKHyej5V1QSj6owiipNs",
-      "latestPower": "10.350940",
+      "latestPower": "10.344419",
       "share": "0.00"
     },
     {
@@ -731,7 +731,7 @@
       "escrowStartedAt": "2022-02-21T05:08:41.000Z",
       "escrowEndsAt": "2027-02-20T05:08:41.000Z",
       "tokenAccount": "5gF5cgmQ2wZfg4UptALVcrb71GFJ6Po7xRaz6kLrQgwq",
-      "latestPower": "10.257224",
+      "latestPower": "10.250763",
       "share": "0.00"
     },
     {
@@ -741,7 +741,7 @@
       "escrowStartedAt": "2022-02-24T13:27:42.000Z",
       "escrowEndsAt": "2027-02-23T13:27:42.000Z",
       "tokenAccount": "6Np6J8zNgNajaRYr4mUEeopjsESm5v3GfyVkn6KLVkPU",
-      "latestPower": "10.200969",
+      "latestPower": "10.194557",
       "share": "0.00"
     },
     {
@@ -751,7 +751,7 @@
       "escrowStartedAt": "2022-02-23T20:43:40.000Z",
       "escrowEndsAt": "2027-02-22T20:43:40.000Z",
       "tokenAccount": "4mDrXnVLXywUpMe3qpuXHPdN6uGxRjAkXSnxih3cbZXY",
-      "latestPower": "10.106427",
+      "latestPower": "10.100071",
       "share": "0.00"
     },
     {
@@ -761,7 +761,7 @@
       "escrowStartedAt": "2022-02-18T20:06:56.000Z",
       "escrowEndsAt": "2027-02-17T20:06:56.000Z",
       "tokenAccount": "2K8R3LKvKia88X8A4JjZJREQjnoFm66TtajtDbBpH2Sw",
-      "latestPower": "10.038791",
+      "latestPower": "10.032458",
       "share": "0.00"
     },
     {
@@ -771,7 +771,7 @@
       "escrowStartedAt": "2022-02-16T10:49:19.000Z",
       "escrowEndsAt": "2027-02-15T10:49:19.000Z",
       "tokenAccount": "ELPj7hgY5HVa8CgRfwpcr9h9VGgtHbEycGkNiRiyD4xr",
-      "latestPower": "9.985833",
+      "latestPower": "9.979524",
       "share": "0.00"
     },
     {
@@ -781,7 +781,7 @@
       "escrowStartedAt": "2022-02-12T13:02:10.000Z",
       "escrowEndsAt": "2027-02-11T13:02:10.000Z",
       "tokenAccount": "7f5R2G3q3S8gmA7UNARrcpRFYkC6NB2RR6cPhAgtjgjR",
-      "latestPower": "9.973566",
+      "latestPower": "9.967249",
       "share": "0.00"
     },
     {
@@ -791,7 +791,7 @@
       "escrowStartedAt": "2022-02-16T03:31:36.000Z",
       "escrowEndsAt": "2027-02-15T03:31:36.000Z",
       "tokenAccount": "3Z1TXoy9VFL9w2tpyW5tm1qu8xy7LLRDkEhQSZqrcvuq",
-      "latestPower": "9.952379",
+      "latestPower": "9.946090",
       "share": "0.00"
     },
     {
@@ -801,7 +801,7 @@
       "escrowStartedAt": "2022-02-19T03:43:29.000Z",
       "escrowEndsAt": "2027-02-18T03:43:29.000Z",
       "tokenAccount": "7AciFFsAv8wmLQBBcw7ULeCVM2iULY3QZ4YQAuHQvqeH",
-      "latestPower": "9.869629",
+      "latestPower": "9.863404",
       "share": "0.00"
     },
     {
@@ -811,7 +811,7 @@
       "escrowStartedAt": "2022-02-15T12:23:12.000Z",
       "escrowEndsAt": "2027-02-14T12:23:12.000Z",
       "tokenAccount": "7FdoULsp3wMTVkK2DzrQ5R18WWTHszmYwcp7KMvSp4jf",
-      "latestPower": "9.800516",
+      "latestPower": "9.794320",
       "share": "0.00"
     },
     {
@@ -821,7 +821,7 @@
       "escrowStartedAt": "2022-02-13T19:45:07.000Z",
       "escrowEndsAt": "2027-02-12T19:45:07.000Z",
       "tokenAccount": "7kbCoxdPJGhh6LPJi8drE67q7t1DQ77pvcRo79A6kJos",
-      "latestPower": "9.741515",
+      "latestPower": "9.735350",
       "share": "0.00"
     },
     {
@@ -831,17 +831,7 @@
       "escrowStartedAt": "2022-02-20T02:23:00.000Z",
       "escrowEndsAt": "2027-02-19T02:23:00.000Z",
       "tokenAccount": "7neRcKje6XP5m57rRbVAsfxiGR6dU3jMG1gwhVhVapRe",
-      "latestPower": "9.717303",
-      "share": "0.00"
-    },
-    {
-      "escrow": "62xZ6B89PjtuQDGbDwRTpLi1BiL34jLFimPn89EWnkPh",
-      "amount": "20.000000",
-      "owner": "EhSxhGsvdQoZUUjzQYHgXpG9YeVdJAxeAi7d5WeyDiaS",
-      "escrowStartedAt": "2022-04-08T23:51:39.000Z",
-      "escrowEndsAt": "2023-04-08T23:51:39.000Z",
-      "tokenAccount": "GpY5EzxJb8bnCCVJ4ohWE2iqLTZiqLDEijSb8i4SFH2j",
-      "latestPower": "9.588250",
+      "latestPower": "9.711178",
       "share": "0.00"
     },
     {
@@ -851,7 +841,17 @@
       "escrowStartedAt": "2022-02-20T23:11:01.000Z",
       "escrowEndsAt": "2027-02-19T23:11:01.000Z",
       "tokenAccount": "ETSzjrrvBeZxwSp1FvJaYL9EtkMvU9bNqCTarNAtHHgt",
-      "latestPower": "9.571249",
+      "latestPower": "9.565219",
+      "share": "0.00"
+    },
+    {
+      "escrow": "62xZ6B89PjtuQDGbDwRTpLi1BiL34jLFimPn89EWnkPh",
+      "amount": "20.000000",
+      "owner": "EhSxhGsvdQoZUUjzQYHgXpG9YeVdJAxeAi7d5WeyDiaS",
+      "escrowStartedAt": "2022-04-08T23:51:39.000Z",
+      "escrowEndsAt": "2023-04-08T23:51:39.000Z",
+      "tokenAccount": "GpY5EzxJb8bnCCVJ4ohWE2iqLTZiqLDEijSb8i4SFH2j",
+      "latestPower": "9.533433",
       "share": "0.00"
     },
     {
@@ -861,7 +861,7 @@
       "escrowStartedAt": "2022-02-16T12:37:45.000Z",
       "escrowEndsAt": "2027-02-15T12:37:45.000Z",
       "tokenAccount": "4PnhxViDHkvF2w3jModBupiU4n1b6VNGvsVD5DUzWvmM",
-      "latestPower": "9.501105",
+      "latestPower": "9.495103",
       "share": "0.00"
     },
     {
@@ -871,7 +871,7 @@
       "escrowStartedAt": "2022-02-13T12:58:06.000Z",
       "escrowEndsAt": "2027-02-12T12:58:06.000Z",
       "tokenAccount": "EfHwZtSqehM1xKQ6zzRgvGu6VTtHj8gLaEDGfcB9L5TY",
-      "latestPower": "9.440554",
+      "latestPower": "9.434579",
       "share": "0.00"
     },
     {
@@ -881,7 +881,7 @@
       "escrowStartedAt": "2022-02-16T09:40:42.000Z",
       "escrowEndsAt": "2027-02-15T09:40:42.000Z",
       "tokenAccount": "9WtVaitTcvbkuVP9rgR8J1YeBJenYJ9zhfkDi6bJMpu9",
-      "latestPower": "9.410344",
+      "latestPower": "9.404398",
       "share": "0.00"
     },
     {
@@ -891,7 +891,7 @@
       "escrowStartedAt": "2022-02-21T17:42:28.000Z",
       "escrowEndsAt": "2027-02-20T17:42:28.000Z",
       "tokenAccount": "FLwPgmagNxzLPhkJX3jbnQsztbspxnZDj7XuFyuj9ScB",
-      "latestPower": "9.373915",
+      "latestPower": "9.368013",
       "share": "0.00"
     },
     {
@@ -901,7 +901,7 @@
       "escrowStartedAt": "2022-06-22T08:38:08.000Z",
       "escrowEndsAt": "2027-06-21T08:38:08.000Z",
       "tokenAccount": "6cXTSXX9GgY7jmo6xWzfK6YA3wEr51VvPPH1wwPyu5Y1",
-      "latestPower": "9.366307",
+      "latestPower": "9.360826",
       "share": "0.00"
     },
     {
@@ -911,7 +911,7 @@
       "escrowStartedAt": "2022-02-20T05:49:02.000Z",
       "escrowEndsAt": "2027-02-19T05:49:02.000Z",
       "tokenAccount": "HmQypwfPnDPcsRzBpuUwZmk5Ri6tuxatFZ4xZcWVncAU",
-      "latestPower": "9.349459",
+      "latestPower": "9.343566",
       "share": "0.00"
     },
     {
@@ -921,7 +921,7 @@
       "escrowStartedAt": "2022-02-17T12:21:13.000Z",
       "escrowEndsAt": "2027-02-16T12:21:13.000Z",
       "tokenAccount": "FPCcZ5JBAcze4bcaaKp1XqdE4KDmsgZjYU3znzh4CxDN",
-      "latestPower": "9.166246",
+      "latestPower": "9.160458",
       "share": "0.00"
     },
     {
@@ -931,7 +931,7 @@
       "escrowStartedAt": "2022-02-23T10:38:37.000Z",
       "escrowEndsAt": "2027-02-22T10:38:37.000Z",
       "tokenAccount": "86Qyxn4yMhKV42TqpPdThSJVjF2YmYgbAgxX6dhzk53q",
-      "latestPower": "9.150447",
+      "latestPower": "9.144691",
       "share": "0.00"
     },
     {
@@ -941,7 +941,7 @@
       "escrowStartedAt": "2022-02-20T13:05:33.000Z",
       "escrowEndsAt": "2027-02-19T13:05:33.000Z",
       "tokenAccount": "FtSHquKmpxA8pPR8ALZTVewjKruU5zT1YdXuwqNP7kMB",
-      "latestPower": "9.133773",
+      "latestPower": "9.128018",
       "share": "0.00"
     },
     {
@@ -951,7 +951,7 @@
       "escrowStartedAt": "2022-02-19T06:35:05.000Z",
       "escrowEndsAt": "2027-02-18T06:35:05.000Z",
       "tokenAccount": "ByLAJtRQBi1g2S1MVFN1oWHXWJPUMXu41sSuy8SZifiL",
-      "latestPower": "9.126460",
+      "latestPower": "9.120704",
       "share": "0.00"
     },
     {
@@ -961,7 +961,7 @@
       "escrowStartedAt": "2022-02-11T16:48:48.000Z",
       "escrowEndsAt": "2027-02-10T16:48:48.000Z",
       "tokenAccount": "DSCy9UVZxHf4rvd3ArcA5H8eEWonrbfvAio9G4ttiVPo",
-      "latestPower": "9.124069",
+      "latestPower": "9.118287",
       "share": "0.00"
     },
     {
@@ -971,7 +971,7 @@
       "escrowStartedAt": "2022-02-17T15:52:58.000Z",
       "escrowEndsAt": "2027-02-16T15:52:58.000Z",
       "tokenAccount": "8St9eATWJPgQCLvPthA9rJ14Nfqv1ZUBEF7tv9MJFvEW",
-      "latestPower": "9.117182",
+      "latestPower": "9.111426",
       "share": "0.00"
     },
     {
@@ -981,7 +981,7 @@
       "escrowStartedAt": "2022-02-17T04:43:44.000Z",
       "escrowEndsAt": "2027-02-16T04:43:44.000Z",
       "tokenAccount": "3E1GwegXWcAYWaGiFTemY4F5CZo2TTRbwiKf37bzEGVa",
-      "latestPower": "9.091704",
+      "latestPower": "9.085963",
       "share": "0.00"
     },
     {
@@ -991,7 +991,7 @@
       "escrowStartedAt": "2022-02-18T08:13:58.000Z",
       "escrowEndsAt": "2027-02-17T08:13:58.000Z",
       "tokenAccount": "Hf3CWyVyASPyK6edn4vJ3xfkC4TFLcys4CYY6nUT273j",
-      "latestPower": "9.067035",
+      "latestPower": "9.061313",
       "share": "0.00"
     },
     {
@@ -1001,7 +1001,7 @@
       "escrowStartedAt": "2022-02-22T04:42:32.000Z",
       "escrowEndsAt": "2027-02-21T04:42:32.000Z",
       "tokenAccount": "Gogd4RNLjVkz4tfyqpPKMVtReLGAyTrz35TY1GKfo3P7",
-      "latestPower": "8.981487",
+      "latestPower": "8.975833",
       "share": "0.00"
     },
     {
@@ -1011,7 +1011,7 @@
       "escrowStartedAt": "2022-02-22T18:23:17.000Z",
       "escrowEndsAt": "2027-02-21T18:23:17.000Z",
       "tokenAccount": "5BYuzUW9ahDp2V8N1Pv7ExwaZb5SRM2KffqPGUPC7rf4",
-      "latestPower": "8.910364",
+      "latestPower": "8.904757",
       "share": "0.00"
     },
     {
@@ -1021,7 +1021,7 @@
       "escrowStartedAt": "2022-02-22T16:56:38.000Z",
       "escrowEndsAt": "2027-02-21T16:56:38.000Z",
       "tokenAccount": "HYacscMbFM149Cb3q2285aLdoteTPAGtNStHsnFfMni1",
-      "latestPower": "8.894557",
+      "latestPower": "8.888959",
       "share": "0.00"
     },
     {
@@ -1031,7 +1031,7 @@
       "escrowStartedAt": "2022-02-22T17:42:02.000Z",
       "escrowEndsAt": "2027-02-21T17:42:02.000Z",
       "tokenAccount": "HiJ7eWezMg1N79m3Uz4m6JpNYtSrkVnzA42E3HPNRfcd",
-      "latestPower": "8.873200",
+      "latestPower": "8.867616",
       "share": "0.00"
     },
     {
@@ -1041,7 +1041,7 @@
       "escrowStartedAt": "2022-02-24T10:27:25.000Z",
       "escrowEndsAt": "2027-02-23T10:27:25.000Z",
       "tokenAccount": "ET1Ba7w8xQKVq56fWzSN7oMf8hErTrFY4K85NbDceCGp",
-      "latestPower": "8.720148",
+      "latestPower": "8.714666",
       "share": "0.00"
     },
     {
@@ -1051,7 +1051,7 @@
       "escrowStartedAt": "2022-02-24T13:03:54.000Z",
       "escrowEndsAt": "2027-02-23T13:03:54.000Z",
       "tokenAccount": "HrPL4A7RSzozGYrdTkCKJPmCd8VDhFETKicb9viFz61u",
-      "latestPower": "8.716383",
+      "latestPower": "8.710904",
       "share": "0.00"
     },
     {
@@ -1061,7 +1061,7 @@
       "escrowStartedAt": "2022-02-23T06:44:09.000Z",
       "escrowEndsAt": "2027-02-22T06:44:09.000Z",
       "tokenAccount": "JD8v36QN5xoA8fULCKH9SizBLjKayZeY5hNCJoiPX5eE",
-      "latestPower": "8.713819",
+      "latestPower": "8.708337",
       "share": "0.00"
     },
     {
@@ -1071,7 +1071,7 @@
       "escrowStartedAt": "2022-02-22T22:23:35.000Z",
       "escrowEndsAt": "2027-02-21T22:23:35.000Z",
       "tokenAccount": "Cnk1vVPtsPvwMmdm3PBxagAaE9wpQkvASkNqmcvqquNE",
-      "latestPower": "8.711914",
+      "latestPower": "8.706432",
       "share": "0.00"
     },
     {
@@ -1081,7 +1081,7 @@
       "escrowStartedAt": "2022-02-22T19:15:11.000Z",
       "escrowEndsAt": "2027-02-21T19:15:11.000Z",
       "tokenAccount": "H18sQDuTaT7dj4AcxXLZoL8tySxeJbKr8zKzLqmXydrb",
-      "latestPower": "8.711197",
+      "latestPower": "8.705716",
       "share": "0.00"
     },
     {
@@ -1091,7 +1091,7 @@
       "escrowStartedAt": "2022-02-22T10:15:40.000Z",
       "escrowEndsAt": "2027-02-21T10:15:40.000Z",
       "tokenAccount": "61EnTsU9SxRzBbpWmNNaeMhMWGgUMrzucSggTrzj69PT",
-      "latestPower": "8.709144",
+      "latestPower": "8.703663",
       "share": "0.00"
     },
     {
@@ -1101,7 +1101,7 @@
       "escrowStartedAt": "2022-02-22T09:24:59.000Z",
       "escrowEndsAt": "2027-02-21T09:24:59.000Z",
       "tokenAccount": "5P5GYpDD3jXaigsSn1WRidUYU49jcP9vt1wS7T5UchiF",
-      "latestPower": "8.708951",
+      "latestPower": "8.703470",
       "share": "0.00"
     },
     {
@@ -1111,7 +1111,7 @@
       "escrowStartedAt": "2022-02-21T14:27:59.000Z",
       "escrowEndsAt": "2027-02-20T14:27:59.000Z",
       "tokenAccount": "DbHMttqV6H4RAvTSFBvVP5gMMoyt3TXNoyj74bVaSRRM",
-      "latestPower": "8.704625",
+      "latestPower": "8.699143",
       "share": "0.00"
     },
     {
@@ -1121,7 +1121,7 @@
       "escrowStartedAt": "2022-02-21T10:50:17.000Z",
       "escrowEndsAt": "2027-02-20T10:50:17.000Z",
       "tokenAccount": "4Eu85RbKCt9sWabfJPMuujJQLm9AW9GqyJkDEpKoL4Ai",
-      "latestPower": "8.703796",
+      "latestPower": "8.698315",
       "share": "0.00"
     },
     {
@@ -1131,7 +1131,7 @@
       "escrowStartedAt": "2022-02-21T10:18:00.000Z",
       "escrowEndsAt": "2027-02-20T10:18:00.000Z",
       "tokenAccount": "3c1YCbC4HBADfYvFTpLkXHUjYSAALjqqo9c8gsVMkfAh",
-      "latestPower": "8.703674",
+      "latestPower": "8.698192",
       "share": "0.00"
     },
     {
@@ -1141,7 +1141,7 @@
       "escrowStartedAt": "2022-02-21T09:24:12.000Z",
       "escrowEndsAt": "2027-02-20T09:24:12.000Z",
       "tokenAccount": "4TPWqux1mYFyUnWcymtbmxNQpoJS67t3DVUfE5DNrhMg",
-      "latestPower": "8.703469",
+      "latestPower": "8.697987",
       "share": "0.00"
     },
     {
@@ -1151,7 +1151,7 @@
       "escrowStartedAt": "2022-02-20T14:04:21.000Z",
       "escrowEndsAt": "2027-02-19T14:04:21.000Z",
       "tokenAccount": "7ivePUawPA8ZwGo4S467uixxfwXWuKFb3AWbQ8CFw6Ne",
-      "latestPower": "8.699055",
+      "latestPower": "8.693574",
       "share": "0.00"
     },
     {
@@ -1161,7 +1161,7 @@
       "escrowStartedAt": "2022-02-20T07:49:54.000Z",
       "escrowEndsAt": "2027-02-19T07:49:54.000Z",
       "tokenAccount": "2U7A4hXoNBuwEDQZGViZA8VLw5cmY3uoNYX2ws8EVgg7",
-      "latestPower": "8.697631",
+      "latestPower": "8.692149",
       "share": "0.00"
     },
     {
@@ -1171,7 +1171,7 @@
       "escrowStartedAt": "2022-02-18T22:57:01.000Z",
       "escrowEndsAt": "2027-02-17T22:57:01.000Z",
       "tokenAccount": "2Kn9jg3qBBXmggfpf3aVNo3LBBZBB1hhK4j3cwAmdZ6z",
-      "latestPower": "8.690123",
+      "latestPower": "8.684642",
       "share": "0.00"
     },
     {
@@ -1181,7 +1181,7 @@
       "escrowStartedAt": "2022-02-17T14:52:57.000Z",
       "escrowEndsAt": "2027-02-16T14:52:57.000Z",
       "tokenAccount": "FbmmDvHQawGTJV3mVDJbsRTLHTH9hJ6HXUboNUe5HLUG",
-      "latestPower": "8.682802",
+      "latestPower": "8.677320",
       "share": "0.00"
     },
     {
@@ -1191,7 +1191,7 @@
       "escrowStartedAt": "2022-02-17T05:06:37.000Z",
       "escrowEndsAt": "2027-02-16T05:06:37.000Z",
       "tokenAccount": "7gYsfSEgLsV6HRMATA8LwWrhkxaryAECsCsLgtAk3tMX",
-      "latestPower": "8.680571",
+      "latestPower": "8.675089",
       "share": "0.00"
     },
     {
@@ -1201,7 +1201,7 @@
       "escrowStartedAt": "2022-02-17T03:35:40.000Z",
       "escrowEndsAt": "2027-02-16T03:35:40.000Z",
       "tokenAccount": "FiZcJp3NkLY48mRdHzJjCiSfQNVkSC4xVntRakT9w2o7",
-      "latestPower": "8.680225",
+      "latestPower": "8.674743",
       "share": "0.00"
     },
     {
@@ -1211,7 +1211,7 @@
       "escrowStartedAt": "2022-02-16T16:29:09.000Z",
       "escrowEndsAt": "2027-02-15T16:29:09.000Z",
       "tokenAccount": "8EuTxqRLMqN2MkMxSr2Saxb7DFx6b5xQTuPVuxoRRTkq",
-      "latestPower": "8.677689",
+      "latestPower": "8.672207",
       "share": "0.00"
     },
     {
@@ -1221,7 +1221,7 @@
       "escrowStartedAt": "2022-02-15T16:32:01.000Z",
       "escrowEndsAt": "2027-02-14T16:32:01.000Z",
       "tokenAccount": "9maUBo3nx7s7HFAUjDk9ShDwraX6umvzAo93EQRz4em7",
-      "latestPower": "8.672220",
+      "latestPower": "8.666738",
       "share": "0.00"
     },
     {
@@ -1231,7 +1231,7 @@
       "escrowStartedAt": "2022-02-15T14:55:18.000Z",
       "escrowEndsAt": "2027-02-14T14:55:18.000Z",
       "tokenAccount": "9xfpyFjemSuePWuWiwkEqQVTViWHw6b7D6D6BHC58hii",
-      "latestPower": "8.671856",
+      "latestPower": "8.666375",
       "share": "0.00"
     },
     {
@@ -1241,7 +1241,7 @@
       "escrowStartedAt": "2022-02-15T14:37:51.000Z",
       "escrowEndsAt": "2027-02-14T14:37:51.000Z",
       "tokenAccount": "Hg419AecU696Fvhc8G7TgdnYdPKgrnnkapueegLSiEB4",
-      "latestPower": "8.671786",
+      "latestPower": "8.666304",
       "share": "0.00"
     },
     {
@@ -1251,7 +1251,7 @@
       "escrowStartedAt": "2022-02-15T13:01:15.000Z",
       "escrowEndsAt": "2027-02-14T13:01:15.000Z",
       "tokenAccount": "9qzDxrqTdxNX5EtP5bJpL7dA12sgYbcNhKhneGZYmgKm",
-      "latestPower": "8.671418",
+      "latestPower": "8.665936",
       "share": "0.00"
     },
     {
@@ -1261,7 +1261,7 @@
       "escrowStartedAt": "2022-02-14T05:14:48.000Z",
       "escrowEndsAt": "2027-02-13T05:14:48.000Z",
       "tokenAccount": "jkdjJvowWv5X4jpywEwaJRvnNShCRUcNkrH93BsmqAi",
-      "latestPower": "8.664164",
+      "latestPower": "8.658682",
       "share": "0.00"
     },
     {
@@ -1271,7 +1271,7 @@
       "escrowStartedAt": "2022-02-13T16:44:21.000Z",
       "escrowEndsAt": "2027-02-12T16:44:21.000Z",
       "tokenAccount": "h2M7MuwkxuZMoZkxj8vBFbp3ezGNgnwJfsgEeW1CutK",
-      "latestPower": "8.661308",
+      "latestPower": "8.655826",
       "share": "0.00"
     },
     {
@@ -1281,7 +1281,7 @@
       "escrowStartedAt": "2022-02-13T12:05:47.000Z",
       "escrowEndsAt": "2027-02-12T12:05:47.000Z",
       "tokenAccount": "BkY3jh4de88q16LY2y4F9FBaKu5S5392FvJFVwT21kc2",
-      "latestPower": "8.660248",
+      "latestPower": "8.654766",
       "share": "0.00"
     },
     {
@@ -1291,7 +1291,7 @@
       "escrowStartedAt": "2022-02-13T08:57:37.000Z",
       "escrowEndsAt": "2027-02-12T08:57:37.000Z",
       "tokenAccount": "CSgFX895oGqudPDvWrU9RS4gJsU5wVGzuay5wrYDJUoP",
-      "latestPower": "8.659532",
+      "latestPower": "8.654050",
       "share": "0.00"
     },
     {
@@ -1301,7 +1301,7 @@
       "escrowStartedAt": "2022-02-12T08:35:57.000Z",
       "escrowEndsAt": "2027-02-11T08:35:57.000Z",
       "tokenAccount": "8wwpbc6r8ji8wZpS1YvvTQRBeiCiDmPrUsbZbmkEAGdA",
-      "latestPower": "8.653975",
+      "latestPower": "8.648493",
       "share": "0.00"
     },
     {
@@ -1311,7 +1311,7 @@
       "escrowStartedAt": "2022-02-11T22:44:51.000Z",
       "escrowEndsAt": "2027-02-10T22:44:51.000Z",
       "tokenAccount": "3T3pXFL1BkoDAfk64R38srZ8cCKDJhwoakdsQZfR7gBu",
-      "latestPower": "8.651721",
+      "latestPower": "8.646239",
       "share": "0.00"
     },
     {
@@ -1321,7 +1321,7 @@
       "escrowStartedAt": "2022-02-21T20:48:00.000Z",
       "escrowEndsAt": "2027-02-20T20:48:00.000Z",
       "tokenAccount": "Hpxbk3Bm3GM2SypK9bQq1MrxxLRWY1Ns8gtWna1DEuDJ",
-      "latestPower": "8.642908",
+      "latestPower": "8.637466",
       "share": "0.00"
     },
     {
@@ -1331,7 +1331,7 @@
       "escrowStartedAt": "2022-02-14T19:02:39.000Z",
       "escrowEndsAt": "2027-02-13T19:02:39.000Z",
       "tokenAccount": "5eMSKD2LC2CrLM2N5AYMuxXNweX31WUEYq7xepLYApwu",
-      "latestPower": "8.623839",
+      "latestPower": "8.618384",
       "share": "0.00"
     },
     {
@@ -1341,7 +1341,7 @@
       "escrowStartedAt": "2022-02-17T17:10:14.000Z",
       "escrowEndsAt": "2027-02-16T17:10:14.000Z",
       "tokenAccount": "HscGymHqmqD9KE5LriFrETYsrpW7nzG9j27c2BUBCk6h",
-      "latestPower": "8.249158",
+      "latestPower": "8.243951",
       "share": "0.00"
     },
     {
@@ -1351,7 +1351,7 @@
       "escrowStartedAt": "2022-02-23T17:51:08.000Z",
       "escrowEndsAt": "2027-02-22T17:51:08.000Z",
       "tokenAccount": "AGsrVBG43ykFXZXfhWPTB5Mg6yeKkrHsUBiyJkHGfQk3",
-      "latestPower": "8.089167",
+      "latestPower": "8.084080",
       "share": "0.00"
     },
     {
@@ -1361,7 +1361,7 @@
       "escrowStartedAt": "2022-02-12T05:10:54.000Z",
       "escrowEndsAt": "2027-02-11T05:10:54.000Z",
       "tokenAccount": "4W8e3uwNacQQBNM39N742kGwGcGgiE4QGn2N4jitKMyk",
-      "latestPower": "8.014199",
+      "latestPower": "8.009123",
       "share": "0.00"
     },
     {
@@ -1371,7 +1371,7 @@
       "escrowStartedAt": "2022-02-14T10:32:59.000Z",
       "escrowEndsAt": "2027-02-13T10:32:59.000Z",
       "tokenAccount": "4yChEkczmjkcnj3r6sTi5bznCW6RL1NuktdpJCytyHRR",
-      "latestPower": "7.727105",
+      "latestPower": "7.722217",
       "share": "0.00"
     },
     {
@@ -1381,7 +1381,7 @@
       "escrowStartedAt": "2022-02-20T13:47:53.000Z",
       "escrowEndsAt": "2027-02-19T13:47:53.000Z",
       "tokenAccount": "8NJNDmbeXVpHeAFQ3UnMt9CvVnJSiFo5eM2NneNtENHn",
-      "latestPower": "7.708973",
+      "latestPower": "7.704116",
       "share": "0.00"
     },
     {
@@ -1391,7 +1391,7 @@
       "escrowStartedAt": "2022-02-18T11:52:16.000Z",
       "escrowEndsAt": "2027-02-17T11:52:16.000Z",
       "tokenAccount": "4mqc45G616ULN5EjfbrbPo5gCkrZiYDahKgLF5QYjDxV",
-      "latestPower": "7.418627",
+      "latestPower": "7.413946",
       "share": "0.00"
     },
     {
@@ -1401,7 +1401,7 @@
       "escrowStartedAt": "2022-02-21T19:47:21.000Z",
       "escrowEndsAt": "2027-02-20T19:47:21.000Z",
       "tokenAccount": "Dp6PgyrrkfBxdU2P4QwU7HuGMwUx2CZfRNQiiEuYkAv3",
-      "latestPower": "7.234031",
+      "latestPower": "7.229476",
       "share": "0.00"
     },
     {
@@ -1411,7 +1411,7 @@
       "escrowStartedAt": "2022-02-18T08:21:19.000Z",
       "escrowEndsAt": "2027-02-17T08:21:19.000Z",
       "tokenAccount": "DuTBYBYQsLab9ZxmhjLXYFPbhDmCrPzYZYSXs26fFVrb",
-      "latestPower": "6.917574",
+      "latestPower": "6.913209",
       "share": "0.00"
     },
     {
@@ -1421,7 +1421,7 @@
       "escrowStartedAt": "2022-02-17T14:36:56.000Z",
       "escrowEndsAt": "2027-02-16T14:36:56.000Z",
       "tokenAccount": "4p5c2r1NzUg5QeQcyLK6HHeo3E1XXHPBoaY7j7Ss57GX",
-      "latestPower": "6.849272",
+      "latestPower": "6.844948",
       "share": "0.00"
     },
     {
@@ -1431,7 +1431,7 @@
       "escrowStartedAt": "2022-02-19T00:39:51.000Z",
       "escrowEndsAt": "2027-02-18T00:39:51.000Z",
       "tokenAccount": "3oy4eTj621Eh5Qz7bAN9VWEuyy2AR8p5aWPzP8GT3DWy",
-      "latestPower": "6.689054",
+      "latestPower": "6.684835",
       "share": "0.00"
     },
     {
@@ -1441,17 +1441,7 @@
       "escrowStartedAt": "2022-02-20T05:09:15.000Z",
       "escrowEndsAt": "2027-02-19T05:09:15.000Z",
       "tokenAccount": "5yK83JjhT8HeFfNMFeZXpJUtxQ13XGC9yrRDSXhWJkah",
-      "latestPower": "6.663882",
-      "share": "0.00"
-    },
-    {
-      "escrow": "9vUAvYvBBXcuFqnAGQynQAgxC3JzPWYbHUbZ52tBTBtJ",
-      "amount": "20.000000",
-      "owner": "GUA2dmLJwbtZjBpmZrjiJ3NSxN95nnRUawP3TYRBvdQB",
-      "escrowStartedAt": "2022-02-13T15:40:47.000Z",
-      "escrowEndsAt": "2023-02-13T15:40:47.000Z",
-      "tokenAccount": "CZAdg3brLehTaerSHkpey174fR8zyCkYZPjucUvbHhgP",
-      "latestPower": "6.610667",
+      "latestPower": "6.659682",
       "share": "0.00"
     },
     {
@@ -1461,7 +1451,17 @@
       "escrowStartedAt": "2022-02-15T08:03:01.000Z",
       "escrowEndsAt": "2027-02-14T08:03:01.000Z",
       "tokenAccount": "B8wU3HYmTcPe6MXvEzBQsDHTxavEdwDuVeEPUwWwGmg2",
-      "latestPower": "6.573757",
+      "latestPower": "6.569600",
+      "share": "0.00"
+    },
+    {
+      "escrow": "9vUAvYvBBXcuFqnAGQynQAgxC3JzPWYbHUbZ52tBTBtJ",
+      "amount": "20.000000",
+      "owner": "GUA2dmLJwbtZjBpmZrjiJ3NSxN95nnRUawP3TYRBvdQB",
+      "escrowStartedAt": "2022-02-13T15:40:47.000Z",
+      "escrowEndsAt": "2023-02-13T15:40:47.000Z",
+      "tokenAccount": "CZAdg3brLehTaerSHkpey174fR8zyCkYZPjucUvbHhgP",
+      "latestPower": "6.555851",
       "share": "0.00"
     },
     {
@@ -1471,7 +1471,7 @@
       "escrowStartedAt": "2022-02-20T19:28:48.000Z",
       "escrowEndsAt": "2027-02-19T19:28:48.000Z",
       "tokenAccount": "Gyo46adHteiRQsfjbHjudyP3mSXvWjYrHAdfXrmBnqMG",
-      "latestPower": "6.525217",
+      "latestPower": "6.521106",
       "share": "0.00"
     },
     {
@@ -1481,7 +1481,7 @@
       "escrowStartedAt": "2022-02-17T14:27:56.000Z",
       "escrowEndsAt": "2027-02-16T14:27:56.000Z",
       "tokenAccount": "G9W9v5tFqEM6d33iJ7F4Li69YCbkU16NywZzWgvFcfui",
-      "latestPower": "6.512030",
+      "latestPower": "6.507919",
       "share": "0.00"
     },
     {
@@ -1491,7 +1491,7 @@
       "escrowStartedAt": "2022-02-15T14:06:45.000Z",
       "escrowEndsAt": "2027-02-14T14:06:45.000Z",
       "tokenAccount": "AFUTYfPT2YcDt4H5rWtGkTTAc8osz8ZSbiEkjSG5ziiN",
-      "latestPower": "6.506642",
+      "latestPower": "6.502529",
       "share": "0.00"
     },
     {
@@ -1501,7 +1501,7 @@
       "escrowStartedAt": "2022-02-16T02:59:07.000Z",
       "escrowEndsAt": "2027-02-15T02:59:07.000Z",
       "tokenAccount": "BdFSRX3FA6pmraxBPFB42HUwhYSkD7ge2HqKuhb5XLTE",
-      "latestPower": "6.505955",
+      "latestPower": "6.501843",
       "share": "0.00"
     },
     {
@@ -1511,7 +1511,7 @@
       "escrowStartedAt": "2022-02-15T14:07:04.000Z",
       "escrowEndsAt": "2027-02-14T14:07:04.000Z",
       "tokenAccount": "3vL7tHthCcKfvS7buZ67HkLDDS2BqSnjxb3yjqXHjCiH",
-      "latestPower": "6.503751",
+      "latestPower": "6.499640",
       "share": "0.00"
     },
     {
@@ -1521,7 +1521,7 @@
       "escrowStartedAt": "2022-02-15T01:35:03.000Z",
       "escrowEndsAt": "2027-02-14T01:35:03.000Z",
       "tokenAccount": "CEArc8eMuGgUMSqxizNAGEB42PLpL6Ftxn5RTJTQRjf2",
-      "latestPower": "6.501605",
+      "latestPower": "6.497494",
       "share": "0.00"
     },
     {
@@ -1531,7 +1531,7 @@
       "escrowStartedAt": "2022-02-12T15:37:29.000Z",
       "escrowEndsAt": "2027-02-11T15:37:29.000Z",
       "tokenAccount": "GEzNxv8U164rpTZKkaPgpYGxD55JAj3dRKwR1WuDSkk8",
-      "latestPower": "6.491681",
+      "latestPower": "6.487569",
       "share": "0.00"
     },
     {
@@ -1541,7 +1541,7 @@
       "escrowStartedAt": "2022-02-12T12:37:37.000Z",
       "escrowEndsAt": "2027-02-11T12:37:37.000Z",
       "tokenAccount": "HjB7odMNaiqZfhPQNeHGiXiYnU22gCiZZkfBZx9pfLci",
-      "latestPower": "6.491167",
+      "latestPower": "6.487056",
       "share": "0.00"
     },
     {
@@ -1551,7 +1551,7 @@
       "escrowStartedAt": "2022-02-12T07:16:41.000Z",
       "escrowEndsAt": "2027-02-11T07:16:41.000Z",
       "tokenAccount": "bsTLR2KVLzSVouCjCCD5nr62vveHeBQLEcdV6UzM9XM",
-      "latestPower": "6.490251",
+      "latestPower": "6.486140",
       "share": "0.00"
     },
     {
@@ -1561,7 +1561,7 @@
       "escrowStartedAt": "2022-02-24T05:48:58.000Z",
       "escrowEndsAt": "2027-02-23T05:48:58.000Z",
       "tokenAccount": "Ce1nogbobuZ1uJ4AaSHguEud7PnimSv6jjZX4MqETCvW",
-      "latestPower": "6.476992",
+      "latestPower": "6.472920",
       "share": "0.00"
     },
     {
@@ -1571,7 +1571,7 @@
       "escrowStartedAt": "2022-02-14T16:33:10.000Z",
       "escrowEndsAt": "2027-02-13T16:33:10.000Z",
       "tokenAccount": "3zt96qVALnJfZQiEXvs6YP4VVHwKJ6MQXdfuFxnMoxr8",
-      "latestPower": "6.420039",
+      "latestPower": "6.415978",
       "share": "0.00"
     },
     {
@@ -1581,7 +1581,7 @@
       "escrowStartedAt": "2022-02-11T19:01:26.000Z",
       "escrowEndsAt": "2027-02-10T19:01:26.000Z",
       "tokenAccount": "Csbj8gmUv2ozsM93xzUc5aPdSmjR3taJDjTMe66mteaG",
-      "latestPower": "6.315136",
+      "latestPower": "6.311134",
       "share": "0.00"
     },
     {
@@ -1591,7 +1591,7 @@
       "escrowStartedAt": "2022-02-14T15:06:18.000Z",
       "escrowEndsAt": "2027-02-13T15:06:18.000Z",
       "tokenAccount": "5TcjQqVEv6y4khDCRtQ2XDUMJv6or1LQQdKUK6ENsKae",
-      "latestPower": "6.289659",
+      "latestPower": "6.285681",
       "share": "0.00"
     },
     {
@@ -1601,7 +1601,7 @@
       "escrowStartedAt": "2022-02-19T07:11:24.000Z",
       "escrowEndsAt": "2027-02-18T07:11:24.000Z",
       "tokenAccount": "8XrgYPJYyQtYRPNvJx54r277j85nJCrAzUxojjjWU7qH",
-      "latestPower": "6.212562",
+      "latestPower": "6.208644",
       "share": "0.00"
     },
     {
@@ -1611,7 +1611,7 @@
       "escrowStartedAt": "2022-02-13T14:33:20.000Z",
       "escrowEndsAt": "2027-02-12T14:33:20.000Z",
       "tokenAccount": "Amkry3Ty8b19f9N4fghbPgrNtA2HDQb4NZZZFwPQfSGL",
-      "latestPower": "6.196445",
+      "latestPower": "6.192523",
       "share": "0.00"
     },
     {
@@ -1621,7 +1621,7 @@
       "escrowStartedAt": "2022-02-13T14:21:09.000Z",
       "escrowEndsAt": "2027-02-12T14:21:09.000Z",
       "tokenAccount": "ABYFwkAdnJ7YtkbrLHAbv926CqoeUTPEB3VmTBLwm9i7",
-      "latestPower": "6.062534",
+      "latestPower": "6.058697",
       "share": "0.00"
     },
     {
@@ -1631,7 +1631,7 @@
       "escrowStartedAt": "2022-02-11T23:01:33.000Z",
       "escrowEndsAt": "2027-02-10T23:01:33.000Z",
       "tokenAccount": "7vfLHLXFS3M3yDWM6hxdMy5VMFEKPWKkvGoCGxpbcSUV",
-      "latestPower": "6.035532",
+      "latestPower": "6.031708",
       "share": "0.00"
     },
     {
@@ -1641,7 +1641,7 @@
       "escrowStartedAt": "2022-02-18T19:20:05.000Z",
       "escrowEndsAt": "2027-02-17T19:20:05.000Z",
       "tokenAccount": "HT6qEkHMXEXMsWVMeTCLNwEkhQXV5vFUnXzbjw4UQjJX",
-      "latestPower": "6.023465",
+      "latestPower": "6.019665",
       "share": "0.00"
     },
     {
@@ -1651,7 +1651,7 @@
       "escrowStartedAt": "2022-02-12T08:42:23.000Z",
       "escrowEndsAt": "2025-10-05T23:08:31.000Z",
       "tokenAccount": "5Ew2rcLAWtMZptELRSJiVFxLtq2pLKWKbiSvgEeASEji",
-      "latestPower": "5.961420",
+      "latestPower": "5.955928",
       "share": "0.00"
     },
     {
@@ -1661,7 +1661,7 @@
       "escrowStartedAt": "2022-02-15T14:10:54.000Z",
       "escrowEndsAt": "2027-02-14T14:10:54.000Z",
       "tokenAccount": "GeaRSGypNs52WVZWnESo8CAv4GG2FWywd7rzw5mWUWSw",
-      "latestPower": "5.862244",
+      "latestPower": "5.858538",
       "share": "0.00"
     },
     {
@@ -1671,7 +1671,7 @@
       "escrowStartedAt": "2022-02-18T06:40:03.000Z",
       "escrowEndsAt": "2027-02-17T06:40:03.000Z",
       "tokenAccount": "Cid3MaJbsSgr4t4c8jTzATopfViPjYFKYwGfjcTkrhbu",
-      "latestPower": "5.776460",
+      "latestPower": "5.772814",
       "share": "0.00"
     },
     {
@@ -1681,7 +1681,7 @@
       "escrowStartedAt": "2022-02-13T12:10:19.000Z",
       "escrowEndsAt": "2027-02-12T12:10:19.000Z",
       "tokenAccount": "F9h3biSV4Cvq9rBybPDDGSHjbnfkQ2cYKxpBhA46qTTq",
-      "latestPower": "5.690981",
+      "latestPower": "5.687378",
       "share": "0.00"
     },
     {
@@ -1691,7 +1691,7 @@
       "escrowStartedAt": "2022-02-19T15:41:12.000Z",
       "escrowEndsAt": "2027-02-18T15:41:12.000Z",
       "tokenAccount": "7J95abAbHEJkG8zD7tLHSGpGnBnunMNS9EFvRy8Au21C",
-      "latestPower": "5.651064",
+      "latestPower": "5.647501",
       "share": "0.00"
     },
     {
@@ -1701,7 +1701,7 @@
       "escrowStartedAt": "2022-02-12T10:43:43.000Z",
       "escrowEndsAt": "2027-02-11T10:43:43.000Z",
       "tokenAccount": "42QnVSGUYLpcbJdYTrp4n5yDtGQKpjNuiAGzXhFGbX7g",
-      "latestPower": "5.625397",
+      "latestPower": "5.621833",
       "share": "0.00"
     },
     {
@@ -1711,7 +1711,7 @@
       "escrowStartedAt": "2022-02-24T14:56:53.000Z",
       "escrowEndsAt": "2027-02-23T14:56:53.000Z",
       "tokenAccount": "HaSExB6jJfqc2KJS2jbS4cxWBVt3BnX1rqByFs7MR1Vn",
-      "latestPower": "5.599704",
+      "latestPower": "5.596184",
       "share": "0.00"
     },
     {
@@ -1721,7 +1721,7 @@
       "escrowStartedAt": "2022-02-24T13:40:58.000Z",
       "escrowEndsAt": "2027-02-23T13:40:58.000Z",
       "tokenAccount": "4LBJ5nNibJ1JfqtgXBai5jRwS3AjKyc5fRNCRd929LJJ",
-      "latestPower": "5.577359",
+      "latestPower": "5.573853",
       "share": "0.00"
     },
     {
@@ -1731,7 +1731,7 @@
       "escrowStartedAt": "2022-02-13T00:43:04.000Z",
       "escrowEndsAt": "2027-02-12T00:43:04.000Z",
       "tokenAccount": "8u9DpnzLfHAxTtdpQqAxUoL3g63zc453VikjPQDE9ZJ9",
-      "latestPower": "5.537113",
+      "latestPower": "5.533607",
       "share": "0.00"
     },
     {
@@ -1741,7 +1741,7 @@
       "escrowStartedAt": "2022-02-24T11:19:10.000Z",
       "escrowEndsAt": "2027-02-23T11:19:10.000Z",
       "tokenAccount": "6siYGiUgTXqdtmZzXtfhfXTdcrhw8PvyHXN5MhntLZWE",
-      "latestPower": "5.518644",
+      "latestPower": "5.515175",
       "share": "0.00"
     },
     {
@@ -1751,7 +1751,7 @@
       "escrowStartedAt": "2022-02-13T12:48:17.000Z",
       "escrowEndsAt": "2027-02-12T12:48:17.000Z",
       "tokenAccount": "2DxnYGxeyBG3TGaA7iJtr9at1jQ8T1j8V5Tw1wtnUJcT",
-      "latestPower": "5.474141",
+      "latestPower": "5.470676",
       "share": "0.00"
     },
     {
@@ -1761,7 +1761,7 @@
       "escrowStartedAt": "2022-02-14T04:18:25.000Z",
       "escrowEndsAt": "2027-02-13T04:18:25.000Z",
       "tokenAccount": "HSviAs6sgU4wh9TQGB9D9cWDH6pq2j84twFFBbcSrUPY",
-      "latestPower": "5.414968",
+      "latestPower": "5.411542",
       "share": "0.00"
     },
     {
@@ -1771,7 +1771,7 @@
       "escrowStartedAt": "2022-03-26T04:47:20.000Z",
       "escrowEndsAt": "2027-03-25T04:47:20.000Z",
       "tokenAccount": "HG3DMbZ97Jpi6jzKViMbFnS51oPUtEJAXTo1eX3nRAM5",
-      "latestPower": "5.286947",
+      "latestPower": "5.283685",
       "share": "0.00"
     },
     {
@@ -1781,7 +1781,7 @@
       "escrowStartedAt": "2022-02-23T00:49:11.000Z",
       "escrowEndsAt": "2027-02-22T00:49:11.000Z",
       "tokenAccount": "2ucA7peh8hkCKNtQU9TUVcHppXLqaaw8A1KNt7jdaSmv",
-      "latestPower": "5.251044",
+      "latestPower": "5.247740",
       "share": "0.00"
     },
     {
@@ -1791,7 +1791,7 @@
       "escrowStartedAt": "2022-02-23T23:44:50.000Z",
       "escrowEndsAt": "2027-02-22T23:44:50.000Z",
       "tokenAccount": "BKB86a8zVK1jsMi79RjT2HveuDrLsr7GPkee1u1pJsyE",
-      "latestPower": "5.249953",
+      "latestPower": "5.246652",
       "share": "0.00"
     },
     {
@@ -1801,7 +1801,7 @@
       "escrowStartedAt": "2022-02-22T16:17:42.000Z",
       "escrowEndsAt": "2027-02-21T16:17:42.000Z",
       "tokenAccount": "87uHxp6K8rhN7PeGi4CSY943k2mYjauWaTWLeknrfoVU",
-      "latestPower": "5.234335",
+      "latestPower": "5.231041",
       "share": "0.00"
     },
     {
@@ -1811,7 +1811,7 @@
       "escrowStartedAt": "2022-02-24T11:38:52.000Z",
       "escrowEndsAt": "2027-02-23T11:38:52.000Z",
       "tokenAccount": "3qoJy87TRJQri4hpzjgLYumbm4tQUo5eu9Pjxp6FiVTm",
-      "latestPower": "5.232252",
+      "latestPower": "5.228963",
       "share": "0.00"
     },
     {
@@ -1821,7 +1821,7 @@
       "escrowStartedAt": "2022-02-22T13:06:45.000Z",
       "escrowEndsAt": "2027-02-21T13:06:45.000Z",
       "tokenAccount": "6V6tXNsGEWPqNfDZjE7LiKLK1WxRgNg94VdTd4zMov5Y",
-      "latestPower": "5.225877",
+      "latestPower": "5.222588",
       "share": "0.00"
     },
     {
@@ -1831,7 +1831,7 @@
       "escrowStartedAt": "2022-02-22T10:33:28.000Z",
       "escrowEndsAt": "2027-02-21T10:33:28.000Z",
       "tokenAccount": "gJ2TqU358AEyQgqxKDfQxBspGKT2yguaA2xGa46avge",
-      "latestPower": "5.225527",
+      "latestPower": "5.222238",
       "share": "0.00"
     },
     {
@@ -1841,7 +1841,7 @@
       "escrowStartedAt": "2022-02-21T20:52:14.000Z",
       "escrowEndsAt": "2027-02-20T20:52:14.000Z",
       "tokenAccount": "FKqJT7Hbz7C8QCGyz5nmquGn4zEnB9Rf6hYNyu53orED",
-      "latestPower": "5.223656",
+      "latestPower": "5.220367",
       "share": "0.00"
     },
     {
@@ -1851,7 +1851,7 @@
       "escrowStartedAt": "2022-02-21T00:54:58.000Z",
       "escrowEndsAt": "2027-02-20T00:54:58.000Z",
       "tokenAccount": "GpZTcVaFFNNS1aEMMQFPjyL1e2c6nV8q5NPR54skMkAV",
-      "latestPower": "5.218043",
+      "latestPower": "5.214755",
       "share": "0.00"
     },
     {
@@ -1861,7 +1861,7 @@
       "escrowStartedAt": "2022-02-22T04:12:33.000Z",
       "escrowEndsAt": "2027-02-21T04:12:33.000Z",
       "tokenAccount": "8hVJmCwnLEfkLdPo64F8XCwvZkP5KPb5oeaxXBXWyUuw",
-      "latestPower": "5.212993",
+      "latestPower": "5.209712",
       "share": "0.00"
     },
     {
@@ -1871,7 +1871,7 @@
       "escrowStartedAt": "2022-02-21T16:07:13.000Z",
       "escrowEndsAt": "2027-02-20T16:07:13.000Z",
       "tokenAccount": "C3Nyy9sifCCoEyrt7mRhmKJoo6Msn1axjqC7Bgpt49b4",
-      "latestPower": "5.202623",
+      "latestPower": "5.199347",
       "share": "0.00"
     },
     {
@@ -1881,7 +1881,7 @@
       "escrowStartedAt": "2022-02-15T11:18:58.000Z",
       "escrowEndsAt": "2027-02-14T11:18:58.000Z",
       "tokenAccount": "EtdZQjDMAFD599jgFXH8qfxBGw2n4YELerhmiviWsBtu",
-      "latestPower": "5.202617",
+      "latestPower": "5.199328",
       "share": "0.00"
     },
     {
@@ -1891,7 +1891,7 @@
       "escrowStartedAt": "2022-02-22T07:36:08.000Z",
       "escrowEndsAt": "2027-02-21T07:36:08.000Z",
       "tokenAccount": "iE3piRC5938DH5hjZQVyhsCpX3SqxUYuteECgzQJ7qG",
-      "latestPower": "5.202388",
+      "latestPower": "5.199114",
       "share": "0.00"
     },
     {
@@ -1901,7 +1901,7 @@
       "escrowStartedAt": "2022-02-14T00:09:18.000Z",
       "escrowEndsAt": "2027-02-13T00:09:18.000Z",
       "tokenAccount": "93Fuy1Y1UdvCV4jpo2Bv4Eps8YvDUMQbGUxo9kHpXzwL",
-      "latestPower": "5.197801",
+      "latestPower": "5.194512",
       "share": "0.00"
     },
     {
@@ -1911,7 +1911,7 @@
       "escrowStartedAt": "2022-02-21T13:07:46.000Z",
       "escrowEndsAt": "2027-02-20T13:07:46.000Z",
       "tokenAccount": "rBEDwn9yb97x2xx1iZeEp1utNrawkVhJ84vPenxjv4s",
-      "latestPower": "5.196174",
+      "latestPower": "5.192902",
       "share": "0.00"
     },
     {
@@ -1921,7 +1921,7 @@
       "escrowStartedAt": "2022-02-21T05:54:24.000Z",
       "escrowEndsAt": "2027-02-20T05:54:24.000Z",
       "tokenAccount": "7dKvk4xwvE9UuSvudPDqGAW7T1W47gMi2fB9nWS2e2sB",
-      "latestPower": "5.181143",
+      "latestPower": "5.177880",
       "share": "0.00"
     },
     {
@@ -1931,7 +1931,7 @@
       "escrowStartedAt": "2022-02-21T18:37:18.000Z",
       "escrowEndsAt": "2027-02-20T18:37:18.000Z",
       "tokenAccount": "4aodqjBjPkmcRZxuorECT1qeDMR8kSd4P8m5rfeEuV3e",
-      "latestPower": "5.180042",
+      "latestPower": "5.176781",
       "share": "0.00"
     },
     {
@@ -1941,7 +1941,7 @@
       "escrowStartedAt": "2022-02-20T19:46:34.000Z",
       "escrowEndsAt": "2027-02-19T19:46:34.000Z",
       "tokenAccount": "6MhConGGyjCAiieoq8HZp3bdUJnxS6SpjRVos9Y44m3p",
-      "latestPower": "5.145548",
+      "latestPower": "5.142306",
       "share": "0.00"
     },
     {
@@ -1951,7 +1951,7 @@
       "escrowStartedAt": "2022-02-18T05:48:27.000Z",
       "escrowEndsAt": "2027-02-17T05:48:27.000Z",
       "tokenAccount": "CqRdF8CHMDik7EgywNfNxFzncf2P95PkDtWjksiHhec3",
-      "latestPower": "5.107482",
+      "latestPower": "5.104259",
       "share": "0.00"
     },
     {
@@ -1961,7 +1961,7 @@
       "escrowStartedAt": "2022-02-12T20:58:09.000Z",
       "escrowEndsAt": "2027-02-11T20:58:09.000Z",
       "tokenAccount": "86LKG19prLGBpVKSoHmy31at6rHhxuFazEDZsrSYzDzh",
-      "latestPower": "5.099202",
+      "latestPower": "5.095973",
       "share": "0.00"
     },
     {
@@ -1971,7 +1971,7 @@
       "escrowStartedAt": "2022-02-20T02:09:12.000Z",
       "escrowEndsAt": "2027-02-19T02:09:12.000Z",
       "tokenAccount": "HgQ37u2p19WBs7XKmCvEh9aD5bs47f5ywAuWZo76KbV7",
-      "latestPower": "5.092082",
+      "latestPower": "5.088872",
       "share": "0.00"
     },
     {
@@ -1981,7 +1981,7 @@
       "escrowStartedAt": "2022-02-20T07:00:57.000Z",
       "escrowEndsAt": "2027-02-19T07:00:57.000Z",
       "tokenAccount": "ArzrAThJRMctL45m4HKBAPDcrt2dLLjrqoQDrSQEaEGP",
-      "latestPower": "5.089627",
+      "latestPower": "5.086419",
       "share": "0.00"
     },
     {
@@ -1991,7 +1991,7 @@
       "escrowStartedAt": "2022-02-14T06:49:30.000Z",
       "escrowEndsAt": "2027-02-13T06:49:30.000Z",
       "tokenAccount": "5bG9W4dEA4yeGZSFfsQZkz8d6bscaoNxX9P1ujksvtNr",
-      "latestPower": "5.089329",
+      "latestPower": "5.086109",
       "share": "0.00"
     },
     {
@@ -2001,7 +2001,7 @@
       "escrowStartedAt": "2022-02-20T00:04:25.000Z",
       "escrowEndsAt": "2027-02-19T00:04:25.000Z",
       "tokenAccount": "HDcpmWcsM4crw2YMZqnafjJ3VAYaQM7v1saJx9vjFKDD",
-      "latestPower": "5.086230",
+      "latestPower": "5.083023",
       "share": "0.00"
     },
     {
@@ -2011,7 +2011,7 @@
       "escrowStartedAt": "2022-02-14T09:49:19.000Z",
       "escrowEndsAt": "2027-02-13T09:49:19.000Z",
       "tokenAccount": "HyWLzU6xQDQRoLN6tLpYwB8ociEKAi9L34sZuQJVdzjF",
-      "latestPower": "5.085936",
+      "latestPower": "5.082718",
       "share": "0.00"
     },
     {
@@ -2021,7 +2021,7 @@
       "escrowStartedAt": "2022-02-14T09:17:55.000Z",
       "escrowEndsAt": "2027-02-13T09:17:55.000Z",
       "tokenAccount": "MW2t3Jv6ph9s7fFbVa7b8tg6z4XPWr4k2tdWoDC4dhu",
-      "latestPower": "5.084804",
+      "latestPower": "5.081587",
       "share": "0.00"
     },
     {
@@ -2031,7 +2031,7 @@
       "escrowStartedAt": "2022-02-21T05:05:30.000Z",
       "escrowEndsAt": "2027-02-20T05:05:30.000Z",
       "tokenAccount": "6FX1kFj6mds8rpn1MDe1XxRZ9fZBXe4ct9o2vhicMKmX",
-      "latestPower": "5.077073",
+      "latestPower": "5.073875",
       "share": "0.00"
     },
     {
@@ -2041,7 +2041,7 @@
       "escrowStartedAt": "2022-02-14T14:41:57.000Z",
       "escrowEndsAt": "2027-02-13T14:41:57.000Z",
       "tokenAccount": "F3cduA8SzdyGSFtTGEuGYAu4nKaMgPYXJLGBckaGydZk",
-      "latestPower": "5.074482",
+      "latestPower": "5.071272",
       "share": "0.00"
     },
     {
@@ -2051,7 +2051,7 @@
       "escrowStartedAt": "2022-02-14T21:13:17.000Z",
       "escrowEndsAt": "2027-02-13T21:13:17.000Z",
       "tokenAccount": "9m8zqE7pMSr4LfWRjcDPUYUcgXqFuChtMsRCEcZ8uFMV",
-      "latestPower": "5.074318",
+      "latestPower": "5.071109",
       "share": "0.00"
     },
     {
@@ -2061,7 +2061,7 @@
       "escrowStartedAt": "2022-02-14T17:09:02.000Z",
       "escrowEndsAt": "2027-02-13T17:09:02.000Z",
       "tokenAccount": "CEvjJU1i4MT3v4yzdP55SRfdWBhCm7B5PRH815dFWuWt",
-      "latestPower": "5.070225",
+      "latestPower": "5.067018",
       "share": "0.00"
     },
     {
@@ -2071,7 +2071,7 @@
       "escrowStartedAt": "2022-02-15T06:59:00.000Z",
       "escrowEndsAt": "2027-02-14T06:59:00.000Z",
       "tokenAccount": "6KuXYSfR7EtY7JZ5dXiuPAj967Z8LbP2DAwAAJgcfatk",
-      "latestPower": "5.066004",
+      "latestPower": "5.062801",
       "share": "0.00"
     },
     {
@@ -2081,7 +2081,7 @@
       "escrowStartedAt": "2022-02-12T22:37:31.000Z",
       "escrowEndsAt": "2027-02-11T22:37:31.000Z",
       "tokenAccount": "HJyfnfCqpMb4LgCsWg215xMR6D2raMKNNoqr9HbENt1Q",
-      "latestPower": "5.065402",
+      "latestPower": "5.062195",
       "share": "0.00"
     },
     {
@@ -2091,7 +2091,7 @@
       "escrowStartedAt": "2022-02-14T16:06:39.000Z",
       "escrowEndsAt": "2027-02-13T16:06:39.000Z",
       "tokenAccount": "H2RPrAyZxXez5JrXCdUbKSt5MyiKeWu2Drwx2c84Tfs4",
-      "latestPower": "5.065203",
+      "latestPower": "5.061999",
       "share": "0.00"
     },
     {
@@ -2101,7 +2101,7 @@
       "escrowStartedAt": "2022-02-15T08:21:49.000Z",
       "escrowEndsAt": "2027-02-14T08:21:49.000Z",
       "tokenAccount": "4TnzFtZwuQBAZbZ7tcekAJhrMcGS5nWJv5e6X6bApj3M",
-      "latestPower": "5.028350",
+      "latestPower": "5.025171",
       "share": "0.00"
     },
     {
@@ -2111,7 +2111,7 @@
       "escrowStartedAt": "2022-02-20T07:13:39.000Z",
       "escrowEndsAt": "2027-02-19T07:13:39.000Z",
       "tokenAccount": "DesntRT7yMJFNDhKwpSoKHKT4z5ji5aK289aXr7TbBxS",
-      "latestPower": "5.026429",
+      "latestPower": "5.023261",
       "share": "0.00"
     },
     {
@@ -2121,7 +2121,7 @@
       "escrowStartedAt": "2022-02-18T19:28:42.000Z",
       "escrowEndsAt": "2027-02-17T19:28:42.000Z",
       "tokenAccount": "2QrG5DhChTPvE1Q1dEXjxZx3tJpc1jppagForzH3e42L",
-      "latestPower": "5.019987",
+      "latestPower": "5.016820",
       "share": "0.00"
     },
     {
@@ -2131,7 +2131,7 @@
       "escrowStartedAt": "2022-02-18T20:03:06.000Z",
       "escrowEndsAt": "2027-02-17T20:03:06.000Z",
       "tokenAccount": "8D7YdwX3tgPdXy6VFB2g8VfwdRJLBmivsDfhfb5E9VhQ",
-      "latestPower": "5.019719",
+      "latestPower": "5.016553",
       "share": "0.00"
     },
     {
@@ -2141,7 +2141,7 @@
       "escrowStartedAt": "2022-02-19T12:48:52.000Z",
       "escrowEndsAt": "2027-02-18T12:48:52.000Z",
       "tokenAccount": "5VzYEX2JqfzEXppDHETiSCzsWAPBXCjfmX6VuqMfcu4e",
-      "latestPower": "5.012033",
+      "latestPower": "5.008872",
       "share": "0.00"
     },
     {
@@ -2151,7 +2151,7 @@
       "escrowStartedAt": "2022-02-15T01:48:35.000Z",
       "escrowEndsAt": "2027-02-14T01:48:35.000Z",
       "tokenAccount": "7b9HcLGevdajSFZgZVSU2KTDhy8nbBan5kHD2K4Ukeao",
-      "latestPower": "5.009512",
+      "latestPower": "5.006344",
       "share": "0.00"
     },
     {
@@ -2161,7 +2161,7 @@
       "escrowStartedAt": "2022-02-13T14:49:37.000Z",
       "escrowEndsAt": "2027-02-12T14:49:37.000Z",
       "tokenAccount": "7knK2g8UZKU2bKY3WFdCkTP3ZCe39xSDYJkz3MMEhyCk",
-      "latestPower": "4.990195",
+      "latestPower": "4.987036",
       "share": "0.00"
     },
     {
@@ -2171,7 +2171,7 @@
       "escrowStartedAt": "2022-02-15T08:58:42.000Z",
       "escrowEndsAt": "2027-02-14T08:58:42.000Z",
       "tokenAccount": "6nWeCu4tui23nVidKo8fuNEyt2PAZBPUM7X7bK2qWkYy",
-      "latestPower": "4.988201",
+      "latestPower": "4.985047",
       "share": "0.00"
     },
     {
@@ -2181,7 +2181,7 @@
       "escrowStartedAt": "2022-02-15T12:30:42.000Z",
       "escrowEndsAt": "2027-02-14T12:30:42.000Z",
       "tokenAccount": "9iJaFYfNLfW1fHHCbf8c76rF2Ehc8WpYTaC3ECXPnjK",
-      "latestPower": "4.985998",
+      "latestPower": "4.982846",
       "share": "0.00"
     },
     {
@@ -2191,7 +2191,7 @@
       "escrowStartedAt": "2022-02-12T15:42:03.000Z",
       "escrowEndsAt": "2027-02-11T15:42:03.000Z",
       "tokenAccount": "H8fX1QVBSnXnwpyhWcrQc7hArtZZHy4cAHp3WtMHDTSF",
-      "latestPower": "4.979241",
+      "latestPower": "4.976088",
       "share": "0.00"
     },
     {
@@ -2201,7 +2201,7 @@
       "escrowStartedAt": "2022-02-12T16:11:08.000Z",
       "escrowEndsAt": "2027-02-11T16:11:08.000Z",
       "tokenAccount": "9xMm5dmZbdvr7GvUWAL45ZZSzpJsbudk4pmEgKtz8JLa",
-      "latestPower": "4.978552",
+      "latestPower": "4.975399",
       "share": "0.00"
     },
     {
@@ -2211,7 +2211,7 @@
       "escrowStartedAt": "2022-02-20T12:08:33.000Z",
       "escrowEndsAt": "2027-02-19T12:08:33.000Z",
       "tokenAccount": "EzuwLVYx2BqUrNurAZ43NRwDYU4XYWf4tQwuLverSzJc",
-      "latestPower": "4.966530",
+      "latestPower": "4.963401",
       "share": "0.00"
     },
     {
@@ -2221,7 +2221,7 @@
       "escrowStartedAt": "2022-02-18T10:26:37.000Z",
       "escrowEndsAt": "2027-02-17T10:26:37.000Z",
       "tokenAccount": "9m983NRG9ojhZRnCL5ELJwEKPDMtDJTdZNU4NwsusjLV",
-      "latestPower": "4.945644",
+      "latestPower": "4.942523",
       "share": "0.00"
     },
     {
@@ -2231,7 +2231,7 @@
       "escrowStartedAt": "2022-02-18T12:07:33.000Z",
       "escrowEndsAt": "2027-02-17T12:07:33.000Z",
       "tokenAccount": "89zdF9t7bcZD8PPpQ3aYuRBFqSbvagi9S7q1NRbTMnLK",
-      "latestPower": "4.945394",
+      "latestPower": "4.942273",
       "share": "0.00"
     },
     {
@@ -2241,7 +2241,7 @@
       "escrowStartedAt": "2022-02-18T12:39:04.000Z",
       "escrowEndsAt": "2027-02-17T12:39:04.000Z",
       "tokenAccount": "FoWMmnjAfa6drhnQncBjWWyxEyG9SJrdwQXfu2ZtirkM",
-      "latestPower": "4.943368",
+      "latestPower": "4.940249",
       "share": "0.00"
     },
     {
@@ -2251,7 +2251,7 @@
       "escrowStartedAt": "2022-02-12T08:13:37.000Z",
       "escrowEndsAt": "2027-02-11T08:13:37.000Z",
       "tokenAccount": "5pbWDoMU5Tj66W8nCcVNv8nkLD634PF8qZMZTrRzM6L5",
-      "latestPower": "4.938807",
+      "latestPower": "4.935678",
       "share": "0.00"
     },
     {
@@ -2261,7 +2261,7 @@
       "escrowStartedAt": "2022-02-12T08:35:15.000Z",
       "escrowEndsAt": "2027-02-11T08:35:15.000Z",
       "tokenAccount": "5aMMpxrGRmPvwW795YF95NGEMM91LsPE62axP4STAXcN",
-      "latestPower": "4.938724",
+      "latestPower": "4.935596",
       "share": "0.00"
     },
     {
@@ -2271,7 +2271,7 @@
       "escrowStartedAt": "2022-02-15T18:33:28.000Z",
       "escrowEndsAt": "2027-02-14T18:33:28.000Z",
       "tokenAccount": "AKWgcTkvPPiui2PCZ6E1mXXMbCWJmutp4JHagxsxJiG2",
-      "latestPower": "4.933308",
+      "latestPower": "4.930190",
       "share": "0.00"
     },
     {
@@ -2281,7 +2281,7 @@
       "escrowStartedAt": "2022-02-14T04:27:36.000Z",
       "escrowEndsAt": "2027-02-13T04:27:36.000Z",
       "tokenAccount": "97raR7JRLbCGMxDppoig5C44WtrE9MGKgtQB6SUM895j",
-      "latestPower": "4.928490",
+      "latestPower": "4.925372",
       "share": "0.00"
     },
     {
@@ -2291,7 +2291,7 @@
       "escrowStartedAt": "2022-02-18T10:28:40.000Z",
       "escrowEndsAt": "2027-02-17T10:28:40.000Z",
       "tokenAccount": "HN7JPkbXQj3bmFaGz6T5h49Y7VrcMq96pcw6W79CHdG",
-      "latestPower": "4.927696",
+      "latestPower": "4.924587",
       "share": "0.00"
     },
     {
@@ -2301,7 +2301,7 @@
       "escrowStartedAt": "2022-02-15T19:28:28.000Z",
       "escrowEndsAt": "2027-02-14T19:28:28.000Z",
       "tokenAccount": "FkfcJCKTVH8mc7nSsamXcAqEMRxH34nx7QcEW826uVpA",
-      "latestPower": "4.920513",
+      "latestPower": "4.917403",
       "share": "0.00"
     },
     {
@@ -2311,7 +2311,7 @@
       "escrowStartedAt": "2022-02-13T11:42:14.000Z",
       "escrowEndsAt": "2027-02-12T11:42:14.000Z",
       "tokenAccount": "7ipEW3TJkKRh4KXxBiqWzGb4DKiUU3PRqwaxLPXuXHTc",
-      "latestPower": "4.903797",
+      "latestPower": "4.900693",
       "share": "0.00"
     },
     {
@@ -2321,7 +2321,7 @@
       "escrowStartedAt": "2022-02-19T05:38:59.000Z",
       "escrowEndsAt": "2027-02-18T05:38:59.000Z",
       "tokenAccount": "7V7zvsjtUthhVKf49F5CA5u4sCZrGC9Umvtyjx3hiCk7",
-      "latestPower": "4.903413",
+      "latestPower": "4.900321",
       "share": "0.00"
     },
     {
@@ -2331,7 +2331,7 @@
       "escrowStartedAt": "2022-02-13T10:14:54.000Z",
       "escrowEndsAt": "2027-02-12T10:14:54.000Z",
       "tokenAccount": "4tNbQC7da6Acz5FhBuHFRjtkUBUsb5Ab4KMdR7G6XjXJ",
-      "latestPower": "4.898495",
+      "latestPower": "4.895395",
       "share": "0.00"
     },
     {
@@ -2341,7 +2341,7 @@
       "escrowStartedAt": "2022-02-12T00:28:18.000Z",
       "escrowEndsAt": "2027-02-11T00:28:18.000Z",
       "tokenAccount": "BmhF6tdbq1vcZBnm5DMAQmVTQiZFwJW6i2YNeRSwZ8XT",
-      "latestPower": "4.891585",
+      "latestPower": "4.888486",
       "share": "0.00"
     },
     {
@@ -2351,7 +2351,7 @@
       "escrowStartedAt": "2022-02-24T12:14:21.000Z",
       "escrowEndsAt": "2027-02-23T12:14:21.000Z",
       "tokenAccount": "89KBgLrob6oMDi3NdmxpHdnvZH5AcTAPsMbBRWDv9SQN",
-      "latestPower": "4.881731",
+      "latestPower": "4.878663",
       "share": "0.00"
     },
     {
@@ -2361,7 +2361,7 @@
       "escrowStartedAt": "2022-02-12T21:25:58.000Z",
       "escrowEndsAt": "2027-02-11T21:25:58.000Z",
       "tokenAccount": "5MMKS6nyRjjh2bbin1yz4LyH6A2KoXQcNct6WttUBZNj",
-      "latestPower": "4.875042",
+      "latestPower": "4.871955",
       "share": "0.00"
     },
     {
@@ -2371,7 +2371,7 @@
       "escrowStartedAt": "2022-02-13T01:01:47.000Z",
       "escrowEndsAt": "2027-02-12T01:01:47.000Z",
       "tokenAccount": "2V64FHyRxzsZoeshk8a7qWJxUG6EVJdJJTzJpkgSWYC8",
-      "latestPower": "4.868531",
+      "latestPower": "4.865448",
       "share": "0.00"
     },
     {
@@ -2381,7 +2381,7 @@
       "escrowStartedAt": "2022-02-13T07:49:50.000Z",
       "escrowEndsAt": "2027-02-12T07:49:50.000Z",
       "tokenAccount": "CbtTJ7HziJfMGiGrZiDAkHHhzgzFaH1z24Aoz2o1eWTr",
-      "latestPower": "4.866802",
+      "latestPower": "4.863721",
       "share": "0.00"
     },
     {
@@ -2391,7 +2391,7 @@
       "escrowStartedAt": "2022-02-13T07:59:04.000Z",
       "escrowEndsAt": "2027-02-12T07:59:04.000Z",
       "tokenAccount": "8GxCvRBmD6etxkD7Y7K8Cni58xwkKUDcW6WPxwCFc6RY",
-      "latestPower": "4.865614",
+      "latestPower": "4.862534",
       "share": "0.00"
     },
     {
@@ -2401,7 +2401,7 @@
       "escrowStartedAt": "2022-02-13T03:17:12.000Z",
       "escrowEndsAt": "2027-02-12T03:17:12.000Z",
       "tokenAccount": "HvhQ1edPfyc9MD5hwCJ4gfeMToEs1F2pM6RDdCDa8yEk",
-      "latestPower": "4.865574",
+      "latestPower": "4.862493",
       "share": "0.00"
     },
     {
@@ -2411,7 +2411,7 @@
       "escrowStartedAt": "2022-02-11T23:12:48.000Z",
       "escrowEndsAt": "2027-02-10T23:12:48.000Z",
       "tokenAccount": "5tfSM61pELJXX19tt9wdiBxmmvEH6YkHzoHWwFBuTccN",
-      "latestPower": "4.862599",
+      "latestPower": "4.859518",
       "share": "0.00"
     },
     {
@@ -2421,7 +2421,7 @@
       "escrowStartedAt": "2022-02-21T02:15:09.000Z",
       "escrowEndsAt": "2027-02-20T02:15:09.000Z",
       "tokenAccount": "F3GTukQwYuYjW8MwTqcMARgfyWZzZdWwfovb3YfdKfGw",
-      "latestPower": "4.841606",
+      "latestPower": "4.838556",
       "share": "0.00"
     },
     {
@@ -2431,7 +2431,7 @@
       "escrowStartedAt": "2022-02-13T05:22:33.000Z",
       "escrowEndsAt": "2027-02-12T05:22:33.000Z",
       "tokenAccount": "BfXTADNPunwfjC9hZxUdLrA8QFMUrfFYA8GPu8J8zNaG",
-      "latestPower": "4.823955",
+      "latestPower": "4.820901",
       "share": "0.00"
     },
     {
@@ -2441,7 +2441,7 @@
       "escrowStartedAt": "2022-02-18T06:35:02.000Z",
       "escrowEndsAt": "2027-02-17T06:35:02.000Z",
       "tokenAccount": "86WNktQccAfPrDQTFLaqWexKFRaEE6qZwY9VvLpjbo7X",
-      "latestPower": "4.820944",
+      "latestPower": "4.817902",
       "share": "0.00"
     },
     {
@@ -2451,7 +2451,7 @@
       "escrowStartedAt": "2022-02-11T17:06:16.000Z",
       "escrowEndsAt": "2027-02-10T17:06:16.000Z",
       "tokenAccount": "3PrwgQ3FDF65p8Bcs6PJHYgZfbCs24dgbSohZMHu8LpU",
-      "latestPower": "4.797577",
+      "latestPower": "4.794537",
       "share": "0.00"
     },
     {
@@ -2461,7 +2461,7 @@
       "escrowStartedAt": "2022-02-24T02:43:49.000Z",
       "escrowEndsAt": "2027-02-23T02:43:49.000Z",
       "tokenAccount": "JQQKWPztiz4GXjYfEfQ26yNngntxmdzmzn2QV5uBTNZ",
-      "latestPower": "4.795111",
+      "latestPower": "4.792096",
       "share": "0.00"
     },
     {
@@ -2471,7 +2471,7 @@
       "escrowStartedAt": "2022-02-23T11:12:33.000Z",
       "escrowEndsAt": "2027-02-22T11:12:33.000Z",
       "tokenAccount": "BzMum2qV3V14LPZoy4Y4cwZuQKBNAWvthzhfttkQ7ijA",
-      "latestPower": "4.793162",
+      "latestPower": "4.790147",
       "share": "0.00"
     },
     {
@@ -2481,7 +2481,7 @@
       "escrowStartedAt": "2022-02-22T12:49:27.000Z",
       "escrowEndsAt": "2027-02-21T12:49:27.000Z",
       "tokenAccount": "viQjK6FHpU53iMSeJXUQTDNzeYcDWw4xburyvj81vSS",
-      "latestPower": "4.790351",
+      "latestPower": "4.787336",
       "share": "0.00"
     },
     {
@@ -2491,7 +2491,7 @@
       "escrowStartedAt": "2022-02-22T12:50:10.000Z",
       "escrowEndsAt": "2027-02-21T12:50:10.000Z",
       "tokenAccount": "EdoRjvnKPnwHsZK89RMLYWiSZyE1fEZfHcSjj9AmibmF",
-      "latestPower": "4.790235",
+      "latestPower": "4.787220",
       "share": "0.00"
     },
     {
@@ -2501,7 +2501,7 @@
       "escrowStartedAt": "2022-02-21T15:40:59.000Z",
       "escrowEndsAt": "2027-02-20T15:40:59.000Z",
       "tokenAccount": "51wxknGJ9v7H8R85nvsMTUr9nNML2T7kiMVc2sGWJk6d",
-      "latestPower": "4.787696",
+      "latestPower": "4.784681",
       "share": "0.00"
     },
     {
@@ -2511,7 +2511,7 @@
       "escrowStartedAt": "2022-02-21T15:06:38.000Z",
       "escrowEndsAt": "2027-02-20T15:06:38.000Z",
       "tokenAccount": "49XKi5p7ZGCp2UWxLKgPfxQPsvPtC74ArnyPjyMRTnHb",
-      "latestPower": "4.787624",
+      "latestPower": "4.784609",
       "share": "0.00"
     },
     {
@@ -2521,7 +2521,7 @@
       "escrowStartedAt": "2022-02-21T13:54:05.000Z",
       "escrowEndsAt": "2027-02-20T13:54:05.000Z",
       "tokenAccount": "8EQsmamh5Jygfy6txdNa9M2cxYiLJUXvynmCu1GgGxpP",
-      "latestPower": "4.787473",
+      "latestPower": "4.784458",
       "share": "0.00"
     },
     {
@@ -2531,7 +2531,7 @@
       "escrowStartedAt": "2022-02-20T17:23:29.000Z",
       "escrowEndsAt": "2027-02-19T17:23:29.000Z",
       "tokenAccount": "3kNRdde3jpqZL6EqTwxvy3HLnMxuPMdu1gmRDBW8UzLS",
-      "latestPower": "4.784897",
+      "latestPower": "4.781882",
       "share": "0.00"
     },
     {
@@ -2541,7 +2541,7 @@
       "escrowStartedAt": "2022-02-20T09:07:11.000Z",
       "escrowEndsAt": "2027-02-19T09:07:11.000Z",
       "tokenAccount": "3MAffYsAhM1qXKCZoUR33aWk93fVxULRNSwYfoLtXTuk",
-      "latestPower": "4.783858",
+      "latestPower": "4.780843",
       "share": "0.00"
     },
     {
@@ -2551,7 +2551,7 @@
       "escrowStartedAt": "2022-02-18T18:21:29.000Z",
       "escrowEndsAt": "2027-02-17T18:21:29.000Z",
       "tokenAccount": "DX6QBYt7aPo65V9LgmR6z4hTBjRTdX7zNePLrF9CFYeb",
-      "latestPower": "4.778991",
+      "latestPower": "4.775976",
       "share": "0.00"
     },
     {
@@ -2561,7 +2561,7 @@
       "escrowStartedAt": "2022-02-17T03:41:02.000Z",
       "escrowEndsAt": "2027-02-16T03:41:02.000Z",
       "tokenAccount": "6ZRdGogQiEssKdDZnH3rEp2CpcxCwx9z8VXDPpXwXFMD",
-      "latestPower": "4.774135",
+      "latestPower": "4.771120",
       "share": "0.00"
     },
     {
@@ -2571,7 +2571,7 @@
       "escrowStartedAt": "2022-02-16T08:48:15.000Z",
       "escrowEndsAt": "2027-02-15T08:48:15.000Z",
       "tokenAccount": "DnjY6L7JXerU9zqVKdH699mLK85L6wTuLonCED81S2F9",
-      "latestPower": "4.771764",
+      "latestPower": "4.768749",
       "share": "0.00"
     },
     {
@@ -2581,7 +2581,7 @@
       "escrowStartedAt": "2022-02-15T03:12:11.000Z",
       "escrowEndsAt": "2027-02-14T03:12:11.000Z",
       "tokenAccount": "BNyPuoP1SiyhGeJ81tTtWp4G9Np5M46RWa84sn3B9siq",
-      "latestPower": "4.768047",
+      "latestPower": "4.765032",
       "share": "0.00"
     },
     {
@@ -2591,7 +2591,7 @@
       "escrowStartedAt": "2022-02-14T11:58:33.000Z",
       "escrowEndsAt": "2027-02-13T11:58:33.000Z",
       "tokenAccount": "3N6wzSkw98Bn5YEtqVBdwN2YBFhhMeYxBGMXmVedicbi",
-      "latestPower": "4.766135",
+      "latestPower": "4.763120",
       "share": "0.00"
     },
     {
@@ -2601,7 +2601,7 @@
       "escrowStartedAt": "2022-02-14T11:32:22.000Z",
       "escrowEndsAt": "2027-02-13T11:32:22.000Z",
       "tokenAccount": "CyMu4MHbqLopQ3kjZcuqGWP5L1REqo5Q8ujxkaCMQd99",
-      "latestPower": "4.766084",
+      "latestPower": "4.763069",
       "share": "0.00"
     },
     {
@@ -2611,7 +2611,7 @@
       "escrowStartedAt": "2022-02-14T11:11:14.000Z",
       "escrowEndsAt": "2027-02-13T11:11:14.000Z",
       "tokenAccount": "J4staCGJ9DXGLEz7QwDQfkpxBmEDUyyTEDFoMmHF51CV",
-      "latestPower": "4.766036",
+      "latestPower": "4.763021",
       "share": "0.00"
     },
     {
@@ -2621,7 +2621,7 @@
       "escrowStartedAt": "2022-02-13T07:01:22.000Z",
       "escrowEndsAt": "2027-02-12T07:01:22.000Z",
       "tokenAccount": "927GGccBqwtgYikWFSDvymVu4zHo8keG9QB5XjT8qphr",
-      "latestPower": "4.762499",
+      "latestPower": "4.759484",
       "share": "0.00"
     },
     {
@@ -2631,7 +2631,7 @@
       "escrowStartedAt": "2022-02-13T01:07:38.000Z",
       "escrowEndsAt": "2027-02-12T01:07:38.000Z",
       "tokenAccount": "E2LYm98RZVSecs7Ru8tbae94xsWLY1aBjLKYXTWepFWC",
-      "latestPower": "4.761759",
+      "latestPower": "4.758744",
       "share": "0.00"
     },
     {
@@ -2641,7 +2641,7 @@
       "escrowStartedAt": "2022-02-13T00:36:00.000Z",
       "escrowEndsAt": "2027-02-12T00:36:00.000Z",
       "tokenAccount": "7fn9NrSaeosxAPPxth2BoN3td4VgfpkyFncBEkB4qydE",
-      "latestPower": "4.761693",
+      "latestPower": "4.758678",
       "share": "0.00"
     },
     {
@@ -2651,7 +2651,7 @@
       "escrowStartedAt": "2022-02-12T14:00:05.000Z",
       "escrowEndsAt": "2027-02-11T14:00:05.000Z",
       "tokenAccount": "HhUxnvkU8fpFaHR5BT4DKk47i4ELqJFet3QsR8sP49gP",
-      "latestPower": "4.760366",
+      "latestPower": "4.757351",
       "share": "0.00"
     },
     {
@@ -2661,7 +2661,7 @@
       "escrowStartedAt": "2022-02-12T11:36:37.000Z",
       "escrowEndsAt": "2027-02-11T11:36:37.000Z",
       "tokenAccount": "BNHT2tnc6ZgiydRcCCsJ3cxHL2936QSVV4UdqHgjHvVh",
-      "latestPower": "4.760062",
+      "latestPower": "4.757047",
       "share": "0.00"
     },
     {
@@ -2671,7 +2671,7 @@
       "escrowStartedAt": "2022-02-12T08:12:27.000Z",
       "escrowEndsAt": "2027-02-11T08:12:27.000Z",
       "tokenAccount": "HPV5cqGq2osrMX62CqY7JfkavobpikXDTgtAsg9L9hd7",
-      "latestPower": "4.759634",
+      "latestPower": "4.756619",
       "share": "0.00"
     },
     {
@@ -2681,7 +2681,7 @@
       "escrowStartedAt": "2022-02-12T07:58:46.000Z",
       "escrowEndsAt": "2027-02-11T07:58:46.000Z",
       "tokenAccount": "DEyHTrDY9rPLsrvNVtTBaNcTDoJ5VGmd1PwauwcwDQk3",
-      "latestPower": "4.759606",
+      "latestPower": "4.756591",
       "share": "0.00"
     },
     {
@@ -2691,7 +2691,7 @@
       "escrowStartedAt": "2022-02-22T09:58:34.000Z",
       "escrowEndsAt": "2027-02-21T09:58:34.000Z",
       "tokenAccount": "A7gBoKiMEpadEeKoLU7TnK4NyHaE4ddfZJ5m13XpeBhz",
-      "latestPower": "4.730192",
+      "latestPower": "4.727215",
       "share": "0.00"
     },
     {
@@ -2701,7 +2701,7 @@
       "escrowStartedAt": "2022-02-14T07:06:36.000Z",
       "escrowEndsAt": "2027-02-13T07:06:36.000Z",
       "tokenAccount": "81qjoYfEzA6syF9Z6y7FsMuWVWuyu7sP3mAZ5B2bu3h2",
-      "latestPower": "4.722201",
+      "latestPower": "4.719213",
       "share": "0.00"
     },
     {
@@ -2711,7 +2711,7 @@
       "escrowStartedAt": "2022-02-20T20:43:03.000Z",
       "escrowEndsAt": "2027-02-19T20:43:03.000Z",
       "tokenAccount": "4vDyeK74Q3ZcTxLBTgvczetZ1SiwipaNKY3hAWsnsYJ2",
-      "latestPower": "4.720073",
+      "latestPower": "4.717100",
       "share": "0.00"
     },
     {
@@ -2721,7 +2721,7 @@
       "escrowStartedAt": "2022-02-23T09:47:32.000Z",
       "escrowEndsAt": "2027-02-22T09:47:32.000Z",
       "tokenAccount": "3HFPWMiYvaE4VWmq6inLkL5VHqs2MfSxeCXXcXdT5WbJ",
-      "latestPower": "4.695961",
+      "latestPower": "4.693007",
       "share": "0.00"
     },
     {
@@ -2731,7 +2731,7 @@
       "escrowStartedAt": "2022-02-12T06:37:17.000Z",
       "escrowEndsAt": "2027-02-11T06:37:17.000Z",
       "tokenAccount": "846yvTGxeuL7rbLD3PL593tBNwk6PW61RDA7Y4N8aXZX",
-      "latestPower": "4.648666",
+      "latestPower": "4.645721",
       "share": "0.00"
     },
     {
@@ -2741,7 +2741,7 @@
       "escrowStartedAt": "2022-02-23T18:33:03.000Z",
       "escrowEndsAt": "2027-02-22T18:33:03.000Z",
       "tokenAccount": "2QvtEn2bVUq6m6N8L9Pd597TmcSzxgZn4R1rtKd6NPXF",
-      "latestPower": "4.628932",
+      "latestPower": "4.626021",
       "share": "0.00"
     },
     {
@@ -2751,7 +2751,7 @@
       "escrowStartedAt": "2022-03-11T01:55:17.000Z",
       "escrowEndsAt": "2027-03-10T01:55:17.000Z",
       "tokenAccount": "9GiL2srcUwkVXwSbrzJR7yCw3t32cTsdXcVdiq16fi1m",
-      "latestPower": "4.620205",
+      "latestPower": "4.617327",
       "share": "0.00"
     },
     {
@@ -2761,7 +2761,7 @@
       "escrowStartedAt": "2022-01-07T08:15:12.000Z",
       "escrowEndsAt": "2027-01-06T08:15:12.000Z",
       "tokenAccount": "5EaE2FVuy8srHUnABePqh4aTQtW8N7TrjXziPXyh6U16",
-      "latestPower": "4.607824",
+      "latestPower": "4.604837",
       "share": "0.00"
     },
     {
@@ -2771,7 +2771,7 @@
       "escrowStartedAt": "2022-02-17T12:22:14.000Z",
       "escrowEndsAt": "2027-02-16T12:22:14.000Z",
       "tokenAccount": "3H3JuaM8SJToxLRiePeyku72qCywphJwayh88mfCsZmN",
-      "latestPower": "4.601581",
+      "latestPower": "4.598676",
       "share": "0.00"
     },
     {
@@ -2781,7 +2781,7 @@
       "escrowStartedAt": "2022-02-14T12:28:24.000Z",
       "escrowEndsAt": "2026-12-20T21:10:33.000Z",
       "tokenAccount": "3RKbkNfvX5mCSunFjaP1KPUUB6ie8PqAuZp5orxpUdnk",
-      "latestPower": "4.601537",
+      "latestPower": "4.598522",
       "share": "0.00"
     },
     {
@@ -2791,7 +2791,7 @@
       "escrowStartedAt": "2022-02-20T02:01:47.000Z",
       "escrowEndsAt": "2027-02-19T02:01:47.000Z",
       "tokenAccount": "6GfeeuKjs2hh93NtJMRLf4GCKhX6aje2N9cgC1EiXaPT",
-      "latestPower": "4.593989",
+      "latestPower": "4.591093",
       "share": "0.00"
     },
     {
@@ -2801,7 +2801,7 @@
       "escrowStartedAt": "2022-02-11T16:32:42.000Z",
       "escrowEndsAt": "2027-02-10T16:32:42.000Z",
       "tokenAccount": "4vbVLP1h7Hiazw4zwTcoZZJ87yCzTePpqvP2wmLr3kdj",
-      "latestPower": "4.585959",
+      "latestPower": "4.583053",
       "share": "0.00"
     },
     {
@@ -2811,7 +2811,7 @@
       "escrowStartedAt": "2022-02-19T16:31:07.000Z",
       "escrowEndsAt": "2027-02-18T16:31:07.000Z",
       "tokenAccount": "JDkPPdF9MrpJ9CCQUWzDULQFPnmEYV2sRN5nuV2Yxti3",
-      "latestPower": "4.584965",
+      "latestPower": "4.582074",
       "share": "0.00"
     },
     {
@@ -2821,17 +2821,7 @@
       "escrowStartedAt": "2022-02-14T12:10:54.000Z",
       "escrowEndsAt": "2027-02-13T12:10:54.000Z",
       "tokenAccount": "87SfQ6kY1wbR4ViRamW9p4sNYtNq3kVoDKNc923LxeKp",
-      "latestPower": "4.549517",
-      "share": "0.00"
-    },
-    {
-      "escrow": "2rFWDsUcqs7MpbXvEwHiReccBueCZyuWfghHEdqpZyHW",
-      "amount": "10.500442",
-      "owner": "7wdsabgkgiSESWKDvCx89duyTbuKsBjhGhBxYtviyiBz",
-      "escrowStartedAt": "2022-03-22T21:32:41.000Z",
-      "escrowEndsAt": "2023-03-22T21:32:41.000Z",
-      "tokenAccount": "6cdcUvk2ZFi3FGnvcVqYTYf91sfYWXJ6pTaxJUQUnyPA",
-      "latestPower": "4.542205",
+      "latestPower": "4.546639",
       "share": "0.00"
     },
     {
@@ -2841,7 +2831,17 @@
       "escrowStartedAt": "2022-02-22T00:52:29.000Z",
       "escrowEndsAt": "2027-02-21T00:52:29.000Z",
       "tokenAccount": "BzbVJLtLuQ4xgsQa6h3wY2JHqrCF3X4HWxy8xEFe8UFy",
-      "latestPower": "4.531846",
+      "latestPower": "4.528993",
+      "share": "0.00"
+    },
+    {
+      "escrow": "2rFWDsUcqs7MpbXvEwHiReccBueCZyuWfghHEdqpZyHW",
+      "amount": "10.500442",
+      "owner": "7wdsabgkgiSESWKDvCx89duyTbuKsBjhGhBxYtviyiBz",
+      "escrowStartedAt": "2022-03-22T21:32:41.000Z",
+      "escrowEndsAt": "2023-03-22T21:32:41.000Z",
+      "tokenAccount": "6cdcUvk2ZFi3FGnvcVqYTYf91sfYWXJ6pTaxJUQUnyPA",
+      "latestPower": "4.513425",
       "share": "0.00"
     },
     {
@@ -2851,7 +2851,7 @@
       "escrowStartedAt": "2022-02-17T03:56:35.000Z",
       "escrowEndsAt": "2027-02-16T03:56:35.000Z",
       "tokenAccount": "FnsSpsbB8ANjr14zMnFTw8gqKHVaRJfAhUq5qp3N8JG2",
-      "latestPower": "4.513758",
+      "latestPower": "4.510908",
       "share": "0.00"
     },
     {
@@ -2861,7 +2861,7 @@
       "escrowStartedAt": "2022-02-13T19:54:30.000Z",
       "escrowEndsAt": "2027-02-12T19:54:30.000Z",
       "tokenAccount": "5QQ66whs6MWHHpFC7VJyPDCCh9UoBCPFZMTGYcAoM1Ks",
-      "latestPower": "4.488652",
+      "latestPower": "4.485811",
       "share": "0.00"
     },
     {
@@ -2871,7 +2871,7 @@
       "escrowStartedAt": "2022-02-22T23:44:35.000Z",
       "escrowEndsAt": "2027-02-21T23:44:35.000Z",
       "tokenAccount": "ACEsCqD7irdK3f6fi765gYKZFPoTCJBhtD8KqCGyVP29",
-      "latestPower": "4.486794",
+      "latestPower": "4.483971",
       "share": "0.00"
     },
     {
@@ -2881,7 +2881,7 @@
       "escrowStartedAt": "2022-02-12T09:18:54.000Z",
       "escrowEndsAt": "2027-02-11T09:18:54.000Z",
       "tokenAccount": "9zmM3gsQPK93tU1jcHDR9pKBigmbTediHai1BEreFq9e",
-      "latestPower": "4.483737",
+      "latestPower": "4.480897",
       "share": "0.00"
     },
     {
@@ -2891,7 +2891,7 @@
       "escrowStartedAt": "2022-02-12T09:30:16.000Z",
       "escrowEndsAt": "2027-02-11T09:30:16.000Z",
       "tokenAccount": "9ejzre6aqXivT3pwGyxjtjvBRzv8K6eikA7iyRERDKAy",
-      "latestPower": "4.483707",
+      "latestPower": "4.480867",
       "share": "0.00"
     },
     {
@@ -2901,7 +2901,7 @@
       "escrowStartedAt": "2022-02-20T10:49:36.000Z",
       "escrowEndsAt": "2027-02-19T10:49:36.000Z",
       "tokenAccount": "F7fAiwaouoJKjEvqzXHCALtYnJdkQbwybsFWszQVxx7G",
-      "latestPower": "4.469846",
+      "latestPower": "4.467029",
       "share": "0.00"
     },
     {
@@ -2911,17 +2911,7 @@
       "escrowStartedAt": "2022-03-15T06:21:20.000Z",
       "escrowEndsAt": "2027-03-14T06:21:20.000Z",
       "tokenAccount": "9Kkv86HfmqgfrSRTt3owPyYGEu7rPz8bJxmxquR5JSMx",
-      "latestPower": "4.469281",
-      "share": "0.00"
-    },
-    {
-      "escrow": "8U3xffwifA2MmuyPwW6tWyiAoPuzg7nhGcwbuJq6CnKv",
-      "amount": "13.000000",
-      "owner": "ByGJt6ZWKrJvkq6brAm3FM4RtTb52JteDJkMfV4RNGu7",
-      "escrowStartedAt": "2022-02-18T02:27:51.000Z",
-      "escrowEndsAt": "2023-02-18T02:27:51.000Z",
-      "tokenAccount": "5549u6Xh6pVuqvy7sh3PEEskT6VeLGs3gpKX7bWTRWHX",
-      "latestPower": "4.455404",
+      "latestPower": "4.466504",
       "share": "0.00"
     },
     {
@@ -2931,7 +2921,17 @@
       "escrowStartedAt": "2022-02-21T11:10:54.000Z",
       "escrowEndsAt": "2027-02-20T11:10:54.000Z",
       "tokenAccount": "Cu8eevrwVEfiPcmW12ZobKnocqkVRZHApGLgHMHeUtPt",
-      "latestPower": "4.428544",
+      "latestPower": "4.425755",
+      "share": "0.00"
+    },
+    {
+      "escrow": "8U3xffwifA2MmuyPwW6tWyiAoPuzg7nhGcwbuJq6CnKv",
+      "amount": "13.000000",
+      "owner": "ByGJt6ZWKrJvkq6brAm3FM4RtTb52JteDJkMfV4RNGu7",
+      "escrowStartedAt": "2022-02-18T02:27:51.000Z",
+      "escrowEndsAt": "2023-02-18T02:27:51.000Z",
+      "tokenAccount": "5549u6Xh6pVuqvy7sh3PEEskT6VeLGs3gpKX7bWTRWHX",
+      "latestPower": "4.419773",
       "share": "0.00"
     },
     {
@@ -2941,7 +2941,7 @@
       "escrowStartedAt": "2022-02-12T14:06:13.000Z",
       "escrowEndsAt": "2027-02-11T14:06:13.000Z",
       "tokenAccount": "VhcvyZ2Xo28zk1pk1u93g5BPhG5GNK3RoYGvrzv9pY3",
-      "latestPower": "4.420583",
+      "latestPower": "4.417784",
       "share": "0.00"
     },
     {
@@ -2951,7 +2951,7 @@
       "escrowStartedAt": "2022-02-12T13:22:37.000Z",
       "escrowEndsAt": "2027-02-11T13:22:37.000Z",
       "tokenAccount": "9ZTytpTdb6G7j477rKHbm3rRAdEfimdiEmXzL1KyEGMr",
-      "latestPower": "4.414085",
+      "latestPower": "4.411290",
       "share": "0.00"
     },
     {
@@ -2961,7 +2961,7 @@
       "escrowStartedAt": "2022-02-12T17:11:48.000Z",
       "escrowEndsAt": "2027-02-11T17:11:48.000Z",
       "tokenAccount": "5Sj2ZrFMMbqvaMKt4chdTyzgf9TX7Ej3GXhXSZ663TGX",
-      "latestPower": "4.401442",
+      "latestPower": "4.398655",
       "share": "0.00"
     },
     {
@@ -2971,7 +2971,7 @@
       "escrowStartedAt": "2022-02-17T20:11:21.000Z",
       "escrowEndsAt": "2027-02-16T20:11:21.000Z",
       "tokenAccount": "9vmunf2j5PnNZVZ6hiAHfctKibxyZWnFdSwpRQDagjSa",
-      "latestPower": "4.396533",
+      "latestPower": "4.393758",
       "share": "0.00"
     },
     {
@@ -2981,7 +2981,7 @@
       "escrowStartedAt": "2022-02-22T13:50:31.000Z",
       "escrowEndsAt": "2027-02-21T13:50:31.000Z",
       "tokenAccount": "DdpwaUP3FhtxxmyDjbAFcnphHRS6SWHG9KWXJfjsy5Hc",
-      "latestPower": "4.377722",
+      "latestPower": "4.374967",
       "share": "0.00"
     },
     {
@@ -2991,7 +2991,7 @@
       "escrowStartedAt": "2022-02-17T01:58:50.000Z",
       "escrowEndsAt": "2027-02-16T01:58:50.000Z",
       "tokenAccount": "EkRHF9rM5S5VeFvNQBgzadWDiu77wMLx6C5eRcPxkYGy",
-      "latestPower": "4.375138",
+      "latestPower": "4.372375",
       "share": "0.00"
     },
     {
@@ -3001,7 +3001,7 @@
       "escrowStartedAt": "2022-02-13T16:27:42.000Z",
       "escrowEndsAt": "2027-02-12T16:27:42.000Z",
       "tokenAccount": "GQu3nQ8EEMQCagzKVXV4WAn5Deg2EeFR7JBo9Cgp5Cg5",
-      "latestPower": "4.371599",
+      "latestPower": "4.368832",
       "share": "0.00"
     },
     {
@@ -3011,7 +3011,7 @@
       "escrowStartedAt": "2022-02-18T14:14:50.000Z",
       "escrowEndsAt": "2027-02-17T14:14:50.000Z",
       "tokenAccount": "8HzxRekF5W6BPV4ZGG3oLtFjxpRTsS47hKvDJU9LApw8",
-      "latestPower": "4.370167",
+      "latestPower": "4.367410",
       "share": "0.00"
     },
     {
@@ -3021,7 +3021,7 @@
       "escrowStartedAt": "2022-02-18T01:42:22.000Z",
       "escrowEndsAt": "2027-02-17T01:42:22.000Z",
       "tokenAccount": "8Q698RMN6QG5HTsM94y61H35Cy7WQKSeXqYU1NpihtqZ",
-      "latestPower": "4.363472",
+      "latestPower": "4.360718",
       "share": "0.00"
     },
     {
@@ -3031,7 +3031,7 @@
       "escrowStartedAt": "2022-02-24T15:05:08.000Z",
       "escrowEndsAt": "2027-02-23T15:05:08.000Z",
       "tokenAccount": "7Y7iXf6HF8koiFw4bzbLAn9FAD87qxMrn25HmvtLsSo8",
-      "latestPower": "4.360602",
+      "latestPower": "4.357861",
       "share": "0.00"
     },
     {
@@ -3041,7 +3041,7 @@
       "escrowStartedAt": "2022-02-24T12:31:40.000Z",
       "escrowEndsAt": "2027-02-23T12:31:40.000Z",
       "tokenAccount": "FdZC4p8MfCM5CX3MijeYbuogTTJtxccVpmKRgYXFMCYq",
-      "latestPower": "4.360310",
+      "latestPower": "4.357569",
       "share": "0.00"
     },
     {
@@ -3051,7 +3051,7 @@
       "escrowStartedAt": "2022-02-24T01:48:39.000Z",
       "escrowEndsAt": "2027-02-23T01:48:39.000Z",
       "tokenAccount": "2PSEc4nPFsFX6RDaxJk3xGiK2qtVFW2nfVP4Nyeu5cjv",
-      "latestPower": "4.359087",
+      "latestPower": "4.356346",
       "share": "0.00"
     },
     {
@@ -3061,7 +3061,7 @@
       "escrowStartedAt": "2022-02-23T13:46:19.000Z",
       "escrowEndsAt": "2027-02-22T13:46:19.000Z",
       "tokenAccount": "Acp6X1gs8ssHkRmFyrWZk579qnSEKB4pi9gMd9Me9E66",
-      "latestPower": "4.357712",
+      "latestPower": "4.354972",
       "share": "0.00"
     },
     {
@@ -3071,7 +3071,7 @@
       "escrowStartedAt": "2022-02-23T13:37:51.000Z",
       "escrowEndsAt": "2027-02-22T13:37:51.000Z",
       "tokenAccount": "91AukLNL9FMmXHC5XwdNMxAp4dT5yRAwAXKuRQtEc7iU",
-      "latestPower": "4.357696",
+      "latestPower": "4.354955",
       "share": "0.00"
     },
     {
@@ -3081,7 +3081,7 @@
       "escrowStartedAt": "2022-02-23T07:50:47.000Z",
       "escrowEndsAt": "2027-02-22T07:50:47.000Z",
       "tokenAccount": "AVSu1kBCGEG3ftZj5pYFbcLR6DFnyEBccfkrZBGV7kn6",
-      "latestPower": "4.357036",
+      "latestPower": "4.354295",
       "share": "0.00"
     },
     {
@@ -3091,7 +3091,7 @@
       "escrowStartedAt": "2022-02-22T20:21:19.000Z",
       "escrowEndsAt": "2027-02-21T20:21:19.000Z",
       "tokenAccount": "4AALzhKMJjr8okRDfgyne6iiNUYhr4W2st4JQ6ZXp4KA",
-      "latestPower": "4.355724",
+      "latestPower": "4.352983",
       "share": "0.00"
     },
     {
@@ -3101,7 +3101,7 @@
       "escrowStartedAt": "2022-02-22T06:12:03.000Z",
       "escrowEndsAt": "2027-02-21T06:12:03.000Z",
       "tokenAccount": "FTCn72UbBTGgV43Qif7SqSNxrUSH5um6ZtZAaPaAP6rt",
-      "latestPower": "4.354108",
+      "latestPower": "4.351368",
       "share": "0.00"
     },
     {
@@ -3111,7 +3111,7 @@
       "escrowStartedAt": "2022-02-22T02:05:57.000Z",
       "escrowEndsAt": "2027-02-21T02:05:57.000Z",
       "tokenAccount": "9aKuvh1x2JP4MmCb1YTD4wbZ6dRZmoyJfQqzqwmc3gEz",
-      "latestPower": "4.353640",
+      "latestPower": "4.350899",
       "share": "0.00"
     },
     {
@@ -3121,7 +3121,7 @@
       "escrowStartedAt": "2022-02-20T22:12:29.000Z",
       "escrowEndsAt": "2027-02-19T22:12:29.000Z",
       "tokenAccount": "9HYNk8aJqpukE4KpS5gjydT15baa5xaFVeLi53s4eHVx",
-      "latestPower": "4.350456",
+      "latestPower": "4.347715",
       "share": "0.00"
     },
     {
@@ -3131,7 +3131,7 @@
       "escrowStartedAt": "2022-02-20T13:05:31.000Z",
       "escrowEndsAt": "2027-02-19T13:05:31.000Z",
       "tokenAccount": "5sXt5HALSzyggSskxuwp769iDF89BsmRZd6MHJ4xF8p9",
-      "latestPower": "4.349416",
+      "latestPower": "4.346675",
       "share": "0.00"
     },
     {
@@ -3141,7 +3141,7 @@
       "escrowStartedAt": "2022-02-19T17:33:22.000Z",
       "escrowEndsAt": "2027-02-18T17:33:22.000Z",
       "tokenAccount": "HPbZ7roz6GPPThvwihZiAauxjddtRezc11ApFG6AF7n2",
-      "latestPower": "4.347620",
+      "latestPower": "4.344879",
       "share": "0.00"
     },
     {
@@ -3151,7 +3151,7 @@
       "escrowStartedAt": "2022-02-19T18:31:59.000Z",
       "escrowEndsAt": "2027-02-18T18:31:59.000Z",
       "tokenAccount": "GvGWXiveKPu9erwrbJdwHEwNuNYzNxDEt3GwNNyjYLbQ",
-      "latestPower": "4.347297",
+      "latestPower": "4.344556",
       "share": "0.00"
     },
     {
@@ -3161,7 +3161,7 @@
       "escrowStartedAt": "2022-02-19T14:56:56.000Z",
       "escrowEndsAt": "2027-02-18T14:56:56.000Z",
       "tokenAccount": "E9Q9bxGbtovExKsVNJQUBopqsJ5W8ByweM2PJNFrdWyQ",
-      "latestPower": "4.346888",
+      "latestPower": "4.344147",
       "share": "0.00"
     },
     {
@@ -3171,7 +3171,7 @@
       "escrowStartedAt": "2022-02-19T14:04:08.000Z",
       "escrowEndsAt": "2027-02-18T14:04:08.000Z",
       "tokenAccount": "GZhbzVVaUgLoyeyHuGNQh6Cd2YoMxSiE9pu1xvLkp2bQ",
-      "latestPower": "4.346787",
+      "latestPower": "4.344047",
       "share": "0.00"
     },
     {
@@ -3181,7 +3181,7 @@
       "escrowStartedAt": "2022-02-19T12:57:46.000Z",
       "escrowEndsAt": "2027-02-18T12:57:46.000Z",
       "tokenAccount": "CDzKv3e3M6zF5TG5qGpEoerVgABWokTV3zh9f6GusX1z",
-      "latestPower": "4.346661",
+      "latestPower": "4.343920",
       "share": "0.00"
     },
     {
@@ -3191,7 +3191,7 @@
       "escrowStartedAt": "2022-02-19T12:50:42.000Z",
       "escrowEndsAt": "2027-02-18T12:50:42.000Z",
       "tokenAccount": "9rXF9tDSw55mkJFnQgZN8Mgj3yzUJD8L8yAGsbkP7RyJ",
-      "latestPower": "4.346648",
+      "latestPower": "4.343907",
       "share": "0.00"
     },
     {
@@ -3201,7 +3201,7 @@
       "escrowStartedAt": "2022-02-19T12:39:05.000Z",
       "escrowEndsAt": "2027-02-18T12:39:05.000Z",
       "tokenAccount": "BjiJ5KtMWYGAthgcpPjezeVkJx2gSfj99sNgrgDgLq7",
-      "latestPower": "4.346626",
+      "latestPower": "4.343885",
       "share": "0.00"
     },
     {
@@ -3211,7 +3211,7 @@
       "escrowStartedAt": "2022-02-19T12:13:10.000Z",
       "escrowEndsAt": "2027-02-18T12:13:10.000Z",
       "tokenAccount": "8P7QdJR54YXsnyK8Skwf9iWQWMZaoSgSJP3DYtpo7XVr",
-      "latestPower": "4.346576",
+      "latestPower": "4.343835",
       "share": "0.00"
     },
     {
@@ -3221,7 +3221,7 @@
       "escrowStartedAt": "2022-02-19T06:34:58.000Z",
       "escrowEndsAt": "2027-02-18T06:34:58.000Z",
       "tokenAccount": "32ExKjq3MugYaD8cE3Ac9P5gADJprb1bNSVAqe7SqXxa",
-      "latestPower": "4.345933",
+      "latestPower": "4.343192",
       "share": "0.00"
     },
     {
@@ -3231,7 +3231,7 @@
       "escrowStartedAt": "2022-02-15T15:32:52.000Z",
       "escrowEndsAt": "2027-02-14T15:32:52.000Z",
       "tokenAccount": "mXrUY1LEKegYam2n24yGm74crG8KHSqd3usbKpRt8Fe",
-      "latestPower": "4.344296",
+      "latestPower": "4.341550",
       "share": "0.00"
     },
     {
@@ -3241,7 +3241,7 @@
       "escrowStartedAt": "2022-02-18T13:10:43.000Z",
       "escrowEndsAt": "2027-02-17T13:10:43.000Z",
       "tokenAccount": "73vNjBnVCsnDCTeows7mKbibVee99YbsfzXpcakdiLn",
-      "latestPower": "4.343946",
+      "latestPower": "4.341205",
       "share": "0.00"
     },
     {
@@ -3251,7 +3251,7 @@
       "escrowStartedAt": "2022-02-18T06:43:09.000Z",
       "escrowEndsAt": "2027-02-17T06:43:09.000Z",
       "tokenAccount": "6XDVTx7pRKM2SLhbxLw2XP4jVgtbu9Av1kjsgC7JZnXH",
-      "latestPower": "4.343209",
+      "latestPower": "4.340468",
       "share": "0.00"
     },
     {
@@ -3261,7 +3261,7 @@
       "escrowStartedAt": "2022-02-17T20:09:43.000Z",
       "escrowEndsAt": "2027-02-16T20:09:43.000Z",
       "tokenAccount": "VNM4r4KbikucnTQbhTHZi36g2NFTZRDFumAThbvHxEG",
-      "latestPower": "4.342003",
+      "latestPower": "4.339263",
       "share": "0.00"
     },
     {
@@ -3271,7 +3271,7 @@
       "escrowStartedAt": "2022-02-17T08:37:59.000Z",
       "escrowEndsAt": "2027-02-16T08:37:59.000Z",
       "tokenAccount": "Hswp2p795ZnusHr7hUL2AXUHBbBwTiHMf9htkpt5EeSj",
-      "latestPower": "4.340687",
+      "latestPower": "4.337947",
       "share": "0.00"
     },
     {
@@ -3281,7 +3281,7 @@
       "escrowStartedAt": "2022-02-17T05:57:21.000Z",
       "escrowEndsAt": "2027-02-16T05:57:21.000Z",
       "tokenAccount": "6Z3SXaxgtbQfsxVFN8VTmyM5UNK72gpvUBuiSHwow3tv",
-      "latestPower": "4.340382",
+      "latestPower": "4.337641",
       "share": "0.00"
     },
     {
@@ -3291,7 +3291,7 @@
       "escrowStartedAt": "2022-02-17T02:29:53.000Z",
       "escrowEndsAt": "2027-02-16T02:29:53.000Z",
       "tokenAccount": "Fbg6MhMVkDTd45VoCnTdEZc5RkQkPxp3W3faBx5hxZ3d",
-      "latestPower": "4.339987",
+      "latestPower": "4.337246",
       "share": "0.00"
     },
     {
@@ -3301,7 +3301,7 @@
       "escrowStartedAt": "2022-02-16T20:09:41.000Z",
       "escrowEndsAt": "2027-02-15T20:09:41.000Z",
       "tokenAccount": "6EiDHHsgG87JYopJJ3GjxBUN8rU2fuHrRFJpvF9XpSy3",
-      "latestPower": "4.339264",
+      "latestPower": "4.336523",
       "share": "0.00"
     },
     {
@@ -3311,7 +3311,7 @@
       "escrowStartedAt": "2022-02-16T15:08:10.000Z",
       "escrowEndsAt": "2027-02-15T15:08:10.000Z",
       "tokenAccount": "9gkd2oBjQcddQb7Tg4vb6wEPDrW9cy7UFQPuQcqyqMey",
-      "latestPower": "4.338690",
+      "latestPower": "4.335949",
       "share": "0.00"
     },
     {
@@ -3321,7 +3321,7 @@
       "escrowStartedAt": "2022-02-16T12:41:01.000Z",
       "escrowEndsAt": "2027-02-15T12:41:01.000Z",
       "tokenAccount": "BiuMv5zQUQQGFseQhjgbriJKtKNQvPuBa9pbcqyiNukj",
-      "latestPower": "4.338410",
+      "latestPower": "4.335669",
       "share": "0.00"
     },
     {
@@ -3331,7 +3331,7 @@
       "escrowStartedAt": "2022-02-16T11:52:54.000Z",
       "escrowEndsAt": "2027-02-15T11:52:54.000Z",
       "tokenAccount": "JbKqwTYVhbcEzUUo4GYsLhNGepceRzoCpYct5q7kAbZ",
-      "latestPower": "4.338319",
+      "latestPower": "4.335578",
       "share": "0.00"
     },
     {
@@ -3341,7 +3341,7 @@
       "escrowStartedAt": "2022-02-16T07:39:27.000Z",
       "escrowEndsAt": "2027-02-15T07:39:27.000Z",
       "tokenAccount": "9zZWL1sFW5fnk551ZdgVXS5KvfEfQmT8VpXcEVXb4A8W",
-      "latestPower": "4.337836",
+      "latestPower": "4.335095",
       "share": "0.00"
     },
     {
@@ -3351,7 +3351,7 @@
       "escrowStartedAt": "2022-02-15T11:00:44.000Z",
       "escrowEndsAt": "2027-02-14T11:00:44.000Z",
       "tokenAccount": "E7bQJA3apbB2e9fzX5sF1oXnqiKiL4rjgdnB5CiG4spB",
-      "latestPower": "4.335484",
+      "latestPower": "4.332743",
       "share": "0.00"
     },
     {
@@ -3361,7 +3361,7 @@
       "escrowStartedAt": "2022-02-15T05:12:38.000Z",
       "escrowEndsAt": "2027-02-14T05:12:38.000Z",
       "tokenAccount": "DeCKgENCpc3seECy37fU2UJNhnfh4fQNRzpRuUHfaRKF",
-      "latestPower": "4.334817",
+      "latestPower": "4.332076",
       "share": "0.00"
     },
     {
@@ -3371,7 +3371,7 @@
       "escrowStartedAt": "2022-02-14T20:51:57.000Z",
       "escrowEndsAt": "2027-02-13T20:51:57.000Z",
       "tokenAccount": "2qLhfB2AVimvcUf7yhjvyKydcYSGUkawwA3ff5MiSABs",
-      "latestPower": "4.333865",
+      "latestPower": "4.331124",
       "share": "0.00"
     },
     {
@@ -3381,7 +3381,7 @@
       "escrowStartedAt": "2022-02-14T18:26:03.000Z",
       "escrowEndsAt": "2027-02-13T18:26:03.000Z",
       "tokenAccount": "8oBUXVRZhCHZjieTRsuJedrbu3UpQwCKsCxaNvUa5S9Q",
-      "latestPower": "4.333587",
+      "latestPower": "4.330846",
       "share": "0.00"
     },
     {
@@ -3391,7 +3391,7 @@
       "escrowStartedAt": "2022-02-14T16:39:07.000Z",
       "escrowEndsAt": "2027-02-13T16:39:07.000Z",
       "tokenAccount": "2xswJaUvRUienQuAPziwjfj2irsiFUteqL5QyZSHhiFe",
-      "latestPower": "4.333384",
+      "latestPower": "4.330643",
       "share": "0.00"
     },
     {
@@ -3401,7 +3401,7 @@
       "escrowStartedAt": "2022-02-14T12:59:05.000Z",
       "escrowEndsAt": "2027-02-13T12:59:05.000Z",
       "tokenAccount": "5RybUThtnWmPpob2vmnK2oxVhmtMNSTG6LhgXbs5XBcu",
-      "latestPower": "4.332965",
+      "latestPower": "4.330224",
       "share": "0.00"
     },
     {
@@ -3411,7 +3411,7 @@
       "escrowStartedAt": "2022-02-14T10:44:02.000Z",
       "escrowEndsAt": "2027-02-13T10:44:02.000Z",
       "tokenAccount": "F8wgwSNNzxw9VFy9igRYh2b7evFagCexWbsXv9cK3RQF",
-      "latestPower": "4.332708",
+      "latestPower": "4.329967",
       "share": "0.00"
     },
     {
@@ -3421,7 +3421,7 @@
       "escrowStartedAt": "2022-02-14T06:38:32.000Z",
       "escrowEndsAt": "2027-02-13T06:38:32.000Z",
       "tokenAccount": "4G2o3NVG6WfQpKSMw5oc7qnbBLgWGDxyx8EandnrC7ri",
-      "latestPower": "4.332241",
+      "latestPower": "4.329500",
       "share": "0.00"
     },
     {
@@ -3431,7 +3431,7 @@
       "escrowStartedAt": "2022-02-14T04:14:35.000Z",
       "escrowEndsAt": "2027-02-13T04:14:35.000Z",
       "tokenAccount": "E9mTsXCJt5KZfaaS1druNDsJbENxNxHJLPipz4kCbVK8",
-      "latestPower": "4.331967",
+      "latestPower": "4.329226",
       "share": "0.00"
     },
     {
@@ -3441,7 +3441,7 @@
       "escrowStartedAt": "2022-02-14T02:20:05.000Z",
       "escrowEndsAt": "2027-02-13T02:20:05.000Z",
       "tokenAccount": "HpsrDA6bW2DRaVujnKfjEdNRWScsANqet8USMAf37TNu",
-      "latestPower": "4.331754",
+      "latestPower": "4.329013",
       "share": "0.00"
     },
     {
@@ -3451,7 +3451,7 @@
       "escrowStartedAt": "2022-02-13T20:48:34.000Z",
       "escrowEndsAt": "2027-02-12T20:48:34.000Z",
       "tokenAccount": "H3qauZ9aXhfx9Ks53fp2qW6YXTGJFbvLMfuRw97VuiSU",
-      "latestPower": "4.331118",
+      "latestPower": "4.328378",
       "share": "0.00"
     },
     {
@@ -3461,7 +3461,7 @@
       "escrowStartedAt": "2022-02-13T18:24:29.000Z",
       "escrowEndsAt": "2027-02-12T18:24:29.000Z",
       "tokenAccount": "AHRn2rVEo3MAUK97BPFLXARgsvBSAZfw1VKqN2YBF91M",
-      "latestPower": "4.330844",
+      "latestPower": "4.328104",
       "share": "0.00"
     },
     {
@@ -3471,7 +3471,7 @@
       "escrowStartedAt": "2022-02-13T16:37:32.000Z",
       "escrowEndsAt": "2027-02-12T16:37:32.000Z",
       "tokenAccount": "D6Gp2rvMCjGCrbTAJS7Apicgtmrr8LZ16t3edvVWu1mE",
-      "latestPower": "4.330641",
+      "latestPower": "4.327900",
       "share": "0.00"
     },
     {
@@ -3481,7 +3481,7 @@
       "escrowStartedAt": "2022-02-13T11:59:28.000Z",
       "escrowEndsAt": "2027-02-12T11:59:28.000Z",
       "tokenAccount": "HUkVZcKyLnUaE716RCK2rTaHHAtJbhW1R2qnzygucjmg",
-      "latestPower": "4.330112",
+      "latestPower": "4.327371",
       "share": "0.00"
     },
     {
@@ -3491,7 +3491,7 @@
       "escrowStartedAt": "2022-02-13T11:47:43.000Z",
       "escrowEndsAt": "2027-02-12T11:47:43.000Z",
       "tokenAccount": "DKjcv7tNxJHZKuLXRksnY8Qhg1hutUgpEZQLtrDF9RaK",
-      "latestPower": "4.330089",
+      "latestPower": "4.327349",
       "share": "0.00"
     },
     {
@@ -3501,7 +3501,7 @@
       "escrowStartedAt": "2022-02-13T07:50:42.000Z",
       "escrowEndsAt": "2027-02-12T07:50:42.000Z",
       "tokenAccount": "GFQYiwfuGrPbET3vLFVXGPYHBQpMPzMVZJW2xiatNQHg",
-      "latestPower": "4.329639",
+      "latestPower": "4.326898",
       "share": "0.00"
     },
     {
@@ -3511,7 +3511,7 @@
       "escrowStartedAt": "2022-02-13T06:32:27.000Z",
       "escrowEndsAt": "2027-02-12T06:32:27.000Z",
       "tokenAccount": "DEa6p7YaCeSX6i1vLW85HG7d3MMTbNNXtqWNvMKrVT7p",
-      "latestPower": "4.329490",
+      "latestPower": "4.326749",
       "share": "0.00"
     },
     {
@@ -3521,7 +3521,7 @@
       "escrowStartedAt": "2022-02-13T05:21:48.000Z",
       "escrowEndsAt": "2027-02-12T05:21:48.000Z",
       "tokenAccount": "46wc34wLNDmQekigF1fDZvo4b7pU8FHA7vkFovwSowRo",
-      "latestPower": "4.329355",
+      "latestPower": "4.326614",
       "share": "0.00"
     },
     {
@@ -3531,7 +3531,7 @@
       "escrowStartedAt": "2022-02-13T04:55:16.000Z",
       "escrowEndsAt": "2027-02-12T04:55:16.000Z",
       "tokenAccount": "HwooPsyXKq5yCFZUvTNN5ttdKVqvkdte4wcuzM2A13pL",
-      "latestPower": "4.329305",
+      "latestPower": "4.326564",
       "share": "0.00"
     },
     {
@@ -3541,7 +3541,7 @@
       "escrowStartedAt": "2022-02-13T01:45:01.000Z",
       "escrowEndsAt": "2027-02-12T01:45:01.000Z",
       "tokenAccount": "44TP5nnZ6a7jNQw8Ay98KGbqmPPqpo4jt7KQp6sy1mtK",
-      "latestPower": "4.328943",
+      "latestPower": "4.326202",
       "share": "0.00"
     },
     {
@@ -3551,7 +3551,7 @@
       "escrowStartedAt": "2022-02-13T01:15:49.000Z",
       "escrowEndsAt": "2027-02-12T01:15:49.000Z",
       "tokenAccount": "3jTd1ompM4CevfbtCxmyM9w1eg32pWtvuvgsmwnrjb12",
-      "latestPower": "4.328887",
+      "latestPower": "4.326146",
       "share": "0.00"
     },
     {
@@ -3561,7 +3561,7 @@
       "escrowStartedAt": "2022-02-12T12:58:15.000Z",
       "escrowEndsAt": "2027-02-11T12:58:15.000Z",
       "tokenAccount": "uLS2kq4oJSTar1aZF66jypp5iSAx3bKcqCk5nt2hpm5",
-      "latestPower": "4.327484",
+      "latestPower": "4.324743",
       "share": "0.00"
     },
     {
@@ -3571,7 +3571,7 @@
       "escrowStartedAt": "2022-02-12T11:41:28.000Z",
       "escrowEndsAt": "2027-02-11T11:41:28.000Z",
       "tokenAccount": "9nhcqNpPFA6aRKUD5GvthoTHEZzJwrZtQZaUABxum7A9",
-      "latestPower": "4.327338",
+      "latestPower": "4.324597",
       "share": "0.00"
     },
     {
@@ -3581,7 +3581,7 @@
       "escrowStartedAt": "2022-02-12T12:31:54.000Z",
       "escrowEndsAt": "2023-02-12T12:31:54.000Z",
       "tokenAccount": "FC1mMs8VKw6zft99dpxdfLB4JpivRk17cMFKraTuZGFg",
-      "latestPower": "3.762157",
+      "latestPower": "3.730665",
       "share": "0.00"
     },
     {
@@ -3591,7 +3591,7 @@
       "escrowStartedAt": "2022-02-17T16:07:37.000Z",
       "escrowEndsAt": "2023-02-17T16:07:37.000Z",
       "tokenAccount": "GDuHWvSr2eSbk4hAKGU6wTxRQLCsn22HHDfypQHxhkFR",
-      "latestPower": "3.449587",
+      "latestPower": "3.421905",
       "share": "0.00"
     },
     {
@@ -3601,7 +3601,7 @@
       "escrowStartedAt": "2022-02-18T08:11:37.000Z",
       "escrowEndsAt": "2023-02-18T08:11:37.000Z",
       "tokenAccount": "2GrAn6C7xhwkjGaHoskjzmFVwyxqxXCRRm5XvPq5GGXT",
-      "latestPower": "3.433774",
+      "latestPower": "3.406366",
       "share": "0.00"
     },
     {
@@ -3611,17 +3611,7 @@
       "escrowStartedAt": "2022-02-13T16:58:46.000Z",
       "escrowEndsAt": "2023-02-13T16:58:46.000Z",
       "tokenAccount": "AApUp6zYjXLuVpBqyEtceNJEuemwL473bTDT1kcKbe4Z",
-      "latestPower": "3.306817",
-      "share": "0.00"
-    },
-    {
-      "escrow": "6xPEN2s9ZJwtcjyTMT6dKZwN7Tn1g4GYLNvU4Mj6Z2Gf",
-      "amount": "8.207392",
-      "owner": "94nXh5D9xt6zSooenJ7V4pXQrcdWkSac2yS6aqyNUrWA",
-      "escrowStartedAt": "2022-02-22T10:50:26.000Z",
-      "escrowEndsAt": "2023-02-22T10:50:26.000Z",
-      "tokenAccount": "GgA33dmcegDKaqZzqDe4e8aRAttHejy5V5GPpF2cV9v",
-      "latestPower": "2.910657",
+      "latestPower": "3.279409",
       "share": "0.00"
     },
     {
@@ -3631,7 +3621,17 @@
       "escrowStartedAt": "2022-02-14T13:20:58.000Z",
       "escrowEndsAt": "2025-03-16T01:45:01.000Z",
       "tokenAccount": "9PVpHG2xMsTByFwirfWivDbi2x7efX41jDPcp43C9gyF",
-      "latestPower": "2.899937",
+      "latestPower": "2.896648",
+      "share": "0.00"
+    },
+    {
+      "escrow": "6xPEN2s9ZJwtcjyTMT6dKZwN7Tn1g4GYLNvU4Mj6Z2Gf",
+      "amount": "8.207392",
+      "owner": "94nXh5D9xt6zSooenJ7V4pXQrcdWkSac2yS6aqyNUrWA",
+      "escrowStartedAt": "2022-02-22T10:50:26.000Z",
+      "escrowEndsAt": "2023-02-22T10:50:26.000Z",
+      "tokenAccount": "GgA33dmcegDKaqZzqDe4e8aRAttHejy5V5GPpF2cV9v",
+      "latestPower": "2.888162",
       "share": "0.00"
     },
     {
@@ -3641,7 +3641,7 @@
       "escrowStartedAt": "2022-02-13T02:52:02.000Z",
       "escrowEndsAt": "2025-02-16T04:30:09.000Z",
       "tokenAccount": "FhzqYRYe22phiFFxJ7NHYbdJ2XGpya79ySuV1uXqybt8",
-      "latestPower": "2.722333",
+      "latestPower": "2.719145",
       "share": "0.00"
     },
     {
@@ -3651,7 +3651,7 @@
       "escrowStartedAt": "2022-02-15T11:15:59.000Z",
       "escrowEndsAt": "2023-02-15T11:15:59.000Z",
       "tokenAccount": "4vrKBPq6VBBmd72V6zfYvMoeAA6omqWx6Qy3xHvSHpJW",
-      "latestPower": "2.684072",
+      "latestPower": "2.662145",
       "share": "0.00"
     },
     {
@@ -3661,7 +3661,7 @@
       "escrowStartedAt": "2022-02-13T14:43:59.000Z",
       "escrowEndsAt": "2025-02-14T07:45:10.000Z",
       "tokenAccount": "B5vtRmBpAorqr9by73UYPGDhkgBCVYYnKpEKo71Hi4bH",
-      "latestPower": "2.641639",
+      "latestPower": "2.638539",
       "share": "0.00"
     },
     {
@@ -3671,7 +3671,7 @@
       "escrowStartedAt": "2022-02-24T01:00:24.000Z",
       "escrowEndsAt": "2023-02-24T01:00:24.000Z",
       "tokenAccount": "GtJQUihiGdkEJFzRNeNbbLEkoQVAhekgrWep5eXj5aWA",
-      "latestPower": "2.153972",
+      "latestPower": "2.137527",
       "share": "0.00"
     },
     {
@@ -3681,7 +3681,7 @@
       "escrowStartedAt": "2022-02-13T10:03:36.000Z",
       "escrowEndsAt": "2023-02-13T10:03:36.000Z",
       "tokenAccount": "CeqZte7vwxfZqoV62riF1KVDDtUVjRA3DKkvtfCShazb",
-      "latestPower": "1.866290",
+      "latestPower": "1.850785",
       "share": "0.00"
     },
     {
@@ -3691,7 +3691,7 @@
       "escrowStartedAt": "2022-02-13T15:23:25.000Z",
       "escrowEndsAt": "2023-02-13T15:23:25.000Z",
       "tokenAccount": "GvDF7WX43sTqoGrJCyPuYPSz1jJNwewkLQpSRJhtHf37",
-      "latestPower": "1.791229",
+      "latestPower": "1.776374",
       "share": "0.00"
     },
     {
@@ -3701,7 +3701,7 @@
       "escrowStartedAt": "2022-02-22T00:09:41.000Z",
       "escrowEndsAt": "2023-02-22T00:09:41.000Z",
       "tokenAccount": "2y5Ys7pUX5jygpA5Eu4QwVUaxVjqJfsLXDDuZupC5FCY",
-      "latestPower": "1.767097",
+      "latestPower": "1.753392",
       "share": "0.00"
     },
     {
@@ -3711,7 +3711,7 @@
       "escrowStartedAt": "2022-02-19T15:36:30.000Z",
       "escrowEndsAt": "2023-02-19T15:36:30.000Z",
       "tokenAccount": "6vjx5a38pWyrEtBCGrZWkWFjaFfZC4XDMZz4mHt5pmRJ",
-      "latestPower": "1.734817",
+      "latestPower": "1.721113",
       "share": "0.00"
     },
     {
@@ -3721,7 +3721,7 @@
       "escrowStartedAt": "2022-02-19T08:16:58.000Z",
       "escrowEndsAt": "2023-02-19T08:16:58.000Z",
       "tokenAccount": "EWZmM49uShXS1yxwJS4XzAuRse8MPzM5i7BvYqm9PNeU",
-      "latestPower": "1.730636",
+      "latestPower": "1.716932",
       "share": "0.00"
     },
     {
@@ -3731,7 +3731,7 @@
       "escrowStartedAt": "2022-02-13T19:19:24.000Z",
       "escrowEndsAt": "2023-02-13T19:19:24.000Z",
       "tokenAccount": "AsE1rPsL2T9aEJwBPebk3MSf1KXLvLWjteMRGdZoA9y6",
-      "latestPower": "1.654746",
+      "latestPower": "1.641042",
       "share": "0.00"
     },
     {
@@ -3741,7 +3741,7 @@
       "escrowStartedAt": "2022-02-12T16:25:07.000Z",
       "escrowEndsAt": "2023-02-12T16:25:07.000Z",
       "tokenAccount": "CoPhWWRc2PwtoXXpLsxhgcTRh3sDgzASgFY1iREApLPi",
-      "latestPower": "1.639390",
+      "latestPower": "1.625686",
       "share": "0.00"
     },
     {
@@ -3751,7 +3751,7 @@
       "escrowStartedAt": "2022-02-20T11:15:43.000Z",
       "escrowEndsAt": "2024-02-21T13:03:33.000Z",
       "tokenAccount": "8CBvBKBMm6b5kkwHcXKgJZZ14AnXkEVZBMjh1cWiFPpx",
-      "latestPower": "1.429249",
+      "latestPower": "1.426351",
       "share": "0.00"
     },
     {
@@ -3761,7 +3761,7 @@
       "escrowStartedAt": "2022-02-21T08:02:59.000Z",
       "escrowEndsAt": "2023-02-21T08:02:59.000Z",
       "tokenAccount": "3Rt96XcTvKzWU4cmGBhFm4KcZHkU6sTP66F4sb2Nr2Y4",
-      "latestPower": "1.406320",
+      "latestPower": "1.395357",
       "share": "0.00"
     },
     {
@@ -3771,7 +3771,7 @@
       "escrowStartedAt": "2022-02-16T09:43:39.000Z",
       "escrowEndsAt": "2023-12-27T21:36:18.000Z",
       "tokenAccount": "FcgDh6GR2YpeKNESNxhqofL3L2rqy3UnwYy6QfeDrgfv",
-      "latestPower": "1.365000",
+      "latestPower": "1.361881",
       "share": "0.00"
     },
     {
@@ -3781,7 +3781,7 @@
       "escrowStartedAt": "2022-02-16T07:00:09.000Z",
       "escrowEndsAt": "2023-02-16T07:00:09.000Z",
       "tokenAccount": "6j1Ty75bT1z56JSuhGncSbL8Do36ydWfFQTn822uK6Yg",
-      "latestPower": "1.351048",
+      "latestPower": "1.340084",
       "share": "0.00"
     },
     {
@@ -3791,7 +3791,7 @@
       "escrowStartedAt": "2022-02-22T21:34:46.000Z",
       "escrowEndsAt": "2023-02-22T21:34:46.000Z",
       "tokenAccount": "2T6uaXPJAevtbSchtqAoNvV4tZZyiZWLmHRzxSNGQRvy",
-      "latestPower": "1.284561",
+      "latestPower": "1.274668",
       "share": "0.00"
     },
     {
@@ -3801,7 +3801,7 @@
       "escrowStartedAt": "2022-02-20T07:03:58.000Z",
       "escrowEndsAt": "2023-02-20T07:03:58.000Z",
       "tokenAccount": "FbG9DuoW8oQ8zyF6JSmeCD8kwqdk16X6axo9YZGYe6bh",
-      "latestPower": "1.220442",
+      "latestPower": "1.210850",
       "share": "0.00"
     },
     {
@@ -3811,7 +3811,7 @@
       "escrowStartedAt": "2022-02-19T03:33:46.000Z",
       "escrowEndsAt": "2023-02-19T03:33:46.000Z",
       "tokenAccount": "DUmto8hdrzwxY46f2MPN4czdPXP7bTRHCvBbho8AssNq",
-      "latestPower": "1.175001",
+      "latestPower": "1.165682",
       "share": "0.00"
     },
     {
@@ -3821,17 +3821,7 @@
       "escrowStartedAt": "2022-02-16T06:14:06.000Z",
       "escrowEndsAt": "2023-02-16T06:14:06.000Z",
       "tokenAccount": "8vf3fNyAmXYacH5bTQQxP3wy6S44AKU9PAmmWwecMKUw",
-      "latestPower": "1.164976",
-      "share": "0.00"
-    },
-    {
-      "escrow": "3R5X26cMZRWmpUdYJW2KT9cWAwdZ3kSjHGMyDofCH9C4",
-      "amount": "3.392391",
-      "owner": "6wECedWSX8BDJft6JQSFAHbVtzDP2n57A68SuZACo91g",
-      "escrowStartedAt": "2022-02-11T23:37:27.000Z",
-      "escrowEndsAt": "2023-02-11T23:37:27.000Z",
-      "tokenAccount": "6VbPW3NNit1Ua66QYm5yLr3uJuaaVQo9k2g5YQCDmy6B",
-      "latestPower": "1.105786",
+      "latestPower": "1.155520",
       "share": "0.00"
     },
     {
@@ -3841,7 +3831,17 @@
       "escrowStartedAt": "2022-04-23T15:31:09.000Z",
       "escrowEndsAt": "2023-04-23T15:31:09.000Z",
       "tokenAccount": "B6t7hQyVeJ9f27oh22MXvvtQeJ9JdfyFVEnSaQuSz7oX",
-      "latestPower": "1.103325",
+      "latestPower": "1.097504",
+      "share": "0.00"
+    },
+    {
+      "escrow": "3R5X26cMZRWmpUdYJW2KT9cWAwdZ3kSjHGMyDofCH9C4",
+      "amount": "3.392391",
+      "owner": "6wECedWSX8BDJft6JQSFAHbVtzDP2n57A68SuZACo91g",
+      "escrowStartedAt": "2022-02-11T23:37:27.000Z",
+      "escrowEndsAt": "2023-02-11T23:37:27.000Z",
+      "tokenAccount": "6VbPW3NNit1Ua66QYm5yLr3uJuaaVQo9k2g5YQCDmy6B",
+      "latestPower": "1.096488",
       "share": "0.00"
     },
     {
@@ -3851,7 +3851,7 @@
       "escrowStartedAt": "2022-02-20T08:56:37.000Z",
       "escrowEndsAt": "2023-02-20T08:56:37.000Z",
       "tokenAccount": "DPJKi9zUwxHDbtGSfkEgrRX8hTEFUzniKnh5eDt6G2u3",
-      "latestPower": "1.099938",
+      "latestPower": "1.091298",
       "share": "0.00"
     },
     {
@@ -3861,7 +3861,7 @@
       "escrowStartedAt": "2022-02-22T09:18:20.000Z",
       "escrowEndsAt": "2023-02-22T09:18:20.000Z",
       "tokenAccount": "BMgtAQG46mjdsn4iBCUorNGEr8yLuUPYCA8wSPT7dmPk",
-      "latestPower": "1.063389",
+      "latestPower": "1.055167",
       "share": "0.00"
     },
     {
@@ -3871,7 +3871,7 @@
       "escrowStartedAt": "2022-02-18T04:00:46.000Z",
       "escrowEndsAt": "2023-02-18T04:00:46.000Z",
       "tokenAccount": "Cym6YgPJtKGhPvJpd4V14t66mcRvf5wVDBR5mHRz2ZBw",
-      "latestPower": "0.946238",
+      "latestPower": "0.938675",
       "share": "0.00"
     },
     {
@@ -3881,7 +3881,7 @@
       "escrowStartedAt": "2022-02-22T12:39:12.000Z",
       "escrowEndsAt": "2023-02-22T12:39:12.000Z",
       "tokenAccount": "5P99GtxDeNfjmGaS6kcuj1T7ddJrdEqYT8KN5PxaWBX3",
-      "latestPower": "0.925534",
+      "latestPower": "0.918385",
       "share": "0.00"
     },
     {
@@ -3891,7 +3891,7 @@
       "escrowStartedAt": "2022-02-15T18:38:00.000Z",
       "escrowEndsAt": "2023-02-15T18:38:00.000Z",
       "tokenAccount": "Aic7r3eqz5RAioEdhJNVRfaazofHMmf6ADaBMUMKa3vK",
-      "latestPower": "0.899758",
+      "latestPower": "0.892426",
       "share": "0.00"
     },
     {
@@ -3901,7 +3901,7 @@
       "escrowStartedAt": "2022-02-23T14:21:10.000Z",
       "escrowEndsAt": "2023-02-23T14:21:10.000Z",
       "tokenAccount": "AWR1LvhXrdFpMzLG5se1zfLbaBznuX1aEhf7s2ZW8LHR",
-      "latestPower": "0.860905",
+      "latestPower": "0.854310",
       "share": "0.00"
     },
     {
@@ -3911,7 +3911,7 @@
       "escrowStartedAt": "2022-02-23T01:37:11.000Z",
       "escrowEndsAt": "2023-02-23T01:37:11.000Z",
       "tokenAccount": "6M1Ep2Baf5VDqbYfioQfPDkYakkRmCay9cEjSwyW9fAK",
-      "latestPower": "0.858984",
+      "latestPower": "0.852376",
       "share": "0.00"
     },
     {
@@ -3921,7 +3921,7 @@
       "escrowStartedAt": "2022-02-22T10:27:35.000Z",
       "escrowEndsAt": "2023-02-22T10:27:35.000Z",
       "tokenAccount": "36xusoKn6RCR3W8FGDcYDT1gmMiRxwwj2VTniayruMyj",
-      "latestPower": "0.855997",
+      "latestPower": "0.849381",
       "share": "0.00"
     },
     {
@@ -3931,7 +3931,7 @@
       "escrowStartedAt": "2022-02-23T14:25:32.000Z",
       "escrowEndsAt": "2023-02-23T14:25:32.000Z",
       "tokenAccount": "28HFjoQTRLaiv7FMAV4XFFYT71UCwXCMR4U5oNfJVrP6",
-      "latestPower": "0.840800",
+      "latestPower": "0.834359",
       "share": "0.00"
     },
     {
@@ -3941,7 +3941,7 @@
       "escrowStartedAt": "2022-02-21T15:00:05.000Z",
       "escrowEndsAt": "2023-02-21T15:00:05.000Z",
       "tokenAccount": "FvwX7vdaXzgRkv4bruCEUEx7pHnYTm6wLcdSdPLT1uvB",
-      "latestPower": "0.837467",
+      "latestPower": "0.830953",
       "share": "0.00"
     },
     {
@@ -3951,7 +3951,7 @@
       "escrowStartedAt": "2022-02-20T23:36:34.000Z",
       "escrowEndsAt": "2023-02-20T23:36:34.000Z",
       "tokenAccount": "9uJTMLxWJE6rFu3KFqXSKyjCCXR7LRpkxAPAtzRzRdgJ",
-      "latestPower": "0.834176",
+      "latestPower": "0.827655",
       "share": "0.00"
     },
     {
@@ -3961,7 +3961,7 @@
       "escrowStartedAt": "2022-02-22T08:27:52.000Z",
       "escrowEndsAt": "2023-02-22T08:27:52.000Z",
       "tokenAccount": "BLzS4DqG6Ksg68UFT1X9oeK1vi6AvavVmuNrk9izVaXD",
-      "latestPower": "0.833995",
+      "latestPower": "0.827545",
       "share": "0.00"
     },
     {
@@ -3971,7 +3971,7 @@
       "escrowStartedAt": "2022-02-20T01:45:35.000Z",
       "escrowEndsAt": "2023-02-20T01:45:35.000Z",
       "tokenAccount": "7EMDYqGNe4gZpZVRiXAgoqtc5EtpS3CBQ1NyMWPxbGJE",
-      "latestPower": "0.814384",
+      "latestPower": "0.807972",
       "share": "0.00"
     },
     {
@@ -3981,7 +3981,7 @@
       "escrowStartedAt": "2022-02-20T01:27:38.000Z",
       "escrowEndsAt": "2023-02-20T01:27:38.000Z",
       "tokenAccount": "67TL3iXTZDrb9kK5Yy4r6fahoQnQfFEU9cQi3c1JXGMC",
-      "latestPower": "0.804600",
+      "latestPower": "0.798265",
       "share": "0.00"
     },
     {
@@ -3991,7 +3991,7 @@
       "escrowStartedAt": "2022-02-17T15:52:47.000Z",
       "escrowEndsAt": "2023-02-17T15:52:47.000Z",
       "tokenAccount": "BSGUqTeN7c9C6bMnbjQTo8JdYBwe4ZL3tzsBBj1Rk9gE",
-      "latestPower": "0.766893",
+      "latestPower": "0.760738",
       "share": "0.00"
     },
     {
@@ -4001,7 +4001,7 @@
       "escrowStartedAt": "2022-02-18T22:07:10.000Z",
       "escrowEndsAt": "2023-02-18T22:07:10.000Z",
       "tokenAccount": "Bpx6ZPTBirrtF4ZJfsmpMygjSoQ7nM2MWxiSqWC4aoMQ",
-      "latestPower": "0.758927",
+      "latestPower": "0.752897",
       "share": "0.00"
     },
     {
@@ -4011,7 +4011,7 @@
       "escrowStartedAt": "2022-02-23T21:32:06.000Z",
       "escrowEndsAt": "2023-02-23T21:32:06.000Z",
       "tokenAccount": "Ge57jRtD4J2ebNAgbx6WTnrPdzEQo9gVsWBkhNatMDYh",
-      "latestPower": "0.757243",
+      "latestPower": "0.751455",
       "share": "0.00"
     },
     {
@@ -4021,7 +4021,7 @@
       "escrowStartedAt": "2022-02-12T14:23:49.000Z",
       "escrowEndsAt": "2023-02-12T14:23:49.000Z",
       "tokenAccount": "DfLVoacHyyMyU5mZSHvmGSeaU5XS8fenAEZ2q5SMCUQK",
-      "latestPower": "0.754237",
+      "latestPower": "0.747928",
       "share": "0.00"
     },
     {
@@ -4031,7 +4031,7 @@
       "escrowStartedAt": "2022-02-12T06:26:49.000Z",
       "escrowEndsAt": "2023-02-12T06:26:49.000Z",
       "tokenAccount": "2Y4pAyyi5w8eawxWbrs3tUbuNefHQha97qJ7tZVbHT2Z",
-      "latestPower": "0.738879",
+      "latestPower": "0.732681",
       "share": "0.00"
     },
     {
@@ -4041,7 +4041,7 @@
       "escrowStartedAt": "2022-02-17T12:25:50.000Z",
       "escrowEndsAt": "2023-02-17T12:25:50.000Z",
       "tokenAccount": "6mnkK1yVjL58pmEZQ8oTnRF7FDE7A84HeNut4zYqtcBT",
-      "latestPower": "0.725832",
+      "latestPower": "0.720000",
       "share": "0.00"
     },
     {
@@ -4051,7 +4051,7 @@
       "escrowStartedAt": "2022-02-24T11:58:47.000Z",
       "escrowEndsAt": "2023-02-24T11:58:47.000Z",
       "tokenAccount": "ETmgi6Kh2eLVHm8N2o6VdDooSBQG4zb3XswCoh2tSFKC",
-      "latestPower": "0.720496",
+      "latestPower": "0.715014",
       "share": "0.00"
     },
     {
@@ -4061,7 +4061,7 @@
       "escrowStartedAt": "2022-02-12T16:17:31.000Z",
       "escrowEndsAt": "2023-02-12T16:17:31.000Z",
       "tokenAccount": "8HEr5WXW1JJUJHw167X5Mdmz4ecrB3fUKF7628GurcCj",
-      "latestPower": "0.719019",
+      "latestPower": "0.713008",
       "share": "0.00"
     },
     {
@@ -4071,7 +4071,7 @@
       "escrowStartedAt": "2022-02-13T14:36:55.000Z",
       "escrowEndsAt": "2023-02-13T14:36:55.000Z",
       "tokenAccount": "NWS7HLmYjzV8b84A6tYLG82xiWBgZowZXG4wBxnsb7n",
-      "latestPower": "0.715741",
+      "latestPower": "0.709804",
       "share": "0.00"
     },
     {
@@ -4081,7 +4081,7 @@
       "escrowStartedAt": "2022-02-16T13:57:54.000Z",
       "escrowEndsAt": "2023-02-16T13:57:54.000Z",
       "tokenAccount": "HNzm57Xq3L1YDydoarAneo5FQiGmzhwwqmGfPyrpeKQR",
-      "latestPower": "0.709872",
+      "latestPower": "0.704125",
       "share": "0.00"
     },
     {
@@ -4091,7 +4091,7 @@
       "escrowStartedAt": "2022-02-13T03:28:49.000Z",
       "escrowEndsAt": "2023-02-13T03:28:49.000Z",
       "tokenAccount": "24ntZey2zdkmUTowtZGs2uSgYFMwN6T86QZNRiCwkn2r",
-      "latestPower": "0.708237",
+      "latestPower": "0.702340",
       "share": "0.00"
     },
     {
@@ -4101,7 +4101,7 @@
       "escrowStartedAt": "2022-02-22T00:18:20.000Z",
       "escrowEndsAt": "2023-02-22T00:18:20.000Z",
       "tokenAccount": "9Hkmmo9c9xaRRXG4uJRz7XfB2P4cXnsihfRiUnebAk5C",
-      "latestPower": "0.706871",
+      "latestPower": "0.701390",
       "share": "0.00"
     },
     {
@@ -4111,7 +4111,7 @@
       "escrowStartedAt": "2022-02-19T19:18:21.000Z",
       "escrowEndsAt": "2023-02-19T19:18:21.000Z",
       "tokenAccount": "9qGKeCnKBF9THh2jjyXMX9jv7TwsWLLfy5tkL4TEYK9n",
-      "latestPower": "0.694771",
+      "latestPower": "0.689289",
       "share": "0.00"
     },
     {
@@ -4121,7 +4121,7 @@
       "escrowStartedAt": "2022-02-19T18:05:52.000Z",
       "escrowEndsAt": "2023-02-19T18:05:52.000Z",
       "tokenAccount": "DyCC96YhQbAu3MQqAQEw1KT8Z1FGfmkGitfzgzHXgb9u",
-      "latestPower": "0.694495",
+      "latestPower": "0.689013",
       "share": "0.00"
     },
     {
@@ -4131,7 +4131,7 @@
       "escrowStartedAt": "2022-02-18T12:52:16.000Z",
       "escrowEndsAt": "2023-02-18T12:52:16.000Z",
       "tokenAccount": "3tDGLxx8jNngr93DsS9TMWQnnJrJgYMCH47JJdXFJxuQ",
-      "latestPower": "0.687822",
+      "latestPower": "0.682341",
       "share": "0.00"
     },
     {
@@ -4141,7 +4141,7 @@
       "escrowStartedAt": "2022-02-17T14:01:52.000Z",
       "escrowEndsAt": "2023-02-17T14:01:52.000Z",
       "tokenAccount": "5oNRrJLWLpVxwGSzXGMZpqdT5E7GSYauJhWnNgb7oFMq",
-      "latestPower": "0.682608",
+      "latestPower": "0.677126",
       "share": "0.00"
     },
     {
@@ -4151,7 +4151,7 @@
       "escrowStartedAt": "2022-02-17T05:54:45.000Z",
       "escrowEndsAt": "2023-02-17T05:54:45.000Z",
       "tokenAccount": "BECKQexL3qxAY28UQGpqFvkzQQs1zPSfQviNvyHPnv2d",
-      "latestPower": "0.680754",
+      "latestPower": "0.675272",
       "share": "0.00"
     },
     {
@@ -4161,7 +4161,7 @@
       "escrowStartedAt": "2022-02-17T04:30:52.000Z",
       "escrowEndsAt": "2023-02-17T04:30:52.000Z",
       "tokenAccount": "GeZaUsqLKgiRfHPym9dNw7BYg4bNk5We2fPUPckUWBwi",
-      "latestPower": "0.680435",
+      "latestPower": "0.674953",
       "share": "0.00"
     },
     {
@@ -4171,7 +4171,7 @@
       "escrowStartedAt": "2022-02-16T07:48:13.000Z",
       "escrowEndsAt": "2023-02-16T07:48:13.000Z",
       "tokenAccount": "b41PjwAoo6NzUt1C8QAJYfgPGsCBXQLd8WaMmQbjAvc",
-      "latestPower": "0.675706",
+      "latestPower": "0.670225",
       "share": "0.00"
     },
     {
@@ -4181,7 +4181,7 @@
       "escrowStartedAt": "2022-02-12T19:01:11.000Z",
       "escrowEndsAt": "2023-02-12T19:01:11.000Z",
       "tokenAccount": "86ufE4CC9vV6a9mTzvuqqroq1RH9WpoKYRaqC8vjxsz7",
-      "latestPower": "0.668403",
+      "latestPower": "0.662820",
       "share": "0.00"
     },
     {
@@ -4191,7 +4191,7 @@
       "escrowStartedAt": "2022-02-14T17:15:52.000Z",
       "escrowEndsAt": "2023-02-14T17:15:52.000Z",
       "tokenAccount": "CBxSjujb1hyD6eMwX4CNcyPhWCqx9bZGWN4vRhrJzRVA",
-      "latestPower": "0.666908",
+      "latestPower": "0.661426",
       "share": "0.00"
     },
     {
@@ -4201,7 +4201,7 @@
       "escrowStartedAt": "2022-02-13T14:00:40.000Z",
       "escrowEndsAt": "2023-02-13T14:00:40.000Z",
       "tokenAccount": "Csry98Jvg4sTSKkxo2Ffo8o7MCrV5VHSSwchcTMwaLPo",
-      "latestPower": "0.660685",
+      "latestPower": "0.655204",
       "share": "0.00"
     },
     {
@@ -4211,7 +4211,7 @@
       "escrowStartedAt": "2022-02-13T10:32:08.000Z",
       "escrowEndsAt": "2023-02-13T10:32:08.000Z",
       "tokenAccount": "6oCWT92PxnU25V2eHouW8WG1KMwiPk9Ww5KifoH8oXqq",
-      "latestPower": "0.659892",
+      "latestPower": "0.654410",
       "share": "0.00"
     },
     {
@@ -4221,7 +4221,7 @@
       "escrowStartedAt": "2022-02-12T05:47:33.000Z",
       "escrowEndsAt": "2023-02-12T05:47:33.000Z",
       "tokenAccount": "5JiyeRa47adDhvayebiQYYWWfrDvnkuQ7983GhwgDLtp",
-      "latestPower": "0.653329",
+      "latestPower": "0.647848",
       "share": "0.00"
     },
     {
@@ -4231,7 +4231,7 @@
       "escrowStartedAt": "2022-02-14T20:36:40.000Z",
       "escrowEndsAt": "2023-02-14T20:36:40.000Z",
       "tokenAccount": "yS5f9ZQpUaLPAdsZijgySEgjCxLhXZeHJDqACr7hEz4",
-      "latestPower": "0.586738",
+      "latestPower": "0.581921",
       "share": "0.00"
     },
     {
@@ -4241,7 +4241,7 @@
       "escrowStartedAt": "2022-02-24T14:27:56.000Z",
       "escrowEndsAt": "2023-02-24T14:27:56.000Z",
       "tokenAccount": "F6bqRpYCc3Et5UcTZgzk8RvTVr9bN8wnmLNjSBirTabT",
-      "latestPower": "0.577140",
+      "latestPower": "0.572752",
       "share": "0.00"
     },
     {
@@ -4251,17 +4251,7 @@
       "escrowStartedAt": "2022-02-12T10:16:15.000Z",
       "escrowEndsAt": "2023-02-12T10:16:15.000Z",
       "tokenAccount": "EQeKdagvUabTp5bcmEG2e8FpkeMS7BvNbAukgcqvak66",
-      "latestPower": "0.574453",
-      "share": "0.00"
-    },
-    {
-      "escrow": "AHiXoZHYhYTSrpKnJYgrFTpeui1dvrp6BLDahhwZ1JnS",
-      "amount": "7.096232",
-      "owner": "CqEyz2MFvTuZBdqsYHa6hWsPU2D3jNH2gxUy6tCxq6cw",
-      "escrowStartedAt": "2022-07-31T18:45:36.000Z",
-      "escrowEndsAt": "2022-11-11T06:45:36.000Z",
-      "tokenAccount": "FSJueEjnNc2LWbWN6EnfUgLCQFGQmFwLRioXT5Di7GRY",
-      "latestPower": "0.510793",
+      "latestPower": "0.569640",
       "share": "0.00"
     },
     {
@@ -4271,7 +4261,7 @@
       "escrowStartedAt": "2022-02-17T06:40:23.000Z",
       "escrowEndsAt": "2023-02-17T06:40:23.000Z",
       "tokenAccount": "Dmf3LXUbSCX38svuUWmfiECB4RMh4YWmmfVMtSgw46gS",
-      "latestPower": "0.510428",
+      "latestPower": "0.506319",
       "share": "0.00"
     },
     {
@@ -4281,7 +4271,7 @@
       "escrowStartedAt": "2022-02-16T18:24:12.000Z",
       "escrowEndsAt": "2023-02-16T18:24:12.000Z",
       "tokenAccount": "CrCXR1CdXC27eqcVDr53f7DExaQb9N4wecSqjjekt71B",
-      "latestPower": "0.508595",
+      "latestPower": "0.504483",
       "share": "0.00"
     },
     {
@@ -4291,7 +4281,17 @@
       "escrowStartedAt": "2022-02-16T08:20:36.000Z",
       "escrowEndsAt": "2023-02-16T08:20:36.000Z",
       "tokenAccount": "2r6NTeB18Dfx51nbx5Hi1zMtJdpgUEX3RfNANw4mohn4",
-      "latestPower": "0.506872",
+      "latestPower": "0.502761",
+      "share": "0.00"
+    },
+    {
+      "escrow": "AHiXoZHYhYTSrpKnJYgrFTpeui1dvrp6BLDahhwZ1JnS",
+      "amount": "7.096232",
+      "owner": "CqEyz2MFvTuZBdqsYHa6hWsPU2D3jNH2gxUy6tCxq6cw",
+      "escrowStartedAt": "2022-07-31T18:45:36.000Z",
+      "escrowEndsAt": "2022-11-11T06:45:36.000Z",
+      "tokenAccount": "FSJueEjnNc2LWbWN6EnfUgLCQFGQmFwLRioXT5Di7GRY",
+      "latestPower": "0.491343",
       "share": "0.00"
     },
     {
@@ -4301,7 +4301,7 @@
       "escrowStartedAt": "2022-02-23T08:37:34.000Z",
       "escrowEndsAt": "2023-02-23T08:37:34.000Z",
       "tokenAccount": "7DMdFnxGDxygR1gx1iq3Gb18yFWkmxjcJWNRfyBpKEzC",
-      "latestPower": "0.467417",
+      "latestPower": "0.463830",
       "share": "0.00"
     },
     {
@@ -4311,7 +4311,7 @@
       "escrowStartedAt": "2022-02-25T16:05:04.000Z",
       "escrowEndsAt": "2023-02-25T16:05:04.000Z",
       "tokenAccount": "BbyT6qXA8KJyMB2BHSq32HDyrjKwyDpw8jMC6FLsEXcB",
-      "latestPower": "0.464605",
+      "latestPower": "0.461101",
       "share": "0.00"
     },
     {
@@ -4321,7 +4321,7 @@
       "escrowStartedAt": "2022-02-24T09:26:40.000Z",
       "escrowEndsAt": "2023-02-24T09:26:40.000Z",
       "tokenAccount": "62e2QP4sQ1hKgv7HAfFTVGY5UU6G88ddKf2ebWNsMkrc",
-      "latestPower": "0.450134",
+      "latestPower": "0.446707",
       "share": "0.00"
     },
     {
@@ -4331,7 +4331,7 @@
       "escrowStartedAt": "2022-02-14T02:31:23.000Z",
       "escrowEndsAt": "2023-02-14T02:31:23.000Z",
       "tokenAccount": "7H98zmT6RNeU55XxmS36xhFd7XgD9pc38A1PD7vtdooT",
-      "latestPower": "0.447708",
+      "latestPower": "0.444010",
       "share": "0.00"
     },
     {
@@ -4341,7 +4341,7 @@
       "escrowStartedAt": "2022-02-19T12:21:27.000Z",
       "escrowEndsAt": "2023-02-22T04:06:55.000Z",
       "tokenAccount": "BxDyonaHcaYKhxREULCUapAQacADmSfG9nX4ZxDt5tWp",
-      "latestPower": "0.446453",
+      "latestPower": "0.442995",
       "share": "0.00"
     },
     {
@@ -4351,7 +4351,7 @@
       "escrowStartedAt": "2022-02-19T06:12:34.000Z",
       "escrowEndsAt": "2023-02-19T06:12:34.000Z",
       "tokenAccount": "GA9aU2imYwRKroWaKLKb4B7mLWUh1NN8jrb5988NPpWX",
-      "latestPower": "0.433254",
+      "latestPower": "0.429821",
       "share": "0.00"
     },
     {
@@ -4361,7 +4361,7 @@
       "escrowStartedAt": "2022-02-23T14:58:46.000Z",
       "escrowEndsAt": "2023-02-23T14:58:46.000Z",
       "tokenAccount": "AXSTLQxfbjeTiADxyEVdQrcGHH3Xm1xihWEc7g52Pdsz",
-      "latestPower": "0.430682",
+      "latestPower": "0.427383",
       "share": "0.00"
     },
     {
@@ -4371,7 +4371,7 @@
       "escrowStartedAt": "2022-02-23T16:17:32.000Z",
       "escrowEndsAt": "2023-02-23T16:17:32.000Z",
       "tokenAccount": "7URf2cP1jEs99JBQiyEbbt7xSN4Eqej1ZWgqyHFRv3sc",
-      "latestPower": "0.430476",
+      "latestPower": "0.427180",
       "share": "0.00"
     },
     {
@@ -4381,7 +4381,7 @@
       "escrowStartedAt": "2022-02-22T12:15:29.000Z",
       "escrowEndsAt": "2023-02-22T12:15:29.000Z",
       "tokenAccount": "4D4nsQgam18iLGDSb6iS4hsfRq4AsU4CRfxoHwoDNpCo",
-      "latestPower": "0.430462",
+      "latestPower": "0.427137",
       "share": "0.00"
     },
     {
@@ -4391,7 +4391,7 @@
       "escrowStartedAt": "2022-02-23T00:23:45.000Z",
       "escrowEndsAt": "2023-02-23T00:23:45.000Z",
       "tokenAccount": "7uWg9GQBtVmcsVu7Jw1ZFc72FuTZX75EXJLbtE7NDxd5",
-      "latestPower": "0.429359",
+      "latestPower": "0.426055",
       "share": "0.00"
     },
     {
@@ -4401,7 +4401,7 @@
       "escrowStartedAt": "2022-02-22T22:45:29.000Z",
       "escrowEndsAt": "2023-02-22T22:45:29.000Z",
       "tokenAccount": "4unTi1BJnm3WqMiK8no1kdrJwCBuHQEpXuUWaqjoNpKV",
-      "latestPower": "0.428332",
+      "latestPower": "0.425034",
       "share": "0.00"
     },
     {
@@ -4411,7 +4411,7 @@
       "escrowStartedAt": "2022-02-23T04:32:26.000Z",
       "escrowEndsAt": "2023-02-23T04:32:26.000Z",
       "tokenAccount": "5F4gvxL9exuhCWhSzMWgo7msgYYB1P8nodGvThQDRvRF",
-      "latestPower": "0.427990",
+      "latestPower": "0.424701",
       "share": "0.00"
     },
     {
@@ -4421,7 +4421,7 @@
       "escrowStartedAt": "2022-02-22T16:45:30.000Z",
       "escrowEndsAt": "2023-02-22T16:45:30.000Z",
       "tokenAccount": "538zHjaSmSZqSVLiifhjnuJ7xjnmiYLzHXuV84B662vg",
-      "latestPower": "0.427949",
+      "latestPower": "0.424648",
       "share": "0.00"
     },
     {
@@ -4431,7 +4431,7 @@
       "escrowStartedAt": "2022-02-22T14:40:09.000Z",
       "escrowEndsAt": "2023-02-22T14:40:09.000Z",
       "tokenAccount": "7puntNAogCgPBb84tNgipB65Yvm9dVArFLdLFi6GkvMm",
-      "latestPower": "0.427421",
+      "latestPower": "0.424121",
       "share": "0.00"
     },
     {
@@ -4441,7 +4441,7 @@
       "escrowStartedAt": "2022-02-21T23:03:23.000Z",
       "escrowEndsAt": "2023-02-21T23:03:23.000Z",
       "tokenAccount": "BsK2ZKRP2RE8D7EtkoabGNAWZbpimzykBR52ApzT8S43",
-      "latestPower": "0.423715",
+      "latestPower": "0.420428",
       "share": "0.00"
     },
     {
@@ -4451,7 +4451,7 @@
       "escrowStartedAt": "2022-02-21T05:27:59.000Z",
       "escrowEndsAt": "2023-02-21T05:27:59.000Z",
       "tokenAccount": "ADkqJ2YebAHCtEknoLP3jDu8SDK11M67FRe2qxQ11R7K",
-      "latestPower": "0.412756",
+      "latestPower": "0.409535",
       "share": "0.00"
     },
     {
@@ -4461,7 +4461,7 @@
       "escrowStartedAt": "2022-02-20T12:08:56.000Z",
       "escrowEndsAt": "2023-02-20T12:08:56.000Z",
       "tokenAccount": "4846Vdw2Gkyg1fGNjQpSPwFYfxwZygLGTWeGhp8TY6x7",
-      "latestPower": "0.410088",
+      "latestPower": "0.406870",
       "share": "0.00"
     },
     {
@@ -4471,7 +4471,7 @@
       "escrowStartedAt": "2022-02-20T09:28:58.000Z",
       "escrowEndsAt": "2023-02-20T09:28:58.000Z",
       "tokenAccount": "F8qVg9HXtJr3sVpcNhErzf9AFsm581abm5b4XcNUwa9t",
-      "latestPower": "0.409032",
+      "latestPower": "0.405820",
       "share": "0.00"
     },
     {
@@ -4481,7 +4481,7 @@
       "escrowStartedAt": "2022-02-20T06:30:20.000Z",
       "escrowEndsAt": "2023-02-20T06:30:20.000Z",
       "tokenAccount": "6kftrpDrE8MFJ2Rh64gyvKt1naPucHVSSECN77ekJpLf",
-      "latestPower": "0.407937",
+      "latestPower": "0.404730",
       "share": "0.00"
     },
     {
@@ -4491,7 +4491,7 @@
       "escrowStartedAt": "2022-02-16T12:31:06.000Z",
       "escrowEndsAt": "2023-02-16T12:31:06.000Z",
       "tokenAccount": "GpTjXg6tveBV3jwXbd457pPMnjnVvoJN2StsLR5pKeph",
-      "latestPower": "0.406070",
+      "latestPower": "0.402781",
       "share": "0.00"
     },
     {
@@ -4501,7 +4501,7 @@
       "escrowStartedAt": "2022-02-18T06:23:56.000Z",
       "escrowEndsAt": "2023-02-18T06:23:56.000Z",
       "tokenAccount": "J1LoRAZXEQp7uYtUvJEbhP3VAeppN7pmxSyDFkjx7ATX",
-      "latestPower": "0.403133",
+      "latestPower": "0.399913",
       "share": "0.00"
     },
     {
@@ -4511,7 +4511,7 @@
       "escrowStartedAt": "2022-02-17T21:32:42.000Z",
       "escrowEndsAt": "2023-02-17T21:32:42.000Z",
       "tokenAccount": "5igtDLk7UTfbgwuJFGQtpiHijHLqxRdRzidbPYpsDZy7",
-      "latestPower": "0.400329",
+      "latestPower": "0.397122",
       "share": "0.00"
     },
     {
@@ -4521,7 +4521,7 @@
       "escrowStartedAt": "2022-02-15T08:20:50.000Z",
       "escrowEndsAt": "2023-02-15T08:20:50.000Z",
       "tokenAccount": "9us9FEU5TSZj5foJwKazUDsUNhYcxuWqQGsq3Ww8uowD",
-      "latestPower": "0.400191",
+      "latestPower": "0.396919",
       "share": "0.00"
     },
     {
@@ -4531,7 +4531,7 @@
       "escrowStartedAt": "2022-02-16T20:40:12.000Z",
       "escrowEndsAt": "2023-02-16T20:40:12.000Z",
       "tokenAccount": "BUFVYQiQa1PegazcmdkMwq2P4LGm5jiq9WjqB5Cta4iG",
-      "latestPower": "0.399082",
+      "latestPower": "0.395858",
       "share": "0.00"
     },
     {
@@ -4541,7 +4541,7 @@
       "escrowStartedAt": "2022-02-19T09:37:55.000Z",
       "escrowEndsAt": "2023-02-19T09:37:55.000Z",
       "tokenAccount": "C9wPAjato9ReHcCi66Nu9g3AbZDXPgkgk6LtMQM4DK98",
-      "latestPower": "0.394729",
+      "latestPower": "0.391605",
       "share": "0.00"
     },
     {
@@ -4551,17 +4551,7 @@
       "escrowStartedAt": "2022-02-23T16:38:06.000Z",
       "escrowEndsAt": "2023-02-23T16:38:06.000Z",
       "tokenAccount": "5JNxPBKRwWoAHs751Zh4hbT2dh2Eat2HV9Uqhvyje3kV",
-      "latestPower": "0.393843",
-      "share": "0.00"
-    },
-    {
-      "escrow": "3JayWQV6K3FTdXihxGZ9fTUWnLe33GPXwU8xP9PtPTXn",
-      "amount": "1.200000",
-      "owner": "Ha7Dz97YFAzyxxZKCk8998mvXyQGTgK7kVmGmTQfQbEr",
-      "escrowStartedAt": "2022-02-12T15:24:02.000Z",
-      "escrowEndsAt": "2023-02-12T15:24:02.000Z",
-      "tokenAccount": "4Za7aWUCTufc6NEFxh67goKPgpXMDLpQMCiq3M87JUJd",
-      "latestPower": "0.393314",
+      "latestPower": "0.390828",
       "share": "0.00"
     },
     {
@@ -4571,7 +4561,17 @@
       "escrowStartedAt": "2022-02-23T11:44:05.000Z",
       "escrowEndsAt": "2023-02-23T11:44:05.000Z",
       "tokenAccount": "8yPqs3yv9M1wcCVwHwmpf1X8CA34ZAMSpNed9vexGC36",
-      "latestPower": "0.393228",
+      "latestPower": "0.390213",
+      "share": "0.00"
+    },
+    {
+      "escrow": "3JayWQV6K3FTdXihxGZ9fTUWnLe33GPXwU8xP9PtPTXn",
+      "amount": "1.200000",
+      "owner": "Ha7Dz97YFAzyxxZKCk8998mvXyQGTgK7kVmGmTQfQbEr",
+      "escrowStartedAt": "2022-02-12T15:24:02.000Z",
+      "escrowEndsAt": "2023-02-12T15:24:02.000Z",
+      "tokenAccount": "4Za7aWUCTufc6NEFxh67goKPgpXMDLpQMCiq3M87JUJd",
+      "latestPower": "0.390025",
       "share": "0.00"
     },
     {
@@ -4581,7 +4581,7 @@
       "escrowStartedAt": "2022-02-12T10:54:39.000Z",
       "escrowEndsAt": "2023-02-12T10:54:39.000Z",
       "tokenAccount": "Ge6QspodAkAmd9DKAkyMdh3mE8M3kdycqCAwEZmUMibY",
-      "latestPower": "0.391609",
+      "latestPower": "0.388329",
       "share": "0.00"
     },
     {
@@ -4591,7 +4591,7 @@
       "escrowStartedAt": "2022-02-14T11:27:28.000Z",
       "escrowEndsAt": "2023-02-14T11:27:28.000Z",
       "tokenAccount": "6gjNJUgxsJAPUkZ2nBL4pVSrUM1Re8NAxaxYnexJpqug",
-      "latestPower": "0.389954",
+      "latestPower": "0.386742",
       "share": "0.00"
     },
     {
@@ -4601,7 +4601,7 @@
       "escrowStartedAt": "2022-02-16T06:12:10.000Z",
       "escrowEndsAt": "2023-02-16T06:12:10.000Z",
       "tokenAccount": "UWYQ8JkyNWmkkWaDE6wNdJf27ymFi1soWe19jdpBeVk",
-      "latestPower": "0.385993",
+      "latestPower": "0.382860",
       "share": "0.00"
     },
     {
@@ -4611,7 +4611,7 @@
       "escrowStartedAt": "2022-02-20T06:40:56.000Z",
       "escrowEndsAt": "2023-02-20T06:40:56.000Z",
       "tokenAccount": "4UaFo2PLjPAHwkjMLR4oC7ZyG3ywsSyc3LeATeDnMBke",
-      "latestPower": "0.383552",
+      "latestPower": "0.380537",
       "share": "0.00"
     },
     {
@@ -4621,7 +4621,7 @@
       "escrowStartedAt": "2022-02-11T17:41:27.000Z",
       "escrowEndsAt": "2023-02-11T17:41:27.000Z",
       "tokenAccount": "Dt9ducw1u31hJFj9HXvsmXRiPtitMFrLnnqjHvhH4eGy",
-      "latestPower": "0.383039",
+      "latestPower": "0.379811",
       "share": "0.00"
     },
     {
@@ -4631,7 +4631,7 @@
       "escrowStartedAt": "2022-02-17T15:46:56.000Z",
       "escrowEndsAt": "2023-02-17T15:46:56.000Z",
       "tokenAccount": "9XCD1NiDoUFuKoubhUrnzKHMXopBD3bMpiANh1cA5Jh9",
-      "latestPower": "0.382637",
+      "latestPower": "0.379566",
       "share": "0.00"
     },
     {
@@ -4641,7 +4641,7 @@
       "escrowStartedAt": "2022-02-19T20:06:58.000Z",
       "escrowEndsAt": "2023-02-19T20:06:58.000Z",
       "tokenAccount": "CBqhrYJb9MChKQxp3RbeP2NvZva4kH7o3B7poHRpp9Zd",
-      "latestPower": "0.382226",
+      "latestPower": "0.379211",
       "share": "0.00"
     },
     {
@@ -4651,7 +4651,7 @@
       "escrowStartedAt": "2022-02-19T19:46:00.000Z",
       "escrowEndsAt": "2023-02-19T19:46:00.000Z",
       "tokenAccount": "EHqhL5uZKC8gNwYdHm6HQACr8zM7CzMo4QPaGjjZGrMu",
-      "latestPower": "0.382182",
+      "latestPower": "0.379167",
       "share": "0.00"
     },
     {
@@ -4661,7 +4661,7 @@
       "escrowStartedAt": "2022-02-19T12:06:08.000Z",
       "escrowEndsAt": "2023-02-19T12:06:08.000Z",
       "tokenAccount": "DWCPRbXMJYoy3szHpURjn2drG22P3gz7HR6iu29AiMyJ",
-      "latestPower": "0.381219",
+      "latestPower": "0.378204",
       "share": "0.00"
     },
     {
@@ -4671,7 +4671,7 @@
       "escrowStartedAt": "2022-02-19T10:30:54.000Z",
       "escrowEndsAt": "2023-02-19T10:30:54.000Z",
       "tokenAccount": "BgjyUomWDgijgQt6S9Hx6QGE2tEYE68AKZ8yLmgsBrjY",
-      "latestPower": "0.381021",
+      "latestPower": "0.378006",
       "share": "0.00"
     },
     {
@@ -4681,7 +4681,7 @@
       "escrowStartedAt": "2022-02-15T12:27:55.000Z",
       "escrowEndsAt": "2023-02-15T12:27:55.000Z",
       "tokenAccount": "AGavnDqymvErJadzH9Aec3csGgVbNPw3CDMXEVx3FpMW",
-      "latestPower": "0.380917",
+      "latestPower": "0.377806",
       "share": "0.00"
     },
     {
@@ -4691,7 +4691,7 @@
       "escrowStartedAt": "2022-02-21T15:03:55.000Z",
       "escrowEndsAt": "2023-02-21T15:03:55.000Z",
       "tokenAccount": "8x9WKkLh7peEUXNaZdT5absvqGzkMYugZGVkQpdL5rRC",
-      "latestPower": "0.379124",
+      "latestPower": "0.376175",
       "share": "0.00"
     },
     {
@@ -4701,7 +4701,7 @@
       "escrowStartedAt": "2022-02-13T02:51:00.000Z",
       "escrowEndsAt": "2023-02-13T02:51:00.000Z",
       "tokenAccount": "9MmTKCvtxZnwDPumFnzUM4FZeGXQmxhPnawqFjq1Q4Za",
-      "latestPower": "0.378429",
+      "latestPower": "0.375277",
       "share": "0.00"
     },
     {
@@ -4711,7 +4711,7 @@
       "escrowStartedAt": "2022-02-12T10:48:45.000Z",
       "escrowEndsAt": "2023-02-12T10:48:45.000Z",
       "tokenAccount": "Fhoeb7gpdSpoEUK1GNvtpAa4ryhK3Wti7PWpMhLqdGk4",
-      "latestPower": "0.377180",
+      "latestPower": "0.374021",
       "share": "0.00"
     },
     {
@@ -4721,7 +4721,7 @@
       "escrowStartedAt": "2022-02-12T08:51:51.000Z",
       "escrowEndsAt": "2023-02-12T08:51:51.000Z",
       "tokenAccount": "2nyRUBm97g3yivDMLxXzVZE1qNtAGnfit9WtxZwv434W",
-      "latestPower": "0.376998",
+      "latestPower": "0.373838",
       "share": "0.00"
     },
     {
@@ -4731,7 +4731,7 @@
       "escrowStartedAt": "2022-02-12T10:15:49.000Z",
       "escrowEndsAt": "2023-02-12T10:15:49.000Z",
       "tokenAccount": "66gjcJeFPpY4Tfm8fVgjoSJoMv9QDMAugwxtfW6MEeih",
-      "latestPower": "0.376918",
+      "latestPower": "0.373760",
       "share": "0.00"
     },
     {
@@ -4741,7 +4741,7 @@
       "escrowStartedAt": "2022-02-12T07:15:05.000Z",
       "escrowEndsAt": "2023-02-12T07:15:05.000Z",
       "tokenAccount": "9gFPk9cckn2v8x3YN7J9ULT5UEjLnb1EUZMWBSJKvcaE",
-      "latestPower": "0.373675",
+      "latestPower": "0.370541",
       "share": "0.00"
     },
     {
@@ -4751,7 +4751,7 @@
       "escrowStartedAt": "2022-02-12T07:45:47.000Z",
       "escrowEndsAt": "2023-02-12T07:45:47.000Z",
       "tokenAccount": "3hgKt2WvfSfN1rvi2ZJ5tBLd6ZTgSzqTh8neUuCckHK8",
-      "latestPower": "0.373555",
+      "latestPower": "0.370423",
       "share": "0.00"
     },
     {
@@ -4761,7 +4761,7 @@
       "escrowStartedAt": "2022-02-13T21:50:00.000Z",
       "escrowEndsAt": "2023-02-13T21:50:00.000Z",
       "tokenAccount": "G5p6JKDmnyBhdzPeCiVr3fHGrnTgSUqNqQFT4K4Ye9QY",
-      "latestPower": "0.373411",
+      "latestPower": "0.370321",
       "share": "0.00"
     },
     {
@@ -4771,7 +4771,7 @@
       "escrowStartedAt": "2022-02-12T06:08:02.000Z",
       "escrowEndsAt": "2023-02-12T06:08:02.000Z",
       "tokenAccount": "CXQdtdx7w85wNePWsPDBXscLiVJvVBaf9VKfkcAZiaP7",
-      "latestPower": "0.369303",
+      "latestPower": "0.366205",
       "share": "0.00"
     },
     {
@@ -4781,7 +4781,7 @@
       "escrowStartedAt": "2022-02-14T00:36:57.000Z",
       "escrowEndsAt": "2023-02-14T00:36:57.000Z",
       "tokenAccount": "8gboaLo9TLbvufaMQPNFGCPdp6FCk9ghi7z9zDRksSdF",
-      "latestPower": "0.368024",
+      "latestPower": "0.364982",
       "share": "0.00"
     },
     {
@@ -4791,7 +4791,7 @@
       "escrowStartedAt": "2022-02-13T02:14:54.000Z",
       "escrowEndsAt": "2023-02-13T02:14:54.000Z",
       "tokenAccount": "5bHd24J3YzJyt2XtfvgfwMoqZoXGRcKUce3BTCdyNKWF",
-      "latestPower": "0.366915",
+      "latestPower": "0.363858",
       "share": "0.00"
     },
     {
@@ -4801,7 +4801,7 @@
       "escrowStartedAt": "2022-02-18T12:46:19.000Z",
       "escrowEndsAt": "2023-02-18T12:46:19.000Z",
       "tokenAccount": "D7a7GCvy6oaowQCv78d1U5M43mibdSTSa5X254iPrrWc",
-      "latestPower": "0.363882",
+      "latestPower": "0.360981",
       "share": "0.00"
     },
     {
@@ -4811,7 +4811,7 @@
       "escrowStartedAt": "2022-02-22T16:29:33.000Z",
       "escrowEndsAt": "2023-02-22T16:29:33.000Z",
       "tokenAccount": "CKAStRxRhoQdHo8hVVE6tLVeKTwaPKe76UypeDJVr5Jf",
-      "latestPower": "0.363390",
+      "latestPower": "0.360586",
       "share": "0.00"
     },
     {
@@ -4821,7 +4821,7 @@
       "escrowStartedAt": "2022-02-14T07:46:47.000Z",
       "escrowEndsAt": "2023-02-14T07:46:47.000Z",
       "tokenAccount": "FqQWC2TxJKcPuNxEejw5RRQq1nSVZmyntn3Pk4XZt1mo",
-      "latestPower": "0.362284",
+      "latestPower": "0.359297",
       "share": "0.00"
     },
     {
@@ -4831,7 +4831,7 @@
       "escrowStartedAt": "2022-02-14T07:39:44.000Z",
       "escrowEndsAt": "2023-02-14T07:39:44.000Z",
       "tokenAccount": "2hB9Mdp3hN59DYkN8Cb5UiDrw5niMuQN5u6VBEcz7e2T",
-      "latestPower": "0.362270",
+      "latestPower": "0.359282",
       "share": "0.00"
     },
     {
@@ -4841,7 +4841,7 @@
       "escrowStartedAt": "2022-02-12T14:05:52.000Z",
       "escrowEndsAt": "2023-02-12T14:05:52.000Z",
       "tokenAccount": "9rKQdp5hvfivSAbgHgkiQ1LwJbZVFMMVJCcLSLZxEYdn",
-      "latestPower": "0.360374",
+      "latestPower": "0.357359",
       "share": "0.00"
     },
     {
@@ -4851,7 +4851,7 @@
       "escrowStartedAt": "2022-02-23T22:07:25.000Z",
       "escrowEndsAt": "2023-02-23T22:07:25.000Z",
       "tokenAccount": "D5VzyJsvz9zdwC3JdQcm3NcoVZ9PBTSUnv7XdrMuQdVR",
-      "latestPower": "0.358666",
+      "latestPower": "0.355925",
       "share": "0.00"
     },
     {
@@ -4861,7 +4861,7 @@
       "escrowStartedAt": "2022-02-12T01:37:18.000Z",
       "escrowEndsAt": "2023-02-12T01:37:18.000Z",
       "tokenAccount": "GY6q2MXbmrc62VkYPps2B6bKtiMXK4Me4P6W7a8seJLh",
-      "latestPower": "0.357462",
+      "latestPower": "0.354458",
       "share": "0.00"
     },
     {
@@ -4871,7 +4871,7 @@
       "escrowStartedAt": "2022-02-23T01:39:48.000Z",
       "escrowEndsAt": "2023-02-23T01:39:48.000Z",
       "tokenAccount": "w3fnCe8RD1sWzGbrfr7qvEyttX2qjxKA8W33mh94YcK",
-      "latestPower": "0.356330",
+      "latestPower": "0.353589",
       "share": "0.00"
     },
     {
@@ -4881,7 +4881,7 @@
       "escrowStartedAt": "2022-02-15T13:33:56.000Z",
       "escrowEndsAt": "2023-02-15T13:33:56.000Z",
       "tokenAccount": "C5C9Tydw4fz7DY5MrsPtREeHmW4WDV6C8zoWHdxB7dxX",
-      "latestPower": "0.355917",
+      "latestPower": "0.353012",
       "share": "0.00"
     },
     {
@@ -4891,7 +4891,7 @@
       "escrowStartedAt": "2022-02-12T07:32:33.000Z",
       "escrowEndsAt": "2023-02-12T07:32:33.000Z",
       "tokenAccount": "88JfVXQtgpirNLwmhAoXWRsohXzRbPU57t7kh9QBupQi",
-      "latestPower": "0.354823",
+      "latestPower": "0.351848",
       "share": "0.00"
     },
     {
@@ -4901,7 +4901,7 @@
       "escrowStartedAt": "2022-02-17T17:30:43.000Z",
       "escrowEndsAt": "2023-02-17T17:30:43.000Z",
       "tokenAccount": "FhVF1TpXNJEYx6z4Qxi23JmKKhhHmwgxC3MHcG1WP5JE",
-      "latestPower": "0.354027",
+      "latestPower": "0.351188",
       "share": "0.00"
     },
     {
@@ -4911,7 +4911,7 @@
       "escrowStartedAt": "2022-02-21T16:23:35.000Z",
       "escrowEndsAt": "2023-02-21T16:23:35.000Z",
       "tokenAccount": "AfgrSWkYAaE3u4CXLXyzTYnYL2BXihPLkX2fa8vpDPSU",
-      "latestPower": "0.352532",
+      "latestPower": "0.349791",
       "share": "0.00"
     },
     {
@@ -4921,7 +4921,7 @@
       "escrowStartedAt": "2022-02-21T14:10:08.000Z",
       "escrowEndsAt": "2023-02-21T14:10:08.000Z",
       "tokenAccount": "KgKdtyDTUkGZqWML5KuxRNzeLrejN3SMPPjruoQpo3m",
-      "latestPower": "0.352278",
+      "latestPower": "0.349537",
       "share": "0.00"
     },
     {
@@ -4931,7 +4931,7 @@
       "escrowStartedAt": "2022-02-21T13:47:55.000Z",
       "escrowEndsAt": "2023-02-21T13:47:55.000Z",
       "tokenAccount": "FvnYJqxUf3xc5DmaKWFYYtFMCt2xwmVwAJfnt7boqSTf",
-      "latestPower": "0.352236",
+      "latestPower": "0.349495",
       "share": "0.00"
     },
     {
@@ -4941,7 +4941,7 @@
       "escrowStartedAt": "2022-02-20T17:56:13.000Z",
       "escrowEndsAt": "2023-02-20T17:56:13.000Z",
       "tokenAccount": "Ab9bbB38nYTsQ7tjJFFfFxzTygZQfjp9DqKDkfnejmUE",
-      "latestPower": "0.349969",
+      "latestPower": "0.347228",
       "share": "0.00"
     },
     {
@@ -4951,7 +4951,7 @@
       "escrowStartedAt": "2022-02-19T06:44:55.000Z",
       "escrowEndsAt": "2023-02-19T06:44:55.000Z",
       "tokenAccount": "3a2MDfxLGrVY6ceQqyAA5RZNEMKpmqQiCC9gF5FxUYSs",
-      "latestPower": "0.349411",
+      "latestPower": "0.346643",
       "share": "0.00"
     },
     {
@@ -4961,7 +4961,7 @@
       "escrowStartedAt": "2022-02-19T20:00:10.000Z",
       "escrowEndsAt": "2023-02-19T20:00:10.000Z",
       "tokenAccount": "7JQFthR592nWy3prLjqP3SrauU3Km1XnGye4UhzhLahY",
-      "latestPower": "0.347465",
+      "latestPower": "0.344724",
       "share": "0.00"
     },
     {
@@ -4971,7 +4971,7 @@
       "escrowStartedAt": "2022-02-14T16:49:16.000Z",
       "escrowEndsAt": "2023-02-14T16:49:16.000Z",
       "tokenAccount": "BKf7Rwc2x8njrn6mr8NFEnvRX6YvjFfDco74Ym7cKL7v",
-      "latestPower": "0.347202",
+      "latestPower": "0.344348",
       "share": "0.00"
     },
     {
@@ -4981,7 +4981,7 @@
       "escrowStartedAt": "2022-02-19T15:37:02.000Z",
       "escrowEndsAt": "2023-02-19T15:37:02.000Z",
       "tokenAccount": "FnppQqMedUmgfNGYAZKmfH6SekmUi96RXQ2hqwh8NL1v",
-      "latestPower": "0.346964",
+      "latestPower": "0.344223",
       "share": "0.00"
     },
     {
@@ -4991,7 +4991,7 @@
       "escrowStartedAt": "2022-02-19T10:11:45.000Z",
       "escrowEndsAt": "2023-02-19T10:11:45.000Z",
       "tokenAccount": "CEfMSYjfcFCtHoMobMdX86wdwJxYLNM9qcSmsz2LBogF",
-      "latestPower": "0.346345",
+      "latestPower": "0.343604",
       "share": "0.00"
     },
     {
@@ -5001,7 +5001,7 @@
       "escrowStartedAt": "2022-02-18T10:28:08.000Z",
       "escrowEndsAt": "2023-02-18T10:28:08.000Z",
       "tokenAccount": "J9y5eLBX4rSp37kPtFUepeJqLTLRXwdYSvEhQFbRymMv",
-      "latestPower": "0.343637",
+      "latestPower": "0.340896",
       "share": "0.00"
     },
     {
@@ -5011,7 +5011,7 @@
       "escrowStartedAt": "2022-02-17T08:38:55.000Z",
       "escrowEndsAt": "2023-02-17T08:38:55.000Z",
       "tokenAccount": "CWfFSnDCV9chi5uTJrVnHsJqq92P8nFoznCfCCZTsVsV",
-      "latestPower": "0.340689",
+      "latestPower": "0.337948",
       "share": "0.00"
     },
     {
@@ -5021,7 +5021,7 @@
       "escrowStartedAt": "2022-02-17T04:52:14.000Z",
       "escrowEndsAt": "2023-02-17T04:52:14.000Z",
       "tokenAccount": "8Bp2oJAYWFFoV64EwAvgLe9jKKNENwkD4gcH8tUPXqbt",
-      "latestPower": "0.340258",
+      "latestPower": "0.337517",
       "share": "0.00"
     },
     {
@@ -5031,7 +5031,7 @@
       "escrowStartedAt": "2022-02-16T22:46:25.000Z",
       "escrowEndsAt": "2023-02-16T22:46:25.000Z",
       "tokenAccount": "C5RqzycSjRxJYpYfRrGhFi1zAbjce4v92RCTBYSVbAgR",
-      "latestPower": "0.339562",
+      "latestPower": "0.336821",
       "share": "0.00"
     },
     {
@@ -5041,7 +5041,7 @@
       "escrowStartedAt": "2022-02-14T04:07:58.000Z",
       "escrowEndsAt": "2023-02-14T04:07:58.000Z",
       "tokenAccount": "9i3FhBJ1Y8XP11XYZKwzmB65SascotHBc7MVXLYp7pqL",
-      "latestPower": "0.339107",
+      "latestPower": "0.336307",
       "share": "0.00"
     },
     {
@@ -5051,7 +5051,7 @@
       "escrowStartedAt": "2022-02-13T18:38:39.000Z",
       "escrowEndsAt": "2023-02-13T18:38:39.000Z",
       "tokenAccount": "FW2ALNnzSbg4b6ZyqcNCQe1TvRsNm8SjzEFNTKaPPKn4",
-      "latestPower": "0.337489",
+      "latestPower": "0.334693",
       "share": "0.00"
     },
     {
@@ -5061,7 +5061,7 @@
       "escrowStartedAt": "2022-02-15T10:50:10.000Z",
       "escrowEndsAt": "2023-02-15T10:50:10.000Z",
       "tokenAccount": "Gj9ungr7GKN8DkgEq3JqnKg5HMpzKSbe5tLzgP7vHjHK",
-      "latestPower": "0.335459",
+      "latestPower": "0.332719",
       "share": "0.00"
     },
     {
@@ -5071,7 +5071,7 @@
       "escrowStartedAt": "2022-02-14T15:16:31.000Z",
       "escrowEndsAt": "2023-02-14T15:16:31.000Z",
       "tokenAccount": "6Lfa4mRgKWdXyPYcjUHTbutmLZRCsQCPxQNNtgRa7med",
-      "latestPower": "0.333226",
+      "latestPower": "0.330486",
       "share": "0.00"
     },
     {
@@ -5081,7 +5081,7 @@
       "escrowStartedAt": "2022-02-14T08:11:21.000Z",
       "escrowEndsAt": "2023-02-14T08:11:21.000Z",
       "tokenAccount": "67MK7RCN63XxWV8jz5X2tydaAJh4M5ikP3PyarG21K9d",
-      "latestPower": "0.332418",
+      "latestPower": "0.329677",
       "share": "0.00"
     },
     {
@@ -5091,7 +5091,7 @@
       "escrowStartedAt": "2022-02-13T17:24:39.000Z",
       "escrowEndsAt": "2023-02-13T17:24:39.000Z",
       "tokenAccount": "7knkHDMyHqet3AfbVdxbnVfHDScrp8Y5MxekCYs9WwYa",
-      "latestPower": "0.330731",
+      "latestPower": "0.327990",
       "share": "0.00"
     },
     {
@@ -5101,7 +5101,7 @@
       "escrowStartedAt": "2022-02-13T13:16:23.000Z",
       "escrowEndsAt": "2023-02-13T13:16:23.000Z",
       "tokenAccount": "Hag8L2Rrj3xQNsuqe5vMxSxWXrScA5JMJb1h1eCm8Jzv",
-      "latestPower": "0.330258",
+      "latestPower": "0.327517",
       "share": "0.00"
     },
     {
@@ -5111,7 +5111,7 @@
       "escrowStartedAt": "2022-02-13T08:30:11.000Z",
       "escrowEndsAt": "2023-02-13T08:30:11.000Z",
       "tokenAccount": "6MmeRn8uoJ1Q1Gni2NagDP8q652fzY1s7ft2QaVr57EN",
-      "latestPower": "0.329714",
+      "latestPower": "0.326973",
       "share": "0.00"
     },
     {
@@ -5121,7 +5121,7 @@
       "escrowStartedAt": "2022-02-13T06:54:49.000Z",
       "escrowEndsAt": "2023-02-13T06:54:49.000Z",
       "tokenAccount": "79Fco1tEPE6qWMGGcDiCctPGNP9iad5LDFneRQKnTNW9",
-      "latestPower": "0.329532",
+      "latestPower": "0.326791",
       "share": "0.00"
     },
     {
@@ -5131,7 +5131,7 @@
       "escrowStartedAt": "2022-02-12T16:47:03.000Z",
       "escrowEndsAt": "2023-02-12T16:47:03.000Z",
       "tokenAccount": "HA2m1SagqFPasNf8KnQVp22GUxVUpNt7n9DdEYN4ASNC",
-      "latestPower": "0.327919",
+      "latestPower": "0.325178",
       "share": "0.00"
     },
     {
@@ -5141,7 +5141,7 @@
       "escrowStartedAt": "2022-02-12T16:46:19.000Z",
       "escrowEndsAt": "2023-02-12T16:46:19.000Z",
       "tokenAccount": "rQcFD1JGaWkpVjLNi2dLnn9CqjCJytwiWi942j3EnJW",
-      "latestPower": "0.327918",
+      "latestPower": "0.325177",
       "share": "0.00"
     },
     {
@@ -5151,7 +5151,7 @@
       "escrowStartedAt": "2022-07-22T21:19:46.000Z",
       "escrowEndsAt": "2023-07-22T21:19:46.000Z",
       "tokenAccount": "FBbZNej56yB7S6feyNrDahB6Jkt1j7QLyCFcXkH9UvxM",
-      "latestPower": "0.153358",
+      "latestPower": "0.152810",
       "share": "0.00"
     },
     {
@@ -5161,7 +5161,7 @@
       "escrowStartedAt": "2022-01-08T11:43:25.000Z",
       "escrowEndsAt": "2027-01-07T11:43:25.000Z",
       "tokenAccount": "BfromdCGpjYguJqgciSScZXXszW7ZkHww6CKSyVaiE2f",
-      "latestPower": "0.071765",
+      "latestPower": "0.071718",
       "share": "0.00"
     },
     {
@@ -5171,7 +5171,7 @@
       "escrowStartedAt": "2022-02-13T18:37:36.000Z",
       "escrowEndsAt": "2027-02-12T18:37:36.000Z",
       "tokenAccount": "BkYcBpyoBA5R5z5iM2gfcMkFS5xULdEG4Fo5ChagUQiS",
-      "latestPower": "0.043308",
+      "latestPower": "0.043281",
       "share": "0.00"
     },
     {
@@ -5181,7 +5181,7 @@
       "escrowStartedAt": "2022-01-06T17:08:29.000Z",
       "escrowEndsAt": "2027-01-05T17:08:29.000Z",
       "tokenAccount": "42Zs46stfaDzCSFXbuTNAE6hACi7McWpYsVjc4ou7v1u",
-      "latestPower": "0.042265",
+      "latestPower": "0.042238",
       "share": "0.00"
     },
     {
@@ -5191,7 +5191,7 @@
       "escrowStartedAt": "2022-02-25T03:15:32.000Z",
       "escrowEndsAt": "2027-02-24T03:15:32.000Z",
       "tokenAccount": "7JqN24UyheLQCUoZJXBc9G8rxxPBhBVjVPvmi152myMt",
-      "latestPower": "0.000676",
+      "latestPower": "0.000675",
       "share": "0.00"
     },
     {
@@ -8775,6 +8775,16 @@
       "share": "0.00"
     },
     {
+      "escrow": "7QJxFMsrfFTfsYo5grfXgbCe61G8XTqHUmvHEkpUh9bp",
+      "amount": "1.200000",
+      "owner": "8pmNZgTFrdwYgtBRezckUhjJXZZ3pZ2ma57PDJ8pozXC",
+      "escrowStartedAt": "2022-02-24T13:47:57.000Z",
+      "escrowEndsAt": "2022-03-26T13:47:57.000Z",
+      "tokenAccount": "ExJ8NDDyv9RZFx66bDWiedKDYmDmgzbdSufAt9XsCL37",
+      "latestPower": "0.000000",
+      "share": "0.00"
+    },
+    {
       "escrow": "7QnbiN7k8rFgeavPCP5yEQyrqyU1RtYX2H1RA7VvtRpF",
       "amount": "2.000000",
       "owner": "BkNRmeV3Lva61hkDuL3mqxxHbC9SEAukHkr8RMh1oT9L",
@@ -11411,16 +11421,6 @@
       "escrowStartedAt": "2022-02-21T05:49:46.000Z",
       "escrowEndsAt": "2022-02-26T05:49:46.000Z",
       "tokenAccount": "DPyz9FtvLcLai3YT7tTuAaNpJvgK5ASr2eNzAfgqyKja",
-      "latestPower": "0.000000",
-      "share": "0.00"
-    },
-    {
-      "escrow": "E8DVC6yhdwz8bUmV9gSS256d6DQy1BfRqkqNU9DxQpNp",
-      "amount": "6.000000",
-      "owner": "HyZeUktUY9kmCeBuHgLt84kEPs8Ma9uZBjoiSFxKdLq8",
-      "escrowStartedAt": "2022-02-25T00:49:59.000Z",
-      "escrowEndsAt": "2022-03-27T00:49:59.000Z",
-      "tokenAccount": "GaK8xvtyNi2KA79TSFemg61XDxrPFH4efnWoyVS7jMYS",
       "latestPower": "0.000000",
       "share": "0.00"
     },
@@ -14861,16 +14861,6 @@
       "escrowStartedAt": "2022-02-22T05:39:20.000Z",
       "escrowEndsAt": "2022-03-24T05:39:20.000Z",
       "tokenAccount": "EVSB5sZSzFdbSXseE5H6yYqB7i1an31GRdZ2P931fAjD",
-      "latestPower": "0.000000",
-      "share": "0.00"
-    },
-    {
-      "escrow": "3J2LYLqWB7bEFcsxKx2D1jBsFGft1Ar9y1VEFxg6vf7m",
-      "amount": "1.000000",
-      "owner": "4sNYufMDJV9hqp7Tg5XwkuDbgcRApF3E31gJhbnnkQS2",
-      "escrowStartedAt": "2022-02-19T07:28:12.000Z",
-      "escrowEndsAt": "2022-03-21T07:28:12.000Z",
-      "tokenAccount": "GrYsjVimAPSN6yu9LpKhK819H6QxpVibbAk3jRVCV5wB",
       "latestPower": "0.000000",
       "share": "0.00"
     },
@@ -20025,6 +20015,16 @@
       "share": "0.00"
     },
     {
+      "escrow": "E8DVC6yhdwz8bUmV9gSS256d6DQy1BfRqkqNU9DxQpNp",
+      "amount": "6.000000",
+      "owner": "HyZeUktUY9kmCeBuHgLt84kEPs8Ma9uZBjoiSFxKdLq8",
+      "escrowStartedAt": "2022-02-25T00:49:59.000Z",
+      "escrowEndsAt": "2022-03-27T00:49:59.000Z",
+      "tokenAccount": "GaK8xvtyNi2KA79TSFemg61XDxrPFH4efnWoyVS7jMYS",
+      "latestPower": "0.000000",
+      "share": "0.00"
+    },
+    {
       "escrow": "E8m9wHt3aWtzAjtCTZ3gbGrRjHkoTDyDrg7cZpUNe7th",
       "amount": "2.356805",
       "owner": "4qwAE9pKWChMFG6fv9Z9CejCXVrpMHbKTukV82GvJ4ra",
@@ -20111,6 +20111,16 @@
       "escrowStartedAt": "2022-02-12T19:05:03.000Z",
       "escrowEndsAt": "2022-02-17T19:05:03.000Z",
       "tokenAccount": "JDxzYnPEMhNzEhbaJ1CbxsFQnRvoER6KpYFTqN3RuFdc",
+      "latestPower": "0.000000",
+      "share": "0.00"
+    },
+    {
+      "escrow": "EKGrxd9uYsCbUoss9SYnTogyRArEaKgXhZKZYLxW7Bh6",
+      "amount": "1.157264",
+      "owner": "6XXtU2ve2u6p8TWbceL2uEDYnzC2FfAsFd2NKeS84NXo",
+      "escrowStartedAt": "2022-02-19T15:19:16.000Z",
+      "escrowEndsAt": "2022-03-21T15:19:16.000Z",
+      "tokenAccount": "3yBJZqFk9rsmYfDknfn1RgBXrbFCJbSqKLwVKQAKBVYh",
       "latestPower": "0.000000",
       "share": "0.00"
     },
@@ -22985,6 +22995,16 @@
       "share": "0.00"
     },
     {
+      "escrow": "3J2LYLqWB7bEFcsxKx2D1jBsFGft1Ar9y1VEFxg6vf7m",
+      "amount": "1.000000",
+      "owner": "4sNYufMDJV9hqp7Tg5XwkuDbgcRApF3E31gJhbnnkQS2",
+      "escrowStartedAt": "2022-02-19T07:28:12.000Z",
+      "escrowEndsAt": "2022-03-21T07:28:12.000Z",
+      "tokenAccount": "GrYsjVimAPSN6yu9LpKhK819H6QxpVibbAk3jRVCV5wB",
+      "latestPower": "0.000000",
+      "share": "0.00"
+    },
+    {
       "escrow": "3JJJNRWGVvSKdKCVHyPyE2tZsC7bprgVjiCt5zTM1HBc",
       "amount": "1.153164",
       "owner": "7Syscn73J73E75NNU8mop2DdviyfL4jimUhLnueLA1JS",
@@ -25041,16 +25061,6 @@
       "escrowStartedAt": "2022-02-17T16:02:27.000Z",
       "escrowEndsAt": "2022-02-22T16:02:27.000Z",
       "tokenAccount": "GRWZKPaFGvmn1fkWDA5VoJ5mydi3M9UGNy85JLvqTNEg",
-      "latestPower": "0.000000",
-      "share": "0.00"
-    },
-    {
-      "escrow": "7QJxFMsrfFTfsYo5grfXgbCe61G8XTqHUmvHEkpUh9bp",
-      "amount": "1.200000",
-      "owner": "8pmNZgTFrdwYgtBRezckUhjJXZZ3pZ2ma57PDJ8pozXC",
-      "escrowStartedAt": "2022-02-24T13:47:57.000Z",
-      "escrowEndsAt": "2022-03-26T13:47:57.000Z",
-      "tokenAccount": "ExJ8NDDyv9RZFx66bDWiedKDYmDmgzbdSufAt9XsCL37",
       "latestPower": "0.000000",
       "share": "0.00"
     },
@@ -28501,16 +28511,6 @@
       "escrowStartedAt": "2022-02-23T02:16:18.000Z",
       "escrowEndsAt": "2022-03-25T02:16:18.000Z",
       "tokenAccount": "cHUxrTd9sXpgu8YHDBp7wQEdjApfbPvxehnBRVPniLs",
-      "latestPower": "0.000000",
-      "share": "0.00"
-    },
-    {
-      "escrow": "EKGrxd9uYsCbUoss9SYnTogyRArEaKgXhZKZYLxW7Bh6",
-      "amount": "1.157264",
-      "owner": "6XXtU2ve2u6p8TWbceL2uEDYnzC2FfAsFd2NKeS84NXo",
-      "escrowStartedAt": "2022-02-19T15:19:16.000Z",
-      "escrowEndsAt": "2022-03-21T15:19:16.000Z",
-      "tokenAccount": "3yBJZqFk9rsmYfDknfn1RgBXrbFCJbSqKLwVKQAKBVYh",
       "latestPower": "0.000000",
       "share": "0.00"
     },
